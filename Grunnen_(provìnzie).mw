@@ -1,43 +1,27 @@
-<!-- ************ TABEL MET DETAILINFORMATIE ************ -->
-<!-- ** VLAG en WAPEN ** -->
-{| border=1 align=right cellpadding=4 cellspacing=0 width=280 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<big>'''Provinzie Grunnen'''</big>
-|-
-| align=center colspan="2" |
-{| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0"
-|- align=right
-|[[Bild:Flag Groningen.png|thumb|150px|Vlage van Grunnen]]
-|- align=left
-|[[Bild:WapenGroningen.gif|thumb|Woapen van Grunnen]]
-|}
-|- align=center
-| colspan="2" style="background:#ffffff;" | [[Image:Groningen-Position.png|Lokoatsie van Grunnen]]
-|-
-| '''Toalen'''
-| [[Grunnegs]], [[Nederlaands]]
-|-
-| [[Heufdstad|'''Heufdstad''']]
-| [[Grunnen (stad)|Stad Grunnen]]
-|-
-| '''Kommessoares van de Keunegin'''
-| Heer H. Aalders
-|-
-| '''Oppervlak'''<br>- [[Laand]]<br>- [[Waoter|Wotter]]
-| <br>2.336 km²<br>623 km²
-|-
-| '''Ienwoner'''<br>- Totaal <br>- Bevolkensdichtte 
-| <br>575.234 (1 jan 2005)<small> (2005)</small><br>246 inw./km²
-|-
-| '''Geogroafische Liggen'''
-| 53°13' NB 6°34' OL
-|-
-| '''Volkslaid'''
-| [[Grönnens Laid]]
-|-
-| '''Offisjeel webstee'''
-| [http://www.provinciegroningen.nl www.provinciegroningen.nl]
-|}
-<!-- ************ EINDE TABEL MET DETAILINFORMATIE ************ -->
+{{wrapper}}
+|
+{{Provinzietabel |
+noam = Grunnen|
+vlageofbeelden = [[Bild:Flag Groningen.png|150px]] |
+woapenofbeelden = [[Bild:WapenGroningen.gif]] |
+körtnoam = Grunnen |
+heufdstad = [[Grunnen (stad)|Grunnen]] |
+religiejoar = 1999|
+GPS =  53°13' [[Breedtegraad|NB]] 6°34' [[Lengtegraad|OL]] |
+Religie = [[Protestant]] 29%<br>[[Katholiek]] 7% |
+opprange = 8e|
+opp = 2.336|
+woateropp = 623|
+bewrange = 9e|
+inwoners = 575.234|
+doatum = 2005|
+bevolkensdichtheid = 246|
+Volkslaid = [[Grönnens Laid]] |
+ofbeelden = [[Bild:Groningen-Position.png|Lokoatsie van Grunnen]]|
+Kommissoares van Keunegin = Heer [[Hans Aalders]] |
+Webstee = [http://www.provinciegroningen.nl www.provinciegroningen.nl] |
+}}
+
 
 '''Grunnen''' (ook: Grunneng, Grönnen, Nederlaands: Groningen) is n provinzie in t noorden van [[Nederlaand]] mit sikkem 576.000 inwoners en as [[heufdstad]] t lieknoamege [[Grunnen (stad)|Grunnen]].
 
