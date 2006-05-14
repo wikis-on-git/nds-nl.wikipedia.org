@@ -64,7 +64,7 @@ font-size: 125%; line-height: 1.3">
 |colspan=2 bgcolor="#FFFFF0" style="border:1px solid moccasin;padding:1em;padding-top:0.5em;padding-bottom:0em; margin-right:5px;"|
 <div style="font-size:95%" id="lang-nl">
 <small>Verwaante Wikipedieën </small><br>
-<big>[[:nl:|Nederlands (Nederlaands)]] &middot; [[:fy:|Frysk (Fries)]] &middot; [[:li:|Limburgs]] &middot; [[:nds:|Plattdüütsch (Platduuts)]] &middot; [[:af:|Afrikaans (Afrikaons)]] &middot; [[:vls:|West-Vlaoms]] &middot; [[:ksh:|Ripuarisch]] &middot; [[:pap:|Papiamentu (Papiaments)]]</big>
+<big>[[:nl:|Nederlands (Nederlaands)]] &middot; [[:fy:|Frysk (Fries)]] &middot; [[:li:|Limburgs]] &middot; [[:nds:|Plattdüütsch (Platduuts)]] &middot; [[:vls:|West-Vlaoms]] &middot; [[:ksh:|Ripoarisch (Ripuarisch)]] &middot; [[:af:|Afrikaans (Afrikaons)]]</big>
 </div>
 
 <div style="font-size:95%" id="lang-250000">
@@ -137,12 +137,13 @@ font-size: 125%; line-height: 1.3">''Alle artikels staon onder de [[GNU-FDL|GNU-
 
 [[Category:Alles]]
 
+[[af:]]
 [[de:]]
 [[en:]]
-[[eo:]]
-[[es:]]
 [[fr:]]
 [[fy:]]
+[[ksh:]]
 [[li:]]
 [[nds:]]
 [[nl:]]
+[[vls:]]
