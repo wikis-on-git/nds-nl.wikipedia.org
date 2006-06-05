@@ -79,16 +79,16 @@ font-size: 125%; line-height: 1.3">
 
 <div style="font-size:95%" id="lang-25000">
 <small>Wikipedieën mit meer as 25.000 artikels</small><br>
-[[:bg:|&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080; (Bulgaors)]] &middot; [[:ca:|Catal&agrave; (Catalaons)]] &middot; [[:cs:|&#268;esk&#225; (Tsjechisch)]] &middot; [[:da:|Dansk (Deens)]] &middot; [[:eo:|Esperanto]] &middot; [[:he:|&#1506;&#1489;&#1512;&#1497;&#1514; (Hebreeuws)]] &middot; [[:no:|Norsk (Noors)]] &middot; [[:ru:|&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; (Russisch)]] &middot; [[:fi:|Suomi (Fins)]] &middot; [[:zh:|&#20013;&#25991; (Chinees)]] &middot; [[:hu:|Magyar (Hongaors)]] &middot; [[:ro:|Rom&#226;n&#259; (Roemeens)]] &middot; [[:sk:|Sloven&#269;ina (Slowaoks)]] &middot; [[:sl:|Sloven&#353;&#269;ina (Sloveens)]] &middot; [[:sr:|&#1057;&#1088;&#1087;&#1089;&#1082;&#1080; (Servisch)]] 
+[[:bg:|&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080; (Bulgaors)]] &middot; [[:ca:|Catal&agrave; (Catalaons)]] &middot; [[:cs:|&#268;esk&#225; (Tsjechisch)]] &middot; [[:da:|Dansk (Deens)]] &middot; [[:eo:|Esperanto]] &middot; [[:he:|&#1506;&#1489;&#1512;&#1497;&#1514; (Hebreeuws)]] &middot; [[:id:|Bahasa Indonesia (Indonesisch)]] &middot; [[:no:|Norsk (Noors)]] &middot; [[:ru:|&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; (Russisch)]] &middot; [[:fi:|Suomi (Fins)]] &middot; [[:zh:|&#20013;&#25991; (Chinees)]] &middot; [[:hu:|Magyar (Hongaors)]] &middot; [[:ro:|Rom&#226;n&#259; (Roemeens)]] &middot; [[:sk:|Sloven&#269;ina (Slowaoks)]] &middot; [[:sl:|Sloven&#353;&#269;ina (Sloveens)]] &middot; [[:sr:|&#1057;&#1088;&#1087;&#1089;&#1082;&#1080; (Servisch)]] &middot; [[:uk:|&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072; (Oekraïens)]]
 </div>
 
 <div style="font-size:95%" id="lang-10000">
 <small>Wikipedieën mit meer as 10.000 artikels</small><br>
-[[:ar:|العربية (Araobisch)]] &middot; [[:et:|Eesti (Ests)]] &middot; [[:fa:|فارسی (Perzisch)]] &middot; [[:gl:|Galego (Galicisch)]] &middot; [[:hr:|Hrvatski (Kroaotisch)]] &middot; [[:id:|Bahasa Indonesia (Indonesisch)]] &middot; [[:io:|Ido]] &middot; [[:ko:|&#54620;&#44397;&#50612; (Koreaons)]] &middot; [[:lt:|Lietuvių (Litouws)]] &middot; [[:ms:|Bahasa Melayu (Maleisisch)]] &middot; [[:nn:|Nynorsk (Niejnoors)]] &middot; [[:th:|ไทย (Thais)]] &middot; [[:tr:|T&uuml;rk&ccedil;e (Turks)]] &middot; [[:uk:|&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072; (Oekraïens)]]
+[[:ar:|العربية (Araobisch)]] &middot; [[:et:|Eesti (Ests)]] &middot; [[:el:|Ελληνικά (Grieks)]] &middot; [[:eu:|Euskara (Baskisch)]] &middot; [[:fa:|فارسی (Perzisch)]] &middot; [[:gl:|Galego (Galicisch)]] &middot; [[:hr:|Hrvatski (Kroatisch)]] &middot; [[:io:|Ido]] &middot; [[:is:|Íslenska (Ieslaands)]] &middot; [[:ko:|&#54620;&#44397;&#50612; (Koreaons)]] &middot; [[:lt:|Lietuvių (Litouws)]] &middot; [[:ms:|Bahasa Melayu (Maleisisch)]] &middot; [[:nn:|Nynorsk (Niejnoors)]] &middot; [[:th:|ไทย (Thais)]] &middot; [[:tr:|T&uuml;rk&ccedil;e (Turks)]]
 </div>
 
 <p id="lang-coord" style="text-align:center">
-'''[[m:List of Wikipedias|alle spraoken / taolen]]'''
+'''[[m:List of Wikipedias|alles bekieken]]'''
 </p></div></div>
 
 |- 
@@ -96,13 +96,13 @@ font-size: 125%; line-height: 1.3">
 {| align="center" cellpadding="1" class=plainlinks
 | colspan="8" align=center | Wikipedie is een prejekt van de [[Wikimedia Foundation|Wikimedia-stichting]], dee verschillende aandere [[m:Complete_list_of_Wikimedia_projects|meertaolige]] en [[Wikipedie:Auteursrechten|vrieë]] prejekten beheerd.
 |- 
-! colspan="4" | <h4>Meertaolig</h4>
-! colspan="4" | <h4>Nederlaandstaolig</h4>
+! colspan="4" | <h4>Meertalig</h4>
+! colspan="4" | <h4>Nederlaandstalig</h4>
 |- valign="top"
 | width="4%"  |[[Image:Wikimedia-logo.png|28px]]
-| width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Coördinaotie van alle Wikimedia-prejekten
+| width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Koördinaotie van alle Wikimedia-prejekten
 | width="4%"  |[[Image:Commons-logo.svg|28px]]
-| width="21%" |[[Commons:Heufdpagina|'''WikiCommons*''']]<br />Versaomeling van multimediabestaanden
+| width="21%" |[[Commons:Heufdpagina|'''WikiCommons*''']]<br />Versaomeling van multimediabestanden
 | width="4%"  |[[Image:Wiktionary-logo-en.png|28px]]
 | width="21%" |[http://nl.wiktionary.org/ '''WikiWoordenboek''']<br />Woordenboek
 | width="4%"  |[[Image:Wikibooks-logo.png|28px]]
