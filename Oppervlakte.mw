@@ -1,0 +1,80 @@
+De '''oppervlak''' (of: ''oppervlakte'') geeft an hoe groot een 2-dimensionaal gebied is. Dit kan de oppervlak wezen van een [[tweedimensionaol|tweedimensionaole]] vorm, mar oek de oppervlak van een [[driedimensionaol|driedimensionaole]] vorm.
+Oppervlak wordt oek wel ''grootte'' enoemd, mit name bie die van [[perceel|percelen]].
+
+De [[SI]]-eenheid van oppervlak is de [[vierkaante meter]], m². Disse is of-eleid van de SI-eenheid [[meter]].
+
+== Formules ==
+'t Oppervlak kan as volgt worren berekend:
+::<math>\iint dA</math> (2D-oppervlak)
+::<math>\iiint dA</math> (3D-oppervlak),
+waorbie over 't oppervlak [[integraol|geïntegreerd]] wordt.
+
+===2D===
+'t Oppervlak van enkele tweedimensionaole objecten:
+*Oppervlak van een [[vierkaant]]: lengte × lengte.
+*Oppervlak van een [[rechthoek]]: lengte × breedte.
+*Oppervlak van een [[ruut]]: hoogte × breedte.
+*Oppervlak van een [[driehoek]]: ½ × basis × hoogte.
+**'t oppervlak kan oek mit behulp van de [[formule van Heron]] berekend worren.
+*Oppervlak van een [[cirkel]]: [[pi (wiskunde)|π]] r<SUP>2</SUP> (waorin  r de straol van de cirkel is).
+
+===3D===
+'t Oppervlak van enkele driedimensionaole objecten:
+*Oppervlak van een [[kubus]]:  6 s², waorin s de lengte is van een kaant van de kubus.
+*Oppervlak van een [[balk]]: 2 ((l × w) + (l × h) + (w × h)), waorin l, w en h de lengte, breedte en hoogte bin van de balk.
+*Oppervlak van een [[bol (lichaam)|bol]]:   4 π r² waorin r de straol van de bol is.
+*Oppervlak van een [[cilinder]]: 2 π r (h + r), waorin r de straol van de cirkelvormige baosis is, en h de hoogte van de cilinder.
+*Oppervlak van een [[kegel]]: π r (r + √(r² + h²)), waorin r de straol van de cirkelvormige baosis is, en h de hoogte van de kegel.
+
+==Wiskundige ofleiding==
+Gebruukmakend van <math>A=\iint dA</math>:
+*rechthoek: <math>\int_0^b \int_0^l 1 dA = b l</math> (b: [[breedte]], l: [[lengte]])
+
+*cirkel: <math>\int_{-y}^y \int_{-\sqrt{R^2-y^2}}^{\sqrt{R^2-y^2}}dydx=\pi R^2</math>. Uuteraord is 't eleganter de cirkel [[polair]] te beschrieven, en in een polair assenstelsel te integreren!
+
+[[Categorie:West-Veluws artikel]]
+[[Categorie:Meetkunde]]
+
+[[af:Oppervlakte]]
+[[als:Fläche]]
+[[be:Плошча]]
+[[bg:Площ]]
+[[ca:Àrea]]
+[[da:Areal]]
+[[de:Fläche]]
+[[el:Έκταση]]
+[[en:Area]]
+[[eo:Areo]]
+[[et:Pindala]]
+[[fi:Pinta-ala]]
+[[fo:Vídd]]
+[[fr:Superficie]]
+[[gu:ક્ષેત્રફળ]]
+[[he:שטח]]
+[[hr:Površina]]
+[[ia:Superficie]]
+[[io:Areo]]
+[[is:Flatarmál]]
+[[ja:面積]]
+[[ka:ფართობი]]
+[[ko:면적]]
+[[la:Area]]
+[[li:Oppervlak]]
+[[lt:Plotas]]
+[[lv:Platība]]
+[[mg:Velarantany]]
+[[nl:Oppervlakte]]
+[[nn:Flatevidd]]
+[[no:Areal]]
+[[pl:Powierzchnia]]
+[[pt:Área]]
+[[ru:Площадь (геометрия)]]
+[[simple:Area]]
+[[sl:Površina]]
+[[sv:Ytmått]]
+[[ta:பரப்பளவு]]
+[[th:พื้นที่]]
+[[uk:Площа]]
+[[vi:Diện tích]]
+[[zh:面积]]
+[[zh-min-nan:Bīn-chek]]
