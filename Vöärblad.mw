@@ -14,7 +14,7 @@ font-size: 125%; line-height: 1.3">
 
 {| cellspacing="3" 
 |- valign="top" 
-|width="53%" class="MainPageBG" style="border: 1px solid #ffc9c9; color: #000; background-color: #fff3f3"|
+|width="53%" class="MainPageBG" style="border: 1px solid #B4EEB4; color: #000; background-color: mintcream"|
 <div style="padding: .4em .9em .9em">
 <font face="Verdana,Arial" size="2" color="#4A6BB5">
 <big>'''Actueel''':</big><br/></font>
@@ -33,7 +33,7 @@ font-size: 125%; line-height: 1.3">
 <big>'''Plattdüütsch''':</big><br/></font>
 <font face="Tahoma" size="2">Dit is de nedderlandsch-neddersassische Wikipedia. Neddersassisch ward vun so wat as 1,8 Millionen Minschen in de Nedderlannen snackt, all tohoop vun 12 bit 15 Millionen up all de Eerddelen, de Antarktis nich miträkent. De plattdüütsche Wikipedia kannst [[:nds:|hier]] finnen. [[Wikipedie:Nds-info|Klick hier un lääs’ ’n bäten mehr]]</font>
 </div>
-|width="47%" class="MainPageBG" style="border: 1px solid #c6c9ff; color: #000; background-color: #f0f0ff"|
+|width="47%" class="MainPageBG" style="border: 1px solid lightblue; color: #000; background-color: aliceblue"|
 <div style="clear: right; text-align: left; float: right; padding: .4em .9em .9em">
 <font face="Verdana,Arial" size="2" color="#53873D">
 <big>'''Europa''':</big><br/> 
