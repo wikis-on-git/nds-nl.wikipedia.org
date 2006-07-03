@@ -45,39 +45,6 @@ Regels veur de teengwoordige tied:
 :Zi'j + STAM + t
 
 === Een koppel vervoegde waarkwoorden ===
-==== Hebben ====
-{| {{prettytable}} width="60%"
-|- style="background: #efefef;"
-! width="15%" |Teengwoordige tied
-! width="15%" |Vleden tied
-! width="30%" |Voltooide tied
-|-
-|Ik hebbe
-|Ik hadde
-|Ik hebbe had
-|-
-|Ie hebben / Ie hebt
-|Ie hadden
-|Ie hebben (e)had / Ie hebt (e)had
-|-
-|Hi'j hef
-|Hi'j had
-|Hi'j hef (e)had
-|-
-|Wi'j hebt
-|Wi'j hadden
-|Wi'j hebt (e)had
-|-
-|Ie hebt
-|Ie hadden
-|ie hebt (e)had
-|-
-|Zi'j hebt
-|Zi'j hadden
-|Zi'j hebt (e)had
-|-
-|}
-
 ==== Wezen ====
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
@@ -111,36 +78,36 @@ Regels veur de teengwoordige tied:
 |-
 |}
 
-==== Vraogen ====
+==== Hebben ====
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Teengwoordige tied
 ! width="15%" |Vleden tied
 ! width="30%" |Voltooide tied
 |-
-|Ik vraoge
-|Ik vrögge
-|Ik hebbe vraogd
+|Ik hebbe
+|Ik hadde
+|Ik hebbe had
 |-
-|Ie vraogen / Ie vraogt
-|Ie vröggen
-|Ie hebben (e)vraogd / Ie hebt (e)vraogd
+|Ie hebben / Ie hebt
+|Ie hadden
+|Ie hebben (e)had / Ie hebt (e)had
 |-
-|Hi'j vrag
-|Hi'j vrög
-|Hi'j hef (e)vraogd
+|Hi'j hef
+|Hi'j had
+|Hi'j hef (e)had
 |-
-|Wi'j vraogt
-|Wi'j vrögt
-|Wi'j hebt (e)vraogd
+|Wi'j hebt
+|Wi'j hadden
+|Wi'j hebt (e)had
 |-
-|Ie vraogt
-|Ie vrögt
-|Ie hebt (e)vraogd
+|Ie hebt
+|Ie hadden
+|ie hebt (e)had
 |-
-|Zi'j vraogt
-|Zi'j vrögt
-|Zi'j hebt (e)vraogd
+|Zi'j hebt
+|Zi'j hadden
+|Zi'j hebt (e)had
 |-
 |}
 
@@ -174,6 +141,39 @@ Regels veur de teengwoordige tied:
 |Zi'j kieken
 |Zi'j keken
 |Zi'j hebt (e)keken
+|-
+|}
+
+==== Vraogen ====
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Teengwoordige tied
+! width="15%" |Vleden tied
+! width="30%" |Voltooide tied
+|-
+|Ik vraoge
+|Ik vrögge
+|Ik hebbe vraogd
+|-
+|Ie vraogen / Ie vraogt
+|Ie vröggen
+|Ie hebben (e)vraogd / Ie hebt (e)vraogd
+|-
+|Hi'j vrag
+|Hi'j vrög
+|Hi'j hef (e)vraogd
+|-
+|Wi'j vraogt
+|Wi'j vrögt
+|Wi'j hebt (e)vraogd
+|-
+|Ie vraogt
+|Ie vrögt
+|Ie hebt (e)vraogd
+|-
+|Zi'j vraogt
+|Zi'j vrögt
+|Zi'j hebt (e)vraogd
 |-
 |}
 
