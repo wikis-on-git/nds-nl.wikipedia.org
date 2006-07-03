@@ -112,12 +112,37 @@ De dialekten t Grunnegs binnen van west noar oost:
 :Zai hebben
 
 ==== Wezen ====
-:Ik bin
-:Doe bist
-:Hai is
-:Wie binnen
-:Joe binnen
-:Zai binnen
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik bin
+|Ik was, war
+|Ik bin/heb wèst
+|-
+|Doe bist
+|Doe wast, warst
+|Doe bist/hest wèst
+|-
+|Hai is
+|Hai was, war
+|Hai het wèst
+|-
+|Wie binnen
+|Wie wazzen, waren
+|Wie binnen/hebben wèst
+|-
+|Joe binnen
+|Joe wazzen, waren
+|Joe binnen/hebben wèst
+|-
+|Zai binnen
+|Zai wazzen, waren
+|Zai binnen/hebben wèst
+|-
+|}
 
 ==== Doun ====
 :Ik dou/du
