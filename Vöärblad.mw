@@ -1,7 +1,8 @@
-<span style="font-size: 166%;">
+<center><span style="font-size: 166%;">
 '''[[Wikipedie:Info veur niejelingen|Welkom]] op [[Wikipedia|Wikipedie]], de vrieje encyclopedie!'''
-</span>
-{| cellspacing="0" width="100%" align="center" style="border: solid 1px #BCD2EE; font-size:90%; text-align:left;"
+</span><center>
+
+{| cellspacing="0" width="100%" align="center" style="border: solid 1px #BCD2EE; font-size:90%; text-align:center;"
 |- valign="top" 
 | width="100%" bgcolor="aliceblue"|
 &nbsp;'''[[Special:Userlogin|Anmelden]]''' &middot; '''[[Special:Listusers|Gebrukers]]''' &middot; '''[[Wikipedie:Anmelding arfpachten|Anmelding arfpachten]]''' &middot; '''[[Wikipedie:Praotkefee|Praotkefee]]''' &middot; '''[[Help:Wikipedie|Hulp]]'''
