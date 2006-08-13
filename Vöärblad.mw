@@ -61,33 +61,8 @@ __NOTOC__ __NOEDITSECTION__<center><span style="font-size: 166%;">
 |-
 |colspan=2 bgcolor="#FFFFF0" style="border:1px solid moccasin;padding:1em;padding-top:0.5em;padding-bottom:0em; margin-right:5px;"|
 <div style="font-size:95%" id="lang-nl">
-<small>Verwante Wikipedieën </small><br>
-<big>[[:nl:|Nederlands (Nederlaands)]] &middot; [[:fy:|Frysk (Fries)]] &middot; [[:li:|Limburgs]] &middot; [[:nds:|Plattdüütsch (Platduuts)]] &middot; [[:vls:|West-Vlaoms]] &middot; [[:ksh:|Ripoarisch (Ripuarisch)]] &middot; [[:af:|Afrikaans]] &middot; [[:pap:|Papiamentu (Papiaments)]]</big>
+{{Heufdpagina/Interwiki's}}
 </div>
-
-<div style="font-size:95%" id="lang-250000">
-<small>Wikipedieën mit meer dan 250.000 artikels</small><br>
-<big>[[:de:|Deutsch (Duuts)]] &middot; [[:en:|English (Engels)]] &middot; [[:fr:|Fran&#231;ais (Frans)]] &middot; [[:pl:|Polski (Pools)]]</big>
-</div>
-
-<div style="font-size:95%" id="lang-100000">
-<small>Wikipedieën mit meer dan 100.000 artikels</small><br>
-<big>[[:es:|Español (Spaons)]] &middot;  [[:it:|Italiano (Italiaans)]] &middot; [[:ja:|&#26085;&#26412;&#35486; (Japans)]] &middot; [[:nl:|Nederlands (Nederlaands)]] &middot; [[:pt:|Português (Portugees)]] &middot; [[:sv:|Svenska (Zweeds)]]</big>
-</div>
-
-<div style="font-size:95%" id="lang-25000">
-<small>Wikipedieën mit meer dan 25.000 artikels</small><br>
-[[:bs:|Bosanski (Bosnisch)]] &middot; [[:bg:|&#1041;&#1098;&#1083;&#1075;&#1072;&#1088;&#1089;&#1082;&#1080; (Bulgaors)]] &middot; [[:ca:|Catal&agrave; (Catalaons)]] &middot; [[:cs:|&#268;esk&#225; (Tsjechisch)]] &middot; [[:da:|Dansk (Deens)]] &middot; [[:eo:|Esperanto]] &middot; [[:fi:|Suomi (Fins)]] &middot; [[:he:|&#1506;&#1489;&#1512;&#1497;&#1514; (Hebreeuws)]] &middot; [[:hu:|Magyar (Hongaors)]] &middot; [[:id:|Bahasa Indonesia (Indonesisch)]] &middot; [[:ko:|&#54620;&#44397;&#50612; (Koreaans)]] &middot; [[:lt:|Lietuvių (Litouws)]] &middot; [[:no:|Norsk (Noors)]] &middot; [[:ro:|Rom&#226;n&#259; (Roemeens)]] &middot; [[:ru:|&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081; (Russisch)]] &middot; [[:sk:|Sloven&#269;ina (Slowaoks)]] &middot; [[:sl:|Sloven&#353;&#269;ina (Sloveens)]] &middot; [[:sr:|&#1057;&#1088;&#1087;&#1089;&#1082;&#1080; (Servisch)]] &middot; [[:tr:|T&uuml;rk&ccedil;e (Turks)]] &middot; [[:uk:|&#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1089;&#1100;&#1082;&#1072; (Oekraïens)]] &middot; [[:zh:|&#20013;&#25991; (Chinees)]]
-</div>
-
-<div style="font-size:95%" id="lang-10000">
-<small>Wikipedieën mit meer dan 10.000 artikels</small><br>
-[[:ar:|العربية (Arabisch)]] &middot; [[:et:|Eesti (Ests)]] &middot; [[:el:|Ελληνικά (Grieks)]] &middot; [[:eu:|Euskara (Baskisch)]] &middot; [[:fa:|فارسی (Perzisch)]] &middot; [[:gl:|Galego (Galicisch)]] &middot; [[:hr:|Hrvatski (Kroatisch)]] &middot; [[:io:|Ido]] &middot; [[:is:|Íslenska (Ieslaands)]] &middot; [[:ka:|ქართული (Georgisch)]] &middot; [[:ms:|Bahasa Melayu (Maleisisch)]] &middot; [[:nn:|Nynorsk (Niejnoors)]] &middot; [[:simple:|Simple English (Vereenvoudigd Engels)]] &middot; [[:th:|ไทย (Thais)]]
-</div>
-
-<p id="lang-coord" style="text-align:center">
-'''[[m:List of Wikipedias|alles bekieken]]'''
-</p></div></div>
 
 |- 
 |colspan=2 bgcolor="white" style="border:1px solid lightgrey;padding:1em;padding-top:0.5em;padding-bottom:0em;"|
@@ -100,7 +75,7 @@ __NOTOC__ __NOEDITSECTION__<center><span style="font-size: 166%;">
 | width="4%"  |[[Image:Wikimedia-logo.png|28px]]
 | width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Koördinasie van alle Wikimedia-prejekken
 | width="4%"  |[[Image:Commons-logo.svg|28px]]
-| width="21%" |[[Commons:Heufdpagina|'''WikiCommons*''']]<br />Versaomeling van multimediabestanden
+| width="21%" |[[Commons:Heufdpagina|'''WikiCommons''']]<br />Verzaomeling van multimediabestanden
 | width="4%"  |[[Image:Wiktionary-logo-en.png|28px]]
 | width="21%" |[http://nl.wiktionary.org/ '''WikiWoordenboek''']<br />Woordenboek
 | width="4%"  |[[Image:Wikibooks-logo.png|28px]]
@@ -111,7 +86,7 @@ __NOTOC__ __NOEDITSECTION__<center><span style="font-size: 166%;">
 | width="4%"  |[[Image:Wikispecies-logo.png|28px]]
 | width="21%" |[http://species.wikipedia.org/wiki/Hoofdpagina '''WikiDiersoorten''']<br />Gids der soorten
 | width="4%"  |[[Image:Wikiquote-logo.png|28px]]
-| width="21%" |[http://nl.wikiquote.org/ '''WikiCitaoten''']<br />Versaomeling van uutspraoken
+| width="21%" |[http://nl.wikiquote.org/ '''WikiCitaoten''']<br />Verzaomeling van uutspraoken
 | width="4%"  |[[Image:Wikinews-logo.png|28px]]
 | width="21%" |[http://nl.wikinews.org/ '''WikiNiejs''']<br />Openbron-niejs
 |}
