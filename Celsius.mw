@@ -1,0 +1,114 @@
+'''Celsius''' is een [[temperatuur]]schaole. Hoewel tegenwoordig de temperatuur officieel in de [[SI]]-eenheid [[kelvin (eenheid)|kelvin]] uut-edrok möt wonnen, is '''graoden Celsius''' (°C) nog steeds een veulgebruken, en officieel toe-estaone, eenheid. An de ene kaante umda-w der heul arg an ewend bin. Mar oek umdat de dagelijkse temperaturen um ons hinne mit disse schaole in haandzaome getallen uut-edrok wonnen. [[Engels]]talige lanen gebruken veulal nog de schaole van [[Fahrenheit]] (de [[Verienigde Staoten van Amerika|Verenigde Staoten van Amerika]] en [[Jamaica]]. Oek wonnen Fahrenheit nog wel gebruuk deur de ouwere ginnerasie van 't [[Verienigd Keuninkriek|Verenigd Koninkriek]], [[Australië]], [[Zuud-Afrika]], [[Niej-Zeelaand]], [[Kannede|Canada]], en [[Ierlaand]]).
+
+Oorspronkelijk wanen de Celsiusschaole edefinieerd mit twee ijkpunten:
+*De temperatuur waorbie [[waoter]] [[vriespunt|bevries]] bie een [[luch]]drok van 1 [[Bar (druk)|bar]] is edefinieerd as 0 °C.
+*De temperatuur waorbie waoter [[kookpunt|kook]] bie een luchdrok van 1 bar is edefinieerd as 100 °C. 't Bereik hiertussen wonnen verdeeld in 100 gelieke delen.
+
+Eén graod Celsius temperatuur''verschil'' is even groot as één kelvin verschil. Echter 0,00 °C kump overene mit 273,15 K, en 100,00 °C met 373,15 K. Een temperatuur in kelvin wonnen naor graoden Celsius ummerekend deur er 273,15 vanof te trekken.
+
+Umdat zowel 't vriespunt van waoter as 't kookpunt ofhankelijk bin van de heersende luchdrok ontstung op termien behoefte an een betere definisie. Sinds dee tied is de schaole van Celsius edefinieerd deur de volgende twee punten: 
+
+* 't [[Tripelpunt]] van waoter lig per definisie bie 0,01 °C. 
+* 't Verschil tussen tweje graoden is edefinieerd an de haand van 't gedrag van een [[ideaal gas]].
+
+'t [[Tripelpunt]] is een punt waor de dreje faoses van waoter, gas, vleuistof en vaste stof, bie mekaar kunnen bestaon. 't Tripelpunt is een vaste combinasie van temperatuur en drok. 
+
+De graod Celsius is eneumd naor de [[Sveden|Zweedse]] [[steernskunde|astronoom]] [[Anders Celsius]] (1701-1774), dee disse schaole veur 't eers veurstelde in [[1742]]. Oorspronkelijk had Celsius veur ogen dat 't vriespunt van waoter bie 100 graoden zol liggen, en 't kookpunt bie 0 graoden. Aanderen, meugelijk [[Carolus Linnaeus]] of [[Daniel Ekström]] zaggen de 0 en 100 graoden liever ummekeerd.
+
+==Conversie tussen temperatuurschaolen==
+{| cellpadding="5" cellspacing="0" align="center"
+| colspan="3" align="center" |''De onderstaonde tabel geef 't verband tussen 't aantal graoden T<sub>Celsius</sub> waorin een temperatuur uut-edrok volgens de Celsius-temperatuurschaole en 't antal graoden (bieveurbeeld T<sub>Fahrenheit</sub>) waormee dee temperatuur weer-egeven wonnen volgens aandere temperatuurschaolen, en vice versa.''
+|-
+|
+|<math>\leftrightarrow</math>
+|
+|-
+!align="center"|<math>
+T_{Kelvin} = T_{Celsius} + 273,15 \!
+</math>
+|  
+!align="center"|<math>
+T_{Celsius} = T_{Kelvin} - 273,15 \! 
+</math> 
+|-
+!align="center"|<math>
+T_{Fahrenheit} = T_{Celsius} \cdot \frac{9}{5} + 32
+</math>
+|  
+!align="center"|<math>
+T_{Celsius} = (T_{Fahrenheit}-32) \cdot \frac{5}{9}
+</math> 
+|-
+!align="center"|<math>
+T_{Romer} = T_{Celsius} \cdot \frac{21}{40} + 7,5
+</math>
+|  
+!align="center"|<math>
+T_{Celsius} = (T_{Romer} - 7,5) \cdot \frac{40}{21} 
+</math> 
+|-
+!align="center"|<math>
+T_{Rankine} = T_{Celsius} \cdot \frac{9}{5} + 491,67
+</math>
+|  
+!align="center"|<math>
+T_{Celsius} = (T_{Rankine} - 491,67) \cdot \frac{5}{9} 
+</math> 
+|-
+!align="center"|<math>
+T_{Reaumur} = T_{Celsius} \cdot \frac{4}{5}
+</math>
+|  
+!align="center"|<math>
+T_{Celsius} = T_{Reaumur} \cdot \frac{5}{4} 
+</math> 
+|}
+
+== Zie ook ==
+* [[thermometer]]
+* [[Rankine]]
+* [[Réaumur]]
+* [[Rømer]]
+
+[[Categorie:West-Veluws_artikel]]
+[[Categorie:Temperatuur]]
+
+[[af:Celsius]]
+[[ar:سيلسيوس]]
+[[bs:Celzijus]]
+[[ca:Celsius]]
+[[cs:Stupeň Celsia]]
+[[da:Celsius]]
+[[de:Grad Celsius]]
+[[en:Celsius]]
+[[eo:Grado celsia]]
+[[es:Grado Celsius]]
+[[et:Celsiuse skaala]]
+[[eu:Celsius gradu]]
+[[fa:سلسیوس]]
+[[fi:Celsiusaste]]
+[[fr:Degré Celsius]]
+[[gl:Celsius]]
+[[hr:Celzijev stupanj]]
+[[hu:Celsius-skála]]
+[[id:Celsius]]
+[[is:Celsíus]]
+[[it:Celsius]]
+[[ja:セルシウス度]]
+[[ko:섭씨]]
+[[nn:Celsius]]
+[[no:Celsiusskalaen]]
+[[pl:Skala Celsjusza]]
+[[pt:Celsius]]
+[[ru:Градус Цельсия]]
+[[simple:Celsius]]
+[[sk:Stupeň Celzia]]
+[[sl:Celzijeva temperaturna lestvica]]
+[[sr:Целзијус]]
+[[sv:Grad Celsius]]
+[[ta:செல்சியஸ்]]
+[[th:องศาเซลเซียส]]
+[[tr:Santigrat]]
+[[vi:Độ Celsius]]
+[[zh:摄氏温标]]
+[[zh-min-nan:Liap-sī]]
