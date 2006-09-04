@@ -15,11 +15,11 @@ __NOTOC__ __NOEDITSECTION__<center><span style="font-size: 166%;">
 |width="53%" class="MainPageBG" style="border: 1px solid #E0EEE0; color: #000; background-color:mintcream"|
 <div style="padding: .4em .9em .9em"><font face="Verdana,Arial" size="2" color="#4A6BB5">
 <big>'''Artikel van de maond''':</big><br/></font>
-{{Artikel van de maond/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<BR/>
+<font face="trebuchet MS">{{Artikel van de maond/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}</font><BR/>
 <br clear=all>
 <font face="Verdana,Arial" size="2" color="#4A6BB5">
 <big>'''Wos jie dat...'''</big><br/></font>
-<font face="trebuchet MS">{{Wos jie dat/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}</font>
+<font face="tahoma">{{Wos jie dat/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}</font>
 <br clear=all>
 <span id="mainpage"><font face="Verdana,Arial" size="2" color="#53873D">
 <big>'''Nederlands''':</big><br/></font>
