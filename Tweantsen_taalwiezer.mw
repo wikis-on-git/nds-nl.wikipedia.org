@@ -48,10 +48,9 @@ Dit is ne '''Tweants weurdenbook''' [[Tweants]]-[[Nederlaands|Nederlands]]. Hier
 
 == Ploatsnamen ==
 
-{|
-|- style="background:#abcdef;"
-! Int plat
-! Int Nederlands
+{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | In t Tweants
+! style="background-color:#abcdef" | In t Neerlaands
 |-
 | Maarkel
 | Markelo
