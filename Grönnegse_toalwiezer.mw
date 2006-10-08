@@ -2151,10 +2151,9 @@ t Bievouglieks noamwoord ''poepen'' ken binoa achter elke volksnoam zet worden o
 
 == Geogroafie ==
 === Ploatsnoamen ===
-{| {{prettytable}} width="50%"
-|- style="background: #efefef;"
-! width="25%" |Grunnegs
-! width="25%" |Nederlaands
+{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+! style="background-color:#abcdef" |Grunnegs
+! style="background-color:#abcdef" |Nederlaands
 |-
 |[[Aikamp]]
 |Ekamp
