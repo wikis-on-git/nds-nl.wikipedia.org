@@ -1,0 +1,537 @@
+De '''ISO 3166-1'''-norm is et eerste diel van [[ISO 3166]] en leit alle [[lanen van de wereld]] vaaste mit unieke driecieferige laandkodes, drieletterige laandkodes en twieletterige laandkodes. 
+
+De dadde kelom (twie (kleine) letters) wodt ok bruukt as [[top-level-domein|internettop-level-domein]] &mdash;&nbsp;mit uutzundering van de kode van et [[Verienigd Keuninkriek]], waor as top-level '''UK''' bruukt wodt, en de [[Verienigde Staoten van Amerika|Verienigde Staoten van Amerike]], waor veurnaemelik .COM, .NET, .ORG, .GOV, .INT en .MIL bruukt wodden.
+
+==ISO-laandkodes==
+{| class="prettytable"
+! Nómmer || colspan="2" | Codes || Land
+|-
+|004 ||AFG ||AF ||[[Ofbeelding:Flag of Afghanistan.svg|20px|Vlagge van Afghanistan]]&nbsp;[[Afghanistan]]
+|-
+|248 ||ALA ||AX ||[[Ofbeelding:Flag of Aaland.svg|20px|Vlagge van Åland]]&nbsp;[[Ålandseilanen]]
+|-
+|008 ||ALB ||AL ||[[Ofbeelding:Flag of Albania.svg|20px|Vlagge van Albanië]]&nbsp;[[Albanië]]
+|-
+|012 ||DZA ||DZ ||[[Ofbeelding:Flag of Algeria.svg|20px|Vlagge van Algerije]]&nbsp;[[Algerije]]
+|-
+|016 ||ASM ||AS ||[[Ofbeelding:Flag of American Samoa.svg|20px|Vlagge van Amerikaans-Samoa]]&nbsp;[[Amerikaans Samoa]]
+|-
+|850 ||VIR ||VI ||[[Ofbeelding:Flag of the United States Virgin Islands.svg|20px|Vlagge van Amerikaanse Maagdeneilanen]]&nbsp;[[Amerikaanse Maagdeneilanen]]
+|-
+|020 ||AND ||AD ||[[Ofbeelding:Flag of Andorra.svg|20px|Vlagge van Andorra]]&nbsp;[[Andorra]]
+|-
+|024 ||AGO ||AO ||[[Ofbeelding:Flag of Angola.svg|20px|Vlagge van Angola]]&nbsp;[[Angola]]
+|-
+|660 ||AIA ||AI ||[[Ofbeelding:Flag of Anguilla.svg|20px|Vlagge van Anguilla]]&nbsp;[[Anguilla (eilaand)|Anguilla]]
+|-
+|010 ||ATA ||AQ ||[[Ofbeelding:Flag of Antarctica.svg|20px|Vlagge van Antarktika]]&nbsp;[[Antarktika]]
+|-
+|028 ||ATG ||AG ||[[Ofbeelding:Flag of Antigua and Barbuda.svg|20px|Vlagge van Antigua en Barbuda]]&nbsp;[[Antigua en Barbuda]]
+|-
+|032 ||ARG ||AR ||[[Ofbeelding:Flag of Argentina.svg|20px|Vlagge van Argentinië]]&nbsp;[[Argentinië]]
+|-
+|051 ||ARM ||AM ||[[Ofbeelding:Flag of Armenia.svg|20px|Vlagge van Armenië]]&nbsp;[[Armenië]]
+|-
+|533 ||ABW ||AW ||[[Ofbeelding:Flag of Aruba.svg|20px|Vlagge van Aruba]]&nbsp;[[Aruba]]
+|-
+|036 ||AUS ||AU ||[[Ofbeelding:Flag of Australia.svg|20px|Vlagge van Australië]]&nbsp;[[Australië]]
+|-
+|031 ||AZE ||AZ ||[[Ofbeelding:Flag of Azerbaijan.svg|20px|Vlagge van Azerbeidzjan]] [[Azerbeidzjan]]
+|-
+|044 ||BHS ||BS ||[[Ofbeelding:Flag of the Bahamas.svg|20px|Vlagge van Bahama's]]&nbsp;[[Bahama-eilanen|Bahama's]]
+|-
+|048 ||BHR ||BH ||[[Ofbeelding:Flag of Bahrain.svg|20px|Vlagge van Bahrein]]&nbsp;[[Bahrein]] 
+|-
+|050 ||BGD ||BD ||[[Ofbeelding:Flag of Bangladesh.svg|20px|Vlagge van Bangladesh]]&nbsp;[[Bangladesh]]
+|-
+|052 ||BRB ||BB ||[[Ofbeelding:Flag of Barbados.svg|20px|Vlagge van Barbados]]&nbsp;[[Barbados]]
+|-
+|056 ||BEL ||BE ||[[Ofbeelding:Flag of Belgium (civil).svg|20px|Vlagge van België]]&nbsp;[[België]]
+|-
+|084 ||BLZ ||BZ ||[[Ofbeelding:Flag of Belize.svg|20px|Vlagge van Belize]]&nbsp;[[Belize (land)|Belize]] 
+|-
+|204 ||BEN ||BJ ||[[Ofbeelding:Flag of Benin.svg|20px|Vlagge van Benin]]&nbsp;[[Benin]] 
+|-
+|060 ||BMU ||BM ||[[Ofbeelding:Flag of Bermuda.svg|20px|Vlagge van Bermuda]]&nbsp;[[Bermuda]] 
+|-
+|064 ||BTN ||BT ||[[Ofbeelding:Flag of Bhutan.svg|20px|Vlagge van Bhutan]]&nbsp;[[Bhutan]] 
+|-
+|068 ||BOL ||BO ||[[Ofbeelding:Flag of Bolivia.svg|20px|Vlagge van Bolivia]]&nbsp;[[Bolivia]]
+|-
+|070 ||BIH ||BA ||[[Ofbeelding:Flag of Bosnia and Herzegovina.svg|20px|Vlagge van Bosnië-Herzegovina]]&nbsp;[[Bosnië-Herzegovina]]
+|-
+|072 ||BWA ||BW ||[[Ofbeelding:Flag of Botswana.svg|20px|Vlagge van Botswana]]&nbsp;[[Botswana]]
+|-
+|074 ||BVT ||BV ||[[Ofbeelding:Flag of Norway.svg|20px|Vlagge van Noorwegen]]&nbsp;[[Bouvet]] 
+|-
+|076 ||BRA ||BR ||[[Ofbeelding:Flag of Brazil.svg|20px|Vlagge van Brazilië]]&nbsp;[[Brazilië]] 
+|-
+|092 ||IOT ||IO ||[[Ofbeelding:Flag of the British Indian Ocean Territory.svg|20px|Vlagge van Brits Territorium in de Indische Oceaan]]&nbsp;[[Brits Territorium in de Indische Oceaan]]
+|-
+|092 ||VGB ||VG ||[[Ofbeelding:Flag of the British Virgin Islands.svg|20px|Vlagge van Britse Maagdeneilanen]]&nbsp;[[Britse Maagdeneilanen]]
+|-
+|096 ||BRN ||BN ||[[Ofbeelding:Flag of Brunei.svg|20px|Vlagge van Brunei]]&nbsp;[[Brunei]] 
+|-
+|100 ||BGR ||BG ||[[Ofbeelding:Flag of Bulgaria.svg|20px|Vlagge van Bulgarije]]&nbsp;[[Bulgarije]] 
+|-
+|854 ||BFA ||BF ||[[Ofbeelding:Flag of Burkina Faso.svg|20px|Vlagge van Burkina Faso]]&nbsp;[[Burkina Faso]] 
+|-
+|108 ||BDI ||BI ||[[Ofbeelding:Flag of Burundi.svg|20px|Vlagge van Burundi]]&nbsp;[[Burundi]] 
+|-
+|116 ||KHM ||KH ||[[Ofbeelding:Flag of Cambodia.svg|20px|Vlagge van Kambodja]]&nbsp;[[Kambodja]]
+|-
+|124 ||CAN ||CA ||[[Image:Flag of Canada.svg|20px|Vlagge van Canada]]&nbsp;[[Canada]]
+|-
+|136 ||CYM ||KY ||[[Ofbeelding:Flag of the Cayman Islands.svg|20px|Vlagge van Kaaimaneilanen]]&nbsp;[[Kaaimaneilanen]]
+|-
+|140 ||CAF ||CF ||[[Ofbeelding:Flag of the Central African Republic.svg|20px|Vlagge van Centraol-Afrikaanse Rippebliek]]&nbsp;[[Centraol-Afrikaanse Rippebliek]]
+|-
+|152 ||CHL ||CL ||[[Ofbeelding:Flag of Chile.svg|20px|Vlagge van Chili]]&nbsp;[[Chili]]
+|-
+|156 ||CHN ||CN ||[[Ofbeelding:Flag of the People's Republic of China.svg|20px|Vlagge van China]]&nbsp;[[Volksrippebliek China|China]]
+|-
+|162 ||CXR ||CX ||[[Ofbeelding:Flag of Christmas Island.svg|20px|Vlagge van Christmaseilaand]]&nbsp;[[Christmaseilaand]]
+|-
+|166 ||CCK ||CC ||[[Ofbeelding:Flag of the Cocos (Keeling) Islands.svg|20px|Vlagge van Kokoseilanen]]&nbsp;[[Kokoseilanen]]
+|-
+|170 ||COL ||CO ||[[Ofbeelding:Flag of Colombia.svg|20px|Vlagge van Kolombia]]&nbsp;[[Kolombia]]
+|-
+|174 ||COM ||KM ||[[Ofbeelding:Flag of the Comoros.svg|20px|Vlagge van de Komoren]]&nbsp;[[Komoren]]
+|-
+|178 ||COG ||CG ||[[Ofbeelding:Flag of the Republic of the Congo.svg|20px|Vlagge van Kongo-Brazzaville]]&nbsp;[[Kongo-Brazzaville]]
+|-
+|180 ||COD ||CD ||[[Ofbeelding:Flag of the Democratic Republic of the Congo.svg|20px|Vlagge van Kongo-Kinshasa]]&nbsp;[[Kongo-Kinshasa]]
+|-
+|184 ||COK ||CK ||[[Ofbeelding:Flag of the Cook Islands.svg|20px|Vlagge van Cookeilanen]]&nbsp;[[Cookeilanen]]
+|-
+|188 ||CRI ||CR ||[[Ofbeelding:Flag of Costa Rica (state).svg|20px|Vlagge van Kosta Rika]]&nbsp;[[Kosta Rika]]
+|-
+|192 ||CUB ||CU ||[[Ofbeelding:Flag of Cuba.svg|20px|Vlagge van Kuba]]&nbsp;[[Kuba (laand)|Kuba]]
+|-
+|196 ||CYP ||CY ||[[Ofbeelding:Flag of Cyprus.svg|20px|Vlagge van Cyprus]]&nbsp;[[Cyprus]]
+|-
+|208 ||DNK ||DK ||[[Ofbeelding:Flag of Denmark.svg|20px|Vlagge van Denemarken]]&nbsp;[[Denemarken]]
+|-
+|262 ||DJI ||DJ ||[[Ofbeelding:Flag of Djibouti.svg|20px|Vlagge van Djiboeti]]&nbsp;[[Djiboeti]]
+|-
+|212 ||DMA ||DM ||[[Ofbeelding:Flag of Dominica.svg|20px|Vlagge van Dominika]]&nbsp;[[Dominika]]
+|-
+|214 ||DOM ||DO ||[[Ofbeelding:Flag of the Dominican Republic.svg|20px|Vlagge van de Dominikaanse Rippebliek]]&nbsp;[[Dominikaanse Rippebliek]]
+|-
+|276 ||DEU ||DE ||[[Ofbeelding:Flag of Germany.svg|20px|Vlagge van Duutslaand]]&nbsp;[[Duutslaand]]
+|-
+|218 ||ECU ||EC ||[[Ofbeelding:Flag of Ecuador.svg|20px|Vlagge van Ecuador]]&nbsp;[[Ecuador]]
+|-
+|818 ||EGY ||EG ||[[Ofbeelding:Flag of Egypt.svg|20px|Vlagge van Iegypte]]&nbsp;[[Iegypte (laand)|Iegypte]]
+|-
+|222 ||SLV ||SV ||[[Ofbeelding:Flag of El Salvador.svg|20px|Vlagge van El Salvador]]&nbsp;[[El Salvador]]
+|-
+|226 ||GNQ ||GQ ||[[Image:Flag of Equatorial Guinea.svg|20px|Vlagge van Equatoriaol Guinee]]&nbsp;[[Equatoriaol Guinee]]
+|-
+|232 ||ERI ||ER ||[[Ofbeelding:Flag of Eritrea.svg|20px|Vlagge van Eritrea]]&nbsp;[[Eritrea]]
+|-
+|233 ||EST ||EE ||[[Ofbeelding:Flag of Estonia.svg|20px|Vlagge van Estlaand]]&nbsp;[[Estlaand]]
+|-
+|231 ||ETH ||ET ||[[Ofbeelding:Flag of Ethiopia.svg|20px|Vlagge van Ethiopië]]&nbsp;[[Ethiopië]]
+|-
+|234 ||FRO ||FO ||[[Ofbeelding:Flag of the Faroe Islands.svg|20px|Vlagge van de Faeröer]]&nbsp;[[Faeröer]]
+|-
+|238 ||FLK ||FK ||[[Ofbeelding:Flag of the Falkland Islands.svg|20px|Vlagge van Falklaandeilanen]]&nbsp;[[Falklaandeilanen]]
+|-
+|242 ||FJI ||FJ ||[[Ofbeelding:Flag of Fiji.svg|20px|Vlagge van Fiji]]&nbsp;[[Fiji]]
+|-
+|608 ||PHL ||PH ||[[Ofbeelding:Flag of the Philippines.svg|20px|Vlagge van Filipienen]]&nbsp;[[Filipienen]]
+|-
+|246 ||FIN ||FI ||[[Ofbeelding:Flag of Finland.svg|20px|Vlagge van Finlaand]]&nbsp;[[Finlaand]]
+|-
+|250 ||FRA ||FR ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Frankriek|Fraankriek]]
+|-
+|254 ||GUF ||GF ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Fraans-Guyana]]
+|-
+|258 ||PYF ||PF ||[[Ofbeelding:Flag of French Polynesia.svg|20px|Vlagge van Fraans-Polynesië]]&nbsp;[[Fraans-Polynesië]]
+|-
+|260 ||ATF ||TF ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Fraanse Zudelike en Antarktische Gebieden]]
+|-
+|266 ||GAB ||GA ||[[Ofbeelding:Flag of Gabon.svg|20px|Vlagge van Gabon]]&nbsp;[[Gabon]]
+|-
+|270 ||GMB ||GM ||[[Ofbeelding:Flag of The Gambia.svg|20px|Vlagge van Gambia]]&nbsp;[[Gambia]]
+|-
+|268 ||GEO ||GE ||[[Ofbeelding:Flag of Georgia.svg|20px|Vlagge van Georgië]]&nbsp;[[Georgië]]
+|-
+|288 ||GHA ||GH ||[[Ofbeelding:Flag of Ghana.svg|20px|Vlagge van Ghana]]&nbsp;[[Ghana]]
+|-
+|292 ||GIB ||GI ||[[Ofbeelding:Flag of Gibraltar.svg|20px|Vlagge van Gibraltar]]&nbsp;[[Gibraltar]]
+|-
+|308 ||GRD ||GD ||[[Ofbeelding:Flag of Grenada.svg|20px|Vlagge van Grenada]]&nbsp;[[Grenada]]
+|-
+|300 ||GRC ||GR ||[[Ofbeelding:Flag of Greece.svg|20px|Vlagge van Griekelaand]]&nbsp;[[Griekenlaand|Griekelaand]]
+|-
+|304 ||GRL ||GL ||[[Ofbeelding:Flag of Greenland.svg|20px|Vlagge van Greunlaand]]&nbsp;[[Greunlaand]]
+|-
+|312 ||GLP ||GP ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Guadeloupe]]
+|-
+|831 ||GGY ||GG ||[[Ofbeelding:Flag of Guernsey.svg|20px|Vlagge van Guernsey]]&nbsp;[[Guernsey]]
+|-
+|316 ||GUM ||GU ||[[Ofbeelding:Flag of Guam.svg|20px|Vlagge van Guam]]&nbsp;[[Guam]]
+|-
+|320 ||GTM ||GT ||[[Ofbeelding:Flag of Guatemala.svg|20px|Vlagge van Guatemala]]&nbsp;[[Guatemala]]
+|-
+|324 ||GIN ||GN ||[[Ofbeelding:Flag of Guinea.svg|20px|Vlagge van Guinee]]&nbsp;[[Guinee]]
+|-
+|624 ||GNB ||GW ||[[Ofbeelding:Flag of Guinea-Bissau.svg|20px|Vlagge van Guinee-Bissau]]&nbsp;[[Guinee-Bissau]]
+|-
+|328 ||GUY ||GY ||[[Ofbeelding:Flag of Guyana.svg|20px|Vlagge van Guyana]]&nbsp;[[Guyana]]
+|-
+|332 ||HTI ||HT ||[[Ofbeelding:Flag of Haiti.svg|20px|Vlagge van Haïti]]&nbsp;[[Haïti]]
+|-
+|334 ||HMD ||HM ||[[Ofbeelding:Flag of Australia.svg|20px|Vlagge van Australië]]&nbsp;[[Heard en McDonaldeilanen]]
+|-
+|340 ||HND ||HN ||[[Ofbeelding:Flag of Honduras.svg|20px|Vlagge van Honduras]]&nbsp;[[Honduras]]
+|-
+|348 ||HUN ||HU ||[[Ofbeelding:Flag of Hungary.svg|20px|Vlagge van Hongarije]]&nbsp;[[Hongaarnlaand|Hongarije]]
+|-
+|344 ||HKG ||HK ||[[Ofbeelding:Flag_of_Hong_Kong.svg|20px|Vlagge van Hongkong]]&nbsp;[[Hongkong]]
+|-
+|372 ||IRL ||IE ||[[Ofbeelding:Flag of Ireland.svg|20px|Vlagge van Ierlaand]]&nbsp;[[Ierlaand]]
+|-
+|352 ||ISL ||IS ||[[Ofbeelding:Flag of Iceland.svg|20px|Vlagge van Ieslaand]]&nbsp;[[Ieslaand]]
+|-
+|356 ||IND ||IN ||[[Ofbeelding:Flag of India.svg|20px|Vlagge van India]]&nbsp;[[India]]
+|-
+|360 ||IDN ||ID ||[[Ofbeelding:Flag of Indonesia.svg|20px|Vlagge van Indonesië]]&nbsp;[[Indonezie|Indonesië]]
+|-
+|368 ||IRQ ||IQ ||[[Ofbeelding:Flag of Iraq.svg|20px|Vlagge van Irak]]&nbsp;[[Irak]]
+|-
+|364 ||IRN ||IR ||[[Ofbeelding:Flag of Iran.svg|20px|Vlagge van Iran]]&nbsp;[[Iran]]
+|-
+|833 ||IMN ||IM ||[[Ofbeelding:Flag of the Isle of Man.svg|20px|Vlagge van Isle of Man]]&nbsp;[[Isle of Man]]
+|-
+|376 ||ISR ||IL ||[[Ofbeelding:Flag of Israel.svg|20px|Vlagge van Israël]]&nbsp;[[Israël]]
+|-
+|380 ||ITA ||IT ||[[Ofbeelding:Flag of Italy.svg|20px|Vlagge van Italië]]&nbsp;[[Itoalie|Italië]]
+|-
+|384 ||CIV ||CI ||[[Ofbeelding:Flag of Cote d'Ivoire.svg|20px|Vlagge van Ivoorkust]]&nbsp;[[Ivoorkust]]
+|-
+|388 ||JAM ||JM ||[[Ofbeelding:Flag of Jamaica.svg|20px|Vlagge van Jamaika]]&nbsp;[[Jamaika]]
+|-
+|392 ||JPN ||JP ||[[Ofbeelding:Flag of Japan.svg|20px|Vlagge van Japan]]&nbsp;[[Japan]]
+|-
+|887 ||YEM ||YE ||[[Ofbeelding:Flag of Yemen.svg|20px|Vlagge van Jemen]]&nbsp;[[Jemen]]
+|-
+|832 ||JEY ||JE ||[[Ofbeelding:Flag of Jersey.svg|20px|Vlagge van Jersey]] [[Jersey]]
+|-
+|400 ||JOR ||JO ||[[Ofbeelding:Flag of Jordan.svg|20px|Vlagge van Jordanië]]&nbsp;[[Jordanië]]
+|-
+|132 ||CPV ||CV ||[[Ofbeelding:Flag of Cape Verde.svg|20px|Vlagge van Kaapverdië]]&nbsp;[[Kaapverdië]]
+|-
+|120 ||CMR ||CM ||[[Ofbeelding:Flag of Cameroon.svg|20px|Vlagge van Kameroen]]&nbsp;[[Kameroen]]
+|-
+|398 ||KAZ ||KZ ||[[Ofbeelding:Flag of Kazakhstan.svg|20px|Vlagge van Kazachstan]]&nbsp;[[Kazachstan]]
+|-
+|404 ||KEN ||KE ||[[Ofbeelding:Flag of Kenya.svg|20px|Vlagge van Kenia]]&nbsp;[[Kenia]]
+|-
+|417 ||KGZ ||KG ||[[Ofbeelding:Flag of Kyrgyzstan.svg|20px|Vlagge van Kirgizië]]&nbsp;[[Kirgizië]]
+|-
+|296 ||KIR ||KI ||[[Ofbeelding:Flag of Kiribati.svg|20px|Vlagge van Kiribati]]&nbsp;[[Kiribati]]
+|-
+|414 ||KWT ||KW ||[[Ofbeelding:Flag of Kuwait.svg|20px|Vlagge van Koeweit]]&nbsp;[[Koeweit]]
+|-
+|191 ||HRV ||HR ||[[Ofbeelding:Flag of Croatia.svg|20px|Vlagge van Kroatië]]&nbsp;[[Kroatië]]
+|-
+|418 ||LAO ||LA ||[[Ofbeelding:Flag of Laos.svg|20px|Vlagge van Laos]]&nbsp;[[Laos]]
+|-
+|426 ||LSO ||LS ||[[Ofbeelding:Flag of Lesotho.svg|20px|Vlagge van Lesotho]]&nbsp;[[Lesotho]]
+|-
+|428 ||LVA ||LV ||[[Ofbeelding:Flag of Latvia.svg|20px|Vlagge van Letlaand]]&nbsp;[[Letlaand]]
+|-
+|422 ||LBN ||LB ||[[Ofbeelding:Flag of Lebanon.svg|20px|Vlagge van Libanon]]&nbsp;[[Libanon]]
+|-
+|430 ||LBR ||LR ||[[Ofbeelding:Flag of Liberia.svg|20px|Vlagge van Liberia]]&nbsp;[[Liberia]]
+|-
+|434 ||LBY ||LY ||[[Ofbeelding:Flag of Libya.svg|20px|Vlagge van Libië]]&nbsp;[[Libië]]
+|-
+|438 ||LIE ||LI ||[[Ofbeelding:Flag of Liechtenstein.svg|20px|Vlagge van Liechtenstein]]&nbsp;[[Liechtenstein]]
+|-
+|440 ||LTU ||LT ||[[Ofbeelding:Flag of Lithuania.svg|20px|Vlagge van Litouwen]]&nbsp;[[Litouwen]]
+|-
+|442 ||LUX ||LU ||[[Ofbeelding:Flag of Luxembourg.svg|20px|Vlagge van Luxemburg]]&nbsp;[[Luxemburg (land)|Luxemburg]]
+|-
+|446 ||MAC ||MO ||[[Ofbeelding:Flag of Macau.svg|20px|Vlagge van Macau]]&nbsp;[[Macau]]
+|-
+|807 ||MKD ||MK ||[[Ofbeelding:Flag of Macedonia.svg|20px|Vlagge van Macedonië]]&nbsp;[[Macedonië (land)|Macedonië]]
+|-
+|450 ||MDG ||MG ||[[Ofbeelding:Flag_of_Madagascar.svg|20px|Vlagge van Madagaskar]]&nbsp;[[Madagaskar]]
+|-
+|454 ||MWI ||MW ||[[Ofbeelding:Flag of Malawi.svg|20px|Vlagge van Malawi]]&nbsp;[[Malawi]]
+|-
+|462 ||MDV ||MV ||[[Ofbeelding:Flag of Maldives.svg|20px|Vlagge van Malediven]]&nbsp;[[Malediven]]
+|-
+|458 ||MYS ||MY ||[[Ofbeelding:Flag of Malaysia.svg|20px|Vlagge van Maleisië]]&nbsp;[[Maleisië]]
+|-
+|466 ||MLI ||ML ||[[Ofbeelding:Flag of Mali.svg|20px|Vlagge van Mali]]&nbsp;[[Mali]]
+|-
+|470 ||MLT ||MT ||[[Ofbeelding:Flag of Malta.svg|20px|Vlagge van Malta]]&nbsp;[[Malta]]
+|-
+|504 ||MAR ||MA ||[[Ofbeelding:Flag of Morocco.svg|20px|Vlagge van Marokko]]&nbsp;[[Marokko]]
+|-
+|584 ||MHL ||MH ||[[Ofbeelding:Flag of the Marshall Islands.svg|20px|Vlagge van Marshalleilanen]]&nbsp;[[Marshalleilanen]]
+|-
+|474 ||MTQ ||MQ ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Martinique]]
+|-
+|478 ||MRT ||MR ||[[Ofbeelding:Flag of Mauritania.svg|20px|Vlagge van Mauritanië]]&nbsp;[[Mauritanië]]
+|-
+|480 ||MUS ||MU ||[[Ofbeelding:Flag of Mauritius.svg|20px|Vlagge van Mauritius]]&nbsp;[[Mauritius]]
+|-
+|175 ||MYT ||YT ||[[Ofbeelding:Flag of the Comoros.svg|20px|Vlagge van de Komoren (inklusief Mayotte)]]&nbsp;[[Mayotte]]
+|-
+|484 ||MEX ||MX ||[[Ofbeelding:Flag of Mexico.svg|20px|Vlagge van Mexico]]&nbsp;[[Mexico (laand)|Mexico]]
+|-
+|583 ||FSM ||FM ||[[Ofbeelding:Flag of Micronesia.svg|20px|Vlagge van Micronesia]]&nbsp;[[Micronesia]]
+|-
+|498 ||MDA ||MD ||[[Ofbeelding:Flag of Moldova.svg|20px|Vlagge van Moldavië]]&nbsp;[[Moldavië]]
+|-
+|492 ||MCO ||MC ||[[Ofbeelding:Flag of Monaco.svg|20px|Vlagge van Monako]]&nbsp;[[Monaco|Monako]]
+|-
+|496 ||MNG ||MN ||[[Ofbeelding:Flag of Mongolia.svg|20px|Vlagge van Mongolië]]&nbsp;[[Mongolië]]
+|-
+|500 ||MSR ||MS ||[[Ofbeelding:Flag of Montserrat.svg|20px|Vlagge van Montserrat]]&nbsp;[[Montserrat]]
+|-
+|508 ||MOZ ||MZ ||[[Ofbeelding:Flag of Mozambique.svg|20px|Vlagge van Mozambique]]&nbsp;[[Mozambique]]
+|-
+|104 ||MMR ||MM ||[[Ofbeelding:Flag of Myanmar.svg|20px|Vlagge van Myanmar]]&nbsp;[[Myanmar]]
+|-
+|516 ||NAM ||NA ||[[Ofbeelding:Flag of Namibia.svg|20px|Vlagge van Namibië]]&nbsp;[[Namibië]]
+|-
+|520 ||NRU ||NR ||[[Ofbeelding:Flag of Nauru.svg|20px|Vlagge van Nauru]]&nbsp;[[Nauru]]
+|-
+|528 ||NLD ||NL ||[[Ofbeelding:Flag of the Netherlands.svg|20px|Vlagge van Nederlaand]]&nbsp;[[Nederlaand]]
+|-
+|530 ||ANT ||AN ||[[Ofbeelding:Flag of the Netherlands Antilles.svg|20px|Vlagge van Nederlaanse Antillen]]&nbsp;[[Nederlaanse Antillen]]
+|-
+|524 ||NPL ||NP ||[[Ofbeelding:Flag of Nepal.svg|20px|Vlagge van Nepal]]&nbsp;[[Nepal]]
+|-
+|558 ||NIC ||NI ||[[Ofbeelding:Flag of Nicaragua.svg|20px|Vlagge van Nicaragua]]&nbsp;[[Nicaragua]]
+|-
+|540 ||NCL ||NC ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Ni'j-Kaledonië]]
+|-
+|554 ||NZL ||NZ ||[[Ofbeelding:Flag of New Zealand.svg|20px|Vlagge van Ni'j-Zeelaand]]&nbsp;[[Ni'j-Zeelaand]]
+|-
+|562 ||NER ||NE ||[[Ofbeelding:Flag of Niger.svg|20px|Vlagge van Niger]]&nbsp;[[Niger (laand)|Niger]]
+|-
+|566 ||NGA ||NG ||[[Ofbeelding:Flag of Nigeria.svg|20px|Vlagge van Nigeria]]&nbsp;[[Nigeria]]
+|-
+|570 ||NIU ||NU ||[[Ofbeelding:Flag of Niue.svg|20px|Vlagge van Niue]]&nbsp;[[Niue]]
+|-
+|580 ||MNP ||MP ||[[Ofbeelding:Flag of the Northern Mariana Islands.svg|20px|Vlagge van Noordelike Mariane]]&nbsp;[[Noordelike Mariane]]
+|-
+|408 ||PRK ||KP ||[[Ofbeelding:Flag_of_North_Korea.svg|20px|Vlagge van Noord-Korea]]&nbsp;[[Noord-Korea]]
+|-
+|578 ||NOR ||NO ||[[Ofbeelding:Flag of Norway.svg|20px|Vlagge van Noorwegen]]&nbsp;[[Noorwegen]]
+|-
+|574 ||NFK ||NF ||[[Ofbeelding:Flag of Norfolk Island.svg|20px|Vlagge van Norfolkeilaand]]&nbsp;[[Norfolk (eilaand)|Norfolk]]
+|-
+|800 ||UGA ||UG ||[[Ofbeelding:Flag of Uganda.svg|20px|Vlagge van Oeganda]]&nbsp;[[Oeganda]]
+|-
+|804 ||UKR ||UA ||[[Ofbeelding:Flag of Ukraine.svg|20px|Vlagge van Oekraïne]]&nbsp;[[Oekraïne]]
+|-
+|860 ||UZB ||UZ ||[[Ofbeelding:Flag of Uzbekistan.svg|20px|Vlagge van Oezbekistan]]&nbsp;[[Oezbekistan]]
+|-
+|512 ||OMN ||OM ||[[Ofbeelding:Flag of Oman.svg|20px|Vlagge van Oman]]&nbsp;[[Oman]]
+|-
+|040 ||AUT ||AT ||[[Ofbeelding:Flag of Austria.svg|20px|Vlagge van Oostenriek]]&nbsp;[[Oostnriek|Oostenriek]]
+|-
+|626 ||TLS ||TL ||[[Ofbeelding:Flag_of_East_Timor.svg|20px|Vlagge van Oos-Timor]]&nbsp;[[Oos-Timor]]
+|-
+|586 ||PAK ||PK ||[[Ofbeelding:Flag_of_Pakistan.svg|20px|Vlagge van Pakistan]]&nbsp;[[Pakistan]]
+|-
+|585 ||PLW ||PW ||[[Ofbeelding:Flag of Palau.svg|20px|Vlagge van Palau]]&nbsp;[[Palau (land)|Palau]]
+|-
+|275 ||PSE ||PS ||[[Ofbeelding:Flag of Palestine.svg|20px|Vlagge van Palestina]]&nbsp;[[Palestiense Autoriteit]]
+|-
+|591 ||PAN ||PA ||[[Ofbeelding:Flag of Panama.svg|20px|Vlagge van Panama]]&nbsp;[[Panama (land)|Panama]]
+|-
+|598 ||PNG ||PG ||[[Ofbeelding:Flag of Papua New Guinea.svg|20px|Vlagge van Papoea-Nui-Guinea]]&nbsp;[[Papoea-Nui-Guinea]]
+|-
+|600 ||PRY ||PY ||[[Ofbeelding:Flag of Paraguay.svg|20px|Vlagge van Paraguay]]&nbsp;[[Paraguay]]
+|-
+|604 ||PER ||PE ||[[Ofbeelding:Flag of Peru.svg|20px|Vlagge van Peru]]&nbsp;[[Peru (laand)|Peru]]
+|-
+|612 ||PCN ||PN ||[[Ofbeelding:Flag of the Pitcairn Islands.svg|20px|Vlagge van Pitcairn]]&nbsp;[[Pitcairneilanen]]
+|-
+|616 ||POL ||PL ||[[Ofbeelding:Flag of Poland.svg|20px|Vlagge van Polen]]&nbsp;[[Pooln|Polen]]
+|-
+|620 ||PRT ||PT ||[[Ofbeelding:Flag of Portugal.svg|20px|Vlagge van Portugal]]&nbsp;[[Portugal]]
+|-
+|630 ||PRI ||PR ||[[Ofbeelding:Flag of Puerto Rico.svg|20px|Vlagge van Puerto Rico]]&nbsp;[[Puerto Rico]]
+|-
+|634 ||QAT ||QA ||[[Ofbeelding:Flag of Qatar.svg|20px|Vlagge van Qatar]]&nbsp;[[Qatar]]
+|-
+|638 ||REU ||RE ||[[Ofbeelding:Flag of France.svg|20px|Vlagge van Fraankriek]]&nbsp;[[Réunion]]
+|-
+|642 ||ROU ||RO ||[[Ofbeelding:Flag of Romania.svg|20px|Vlagge van Roemenië]]&nbsp;[[Roemenië]]
+|-
+|643 ||RUS ||RU ||[[Ofbeelding:Flag of Russia.svg|20px|Vlagge van Ruslaand]]&nbsp;[[Ruslaand]]
+|-
+|646 ||RWA ||RW ||[[Ofbeelding:Flag of Rwanda.svg|20px|Vlagge van Rwanda]]&nbsp;[[Rwanda]]
+|-
+|659 ||KNA ||KN ||[[Ofbeelding:Flag of Saint Kitts and Nevis.svg|20px|Vlagge van Saint Kitts en Nevis]]&nbsp;[[Saint Kitts en Nevis]]
+|-
+|662 ||LCA ||LC ||[[Ofbeelding:Flag of Saint Lucia.svg|20px|Vlagge van Saint Lucia]]&nbsp;[[Saint Lucia]]
+|-
+|666 ||SPM ||PM ||[[Ofbeelding:Flag of Saint-Pierre and Miquelon.svg|20px|Vlagge van Saint-Pierre en Miquelon]]&nbsp;[[Saint-Pierre en Miquelon]]
+|-
+|670 ||VCT ||VC ||[[Ofbeelding:Flag of Saint Vincent and the Grenadines.svg|20px|Vlagge van Saint Vincent en de Grenadines]]&nbsp;[[Saint Vincent en de Grenadines]]
+|-
+|090 ||SLB ||SB ||[[Ofbeelding:Flag of the Solomon Islands.svg|20px|Vlagge van Salemonseilanen]]&nbsp;[[Salemonseilanen]]
+|-
+|882 ||WSM ||WS ||[[Ofbeelding:Flag of Samoa.svg|20px|Vlagge van Samoa]]&nbsp;[[Samoa]]
+|-
+|674 ||SMR ||SM ||[[Ofbeelding:Flag of San Marino.svg|20px|Vlagge van San Marino]]&nbsp;[[San Marino]]
+|-
+|678 ||STP ||ST ||[[Ofbeelding:Flag of Sao Tome and Principe.svg|20px|Vlagge van Sao Tomé en Principe]]&nbsp;[[Sao Tomé en Principe]]
+|-
+|682 ||SAU ||SA ||[[Ofbeelding:Flag of Saudi Arabia.svg|20px|Vlagge van Saoedi-Arabië]]&nbsp;[[Saoedi-Arabië]]
+|-
+|686 ||SEN ||SN ||[[Ofbeelding:Flag of Senegal.svg|20px|Vlagge van Senegal]]&nbsp;[[Senegal]]
+|-
+|891 ||SCG ||CS ||[[Ofbeelding:Flag of Serbia and Montenegro.svg|20px|Vlagge van Servië-Montenegro]]&nbsp;[[Servië-Montenegro]]
+|-
+|690 ||SYC ||SC ||[[Ofbeelding:Flag of the Seychelles.svg|20px|Vlagge van Seychelle]]&nbsp;[[Seychelle]]
+|-
+|694 ||SLE ||SL ||[[Ofbeelding:Flag of Sierra Leone.svg|20px|Vlagge van Sierra Leone]]&nbsp;[[Sierra Leone]]
+|-
+|702 ||SGP ||SG ||[[Ofbeelding:Flag of Singapore.svg|20px|Vlagge van Singapore]]&nbsp;[[Singapore]]
+|-
+|654 ||SHN ||SH ||[[Ofbeelding:Flag of Saint Helena.svg|20px|Vlagge van Sint-Helena]]&nbsp;[[Sint-Helena (eilaand)|Sint-Helena]]
+|-
+|705 ||SVN ||SI ||[[Ofbeelding:Flag of Slovenia.svg|20px|Vlagge van Slovenië]]&nbsp;[[Slovenië]]
+|-
+|703 ||SVK ||SK ||[[Ofbeelding:Flag of Slovakia.svg|20px|Vlagge van Slowakije]]&nbsp;[[Slowakije]]
+|-
+|706 ||SOM ||SO ||[[Ofbeelding:Flag of Somalia.svg|20px|Vlagge van Somalië]]&nbsp;[[Soemalië]]
+|-
+|724 ||ESP ||ES ||[[Ofbeelding:Flag of Spain.svg|20px|Vlagge van Spanje]]&nbsp;[[Spanje]]
+|-
+|144 ||LKA ||LK ||[[Ofbeelding:Flag of Sri Lanka.svg|20px|Vlagge van Sri Lanka]]&nbsp;[[Sri Lanka]]
+|-
+|736 ||SDN ||SD ||[[Ofbeelding:Flag of Sudan.svg|20px|Vlagge van Soedan]]&nbsp;[[Soedan]]
+|-
+|740 ||SUR ||SR ||[[Ofbeelding:Flag of Suriname.svg|20px|Vlagge van Suriname]]&nbsp;[[Suriname]]
+
+|-
+|744 ||SJM ||SJ ||[[Ofbeelding:Flag_of_Norway.svg|20px|Vlagge van Noorwegen]]&nbsp;[[Spitsbargen]] en [[Jan Mayen]]
+|-
+|748 ||SWZ ||SZ ||[[Ofbeelding:Flag of Swaziland.svg|20px|Vlagge van Swazilaand]]&nbsp;[[Swazilaand]]
+|-
+|760 ||SYR ||SY ||[[Ofbeelding:Flag of Syria.svg|20px|Vlagge van Syrië]]&nbsp;[[Syrië]]
+|-
+|762 ||TJK ||TJ ||[[Ofbeelding:Flag of Tajikistan.svg|20px|Vlagge van Tadzjikistan]]&nbsp;[[Tadzjikistan]]
+|-
+|158 ||TWN ||TW ||[[Ofbeelding:Flag of the Republic of China.svg|20px|Vlagge van Taiwan]]&nbsp;[[Taiwan]]
+|-
+|834 ||TZA ||TZ ||[[Ofbeelding:Flag of Tanzania.svg|20px|Vlagge van Tanzania]]&nbsp;[[Tanzania]]
+|-
+|764 ||THA ||TH ||[[Ofbeelding:Flag of Thailand.svg|20px|Vlagge van Thailaand]]&nbsp;[[Thailaand]]
+|-
+|768 ||TGO ||TG ||[[Ofbeelding:Flag of Togo.svg|20px|Vlagge van Togo]]&nbsp;[[Togo]]
+|-
+|772 ||TKL ||TK ||[[Ofbeelding:Flag of New Zealand.svg|20px|Vlagge van Ni'j-Zeelaand]]&nbsp;[[Tokelau-eilanen]]
+|-
+|776 ||TON ||TO ||[[Ofbeelding:Flag of Tonga.svg|20px|Vlagge van Tonga]]&nbsp;[[Tonga (laand)|Tonga]]
+|-
+|780 ||TTO ||TT ||[[Ofbeelding:Flag of Trinidad and Tobago.svg|20px|Vlagge van Trinidad en Tobago]]&nbsp;[[Trinidad en Tobago]]
+|-
+|148 ||TCD ||TD ||[[Ofbeelding:Flag of Chad.svg|20px|Vlagge van Tsjaad]]&nbsp;[[Tsjaad]]
+|-
+|203 ||CZE ||CZ ||[[Ofbeelding:Flag of the Czech Republic.svg|20px|Vlagge van Tsjechië]]&nbsp;[[Tsjechië]]
+|-
+|788 ||TUN ||TN ||[[Ofbeelding:Flag of Tunisia.svg|20px|Vlagge van Tunesië]]&nbsp;[[Tunesië]]
+|-
+|792 ||TUR ||TR ||[[Ofbeelding:Flag of Turkey.svg|20px|Vlagge van Turkije]]&nbsp;[[Turkije]]
+|-
+|795 ||TKM ||TM ||[[Ofbeelding:Flag of Turkmenistan.svg|20px|Vlagge van Turkmenistan]]&nbsp;[[Turkmenistan]]
+|-
+|796 ||TCA ||TC ||[[Ofbeelding:Flag of the Turks and Caicos Islands.svg|20px|Vlagge van Turks- en Kaikoseilanen]]&nbsp;[[Turks- en Kaikoseilanen]]
+|-
+|798 ||TUV ||TV ||[[Ofbeelding:Flag of Tuvalu.svg|20px|Vlagge van Tuvalu]]&nbsp;[[Tuvalu]]
+|-
+|581 ||UMI ||UM ||[[Ofbeelding:Flag_of_the_United_States.svg|20px|Vlagge van de Verienigde Staoten]]&nbsp;[[Kleine oflegen eilanen van de Verienigde Staoten]]
+|-
+|858 ||URY ||UY ||[[Ofbeelding:Flag of Uruguay.svg|20px|Vlagge van Uruguay]]&nbsp;[[Uruguay]]
+|-
+|548 ||VUT ||VU ||[[Ofbeelding:Flag of Vanuatu.svg|20px|Vlagge van Vanuatu]]&nbsp;[[Vanuatu]]
+|-
+|336 ||VAT ||VA ||[[Ofbeelding:Flag of the Vatican City.svg|20px|Vlagge van Vatikaanstad]]&nbsp;[[Vaticaanstad|Vatikaanstad]]
+|-
+|862 ||VEN ||VE ||[[Ofbeelding:Flag of Venezuela.svg|20px|Vlagge van Venezuela]]&nbsp;[[Venezuela]]
+|-
+|784 ||ARE ||AE ||[[Ofbeelding:Flag of the United Arab Emirates.svg|20px|Vlagge van de Verienigde Arabische Emiraten]]&nbsp;[[Verienigde Arabische Emiraten]]
+|-
+|826 ||GBR ||GB ||[[Ofbeelding:Flag of the United Kingdom.svg|20px|Vlagge van het Verienigd Keuninkriek]]&nbsp;[[Verienigd Keuninkriek]]
+|-
+|840 ||USA ||US ||[[Ofbeelding:Flag of the United States.svg|20px|Vlagge van de Verienigde Staoten van Amerike]]&nbsp;[[Verienigde Staoten van Amerika|Verienigde Staoten van Amerike]]
+|-
+|704 ||VNM ||VN ||[[Ofbeelding:Flag of Vietnam.svg|20px|Vlagge van Vietnam]]&nbsp;[[Vietnam]]
+|-
+|876 ||WLF ||WF ||[[Ofbeelding:Flag of Wallis and Futuna.svg|20px|Vlagge van Wallis en Futuna]]&nbsp;[[Wallis en Futuna]]
+|-
+|732 ||ESH ||EH ||[[Ofbeelding:Flag of Western Sahara right.png|20px|Vlagge van de Westelike Sehara]]&nbsp;[[Westelik Sehara]]
+|-
+|112 ||BLR ||BY ||[[Ofbeelding:Flag of Belarus.svg|20px|Vlagge van Wit-Ruslaand]]&nbsp;[[Wit-Ruslaand]] 
+|-
+|894 ||ZMB ||ZM ||[[Ofbeelding:Flag of Zambia.svg|20px|Vlagge van Zambia]]&nbsp;[[Zambia]]
+|-
+|716 ||ZWE ||ZW ||[[Ofbeelding:Flag of Zimbabwe.svg|20px|Vlagge van Zimbabwe]]&nbsp;[[Zimbabwe]]
+|-
+|710 ||ZAF ||ZA ||[[Ofbeelding:Flag of South Africa.svg|20px|Vlagge van Zuud-Afrika]]&nbsp;[[Zuud-Afrika]]
+|-
+|239 ||SGS ||GS ||[[Ofbeelding:Flag of South Georgia and the South Sandwich Islands.svg|20px|Vlagge van Zuud-Georgië en de Zudelike Sandwicheilanen]]&nbsp;[[Zuud-Georgië en de Zudelike Sandwicheilanen]]
+|-
+|410 ||KOR ||KR ||[[Ofbeelding:Flag_of_South_Korea.svg|20px|Vlagge van Zuud-Korea]]&nbsp;[[Zuud-Korea]]
+|-
+|752 ||SWE ||SE ||[[Ofbeelding:Flag of Sweden.svg|20px|Vlagge van Zweden]]&nbsp;[[Sveden|Zweden]]
+|-
+|756 ||CHE ||CH ||[[Ofbeelding:Flag of Switzerland.svg|20px|Vlagge van Zwitserlaand]]&nbsp;[[Zwitserlaand]]
+|}
+
+==Zie ok==
+* [[ISO 4217|ISO 4217 valutakodes]]
+* [[ISO 3166]], [[ISO 3166-2]], [[ISO 3166-3]]
+
+==Uutgaonde verwiezings==
+* [http://www.iso.org/iso/en/prods-services/iso3166ma/index.html ISO 3166/MA-webstee]
+
+[[Kattegerie:Stellingwarfs_artikel]]
+[[Kattegerie:ISO]]
+
+[[ast:ISO 3166-1]]
+[[bg:ISO 3166-1]]
+[[ca:ISO 3166-1]]
+[[cs:ISO 3166-1]]
+[[da:ISO 3166-1]]
+[[de:ISO-3166-1-Kodierliste]]
+[[el:ISO 3166-1]]
+[[en:ISO 3166-1]]
+[[es:ISO 3166-1]]
+[[eu:ISO 3166-1]]
+[[fr:ISO 3166-1]]
+[[hu:ISO 3166-1]]
+[[id:ISO 3166-1]]
+[[is:ISO 3166-1]]
+[[it:ISO 3166-1]]
+[[ja:ISO 3166-1]]
+[[ko:ISO 3166-1]]
+[[lb:ISO 3166-1]]
+[[li:ISO 3166-1]]
+[[nl:ISO 3166-1]]
+[[no:ISO 3166-1]]
+[[pl:ISO 3166-1]]
+[[pt:ISO 3166-1]]
+[[ru:ISO 3166-1]]
+[[sk:ISO 3166-1]]
+[[sr:ISO 3166-1]]
+[[su:ISO 3166-1]]
+[[tg:ISO 3166-1]]
+[[th:ISO 3166-1]]
+[[tt:ISO 3166-1]]
+[[zh:ISO 3166-1]]
