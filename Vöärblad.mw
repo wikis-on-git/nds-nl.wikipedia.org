@@ -49,17 +49,22 @@ Wos je dat...
 <!---------------------------------
 In aandere talen
 ----------------------------------->
-! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedie:Nds-info|In aandere talen]]</div>
+! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedie:Nds-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
 |- 
 | style="font-family:Arial; font-size: 95%" | 
-<h4>Nederlands</h4>
-Dit is de [[Wikipedia]] voor de Nedersaksische varianten die in Nederland gesproken worden. Nedersaksisch wordt naar schatting door ongeveer 1.8 miljoen mensen in Nederland gesproken en in totaal 12 tot 15 miljoen mensen in alle werelddelen behalve Antarctica. De Platduitse Wikipedia, kun je [[:nds:|hier]] vinden. [[Wikipedie:Nds-info|Klik hier voor meer informatie]]
+{{Geschiedenis/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<br/><br/>
+|- 
+|-
 
-<h4>Deutsch</h4>
-Dies ist die niederländisch-niedersächsische [[Wikipedia]]. Niedersächsisch wird von schätzungsweise 1,8 Millionen Menschen in den Niederlanden gesprochen, insgesamt von 12 bis 15 Millionen auf allen Erdteilen außer der Antarktis. Die plattdeutsche Wikipedia kann man [[:nds:|hier]] finden. [[Wikipedie:Nds-info|Mehr Information daruber]]
+<!---------------------------------
+Prejekken
+----------------------------------->
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedia|Prejekken op Wikipedie]]</div>
+|- 
+| style="font-family:Verdana; font-size: 90%" | 
+*'''[[Leegsaksische woordenbouken]]''': [[Grunnegs woordenbouk|Grunnegs]] » [[Stellingwarfs woordenboek|Stellingwarfs]] » [[Drèents woordenboek|Drèents]] » [[West-Veluws woordenboek|West-Veluws]] » [[Tweants weurdnbook|Tweants]] » [[Achterhoeks woordenboek|Achterhooks]] » [[Oost-Veluws woordenboek|Oost-Veluws]]
+*[[Portoal:Grunnen|Portoal Grunnen]] » [[Portaol:Drenthe|Portaol Drenthe]]
 
-<h4>Plattdüütsch</h4>
-Dit is de nedderlandsch-neddersassische [[Wikipedia]]. Neddersassisch ward vun so wat as 1,8 Millionen Minschen in de Nedderlannen snackt, all tohoop vun 12 bit 15 Millionen up all de Eerddelen, de Antarktis nich miträkent. De plattdüütsche Wikipedia kannst [[:nds:|hier]] finnen. [[Wikipedie:Nds-info|Klick hier un lääs’ ’n bäten mehr]]
 |}
 <!-------------------------------------
 Rechterkolom 
@@ -90,11 +95,7 @@ Encyclopedie
 [[Christendom]] † [[Onzevaor]] † [[Architektuur]] † [[Letterkunde]] † [[Meziek]] † [[Religie]] † [[Kaark]] † [[Jezus Christus]] † [[God]] † [[Biebel]] † [[Protestantisme]]  † [[Rooms-Katholieke Karke|RKK]] † [[Oolde Testement|Et Oolde]] en [[Ni'je Testement]] † [[Oosters-Orthodoxe Karke]]
 
 <h3><font color="#8787C2">Verschillende onderwarpen</font></h3>
-[[Olle Egypte|t Olle Egypte]] † [[Vaar-en-moor-fietse]] † [[Tillevisie]] † [[Akhenaten]] † [[Hunebed]] † [[Begreefplak]] † [[Parreplu]] † [[Kasteel]] † [[Hounder]] † [[Waetersport]] † [[Zunne]]
-
-<h3><font color="gray">Woordeboeken en pertaolen</font></h3>
-[[Woordenbouken Nedersaksisch]]: [[Grunnegs woordenbouk|Grunnegs]] » [[Stellingwarfs woordenboek|Stellingwarfs]] » [[Drèents woordenboek|Drèents]] » [[West-Veluws woordenboek|West-Veluws]] » [[Tweants weurdnbook|Tweants]] » [[Achterhoeks woordenboek|Achterhooks]] | [[Portoal:Grunnen|Portoal Grunnen]] » [[Portaol:Drenthe|Portaol Drenthe]]
-<br/><br/></font> 
+[[Olle Egypte|t Olle Egypte]] † [[Vaar-en-moor-fietse]] † [[Tillevisie]] † [[Akhenaten]] † [[Hunebed]] † [[Begreefplak]] † [[Parreplu]] † [[Kasteel]] † [[Hounder]] † [[Waetersport]] † [[Zunne]]<br/><br/></font> 
 |}
 |}
 
