@@ -18,7 +18,7 @@
 |style="width:11%;font-size:95%"|
 *[[Wikipedie:Nedersaksisch|Nedersaksisch]]
 *[[Special:Categories|Kattegerieën]]
-*[[Wikipedie:Heufdpagina-info|Uut-eloch]]
+*[[Wikipedie:Veurpagina-info|Uut-eloch]]
 |}
 
 <div style="margin-top: 1em; padding-bottom: 1em; font-family: Arial, Helvetica, sans-serif; font-size:110%;">
@@ -33,26 +33,25 @@ Heuftabel
 <!---------------------------------
 Artikel van de maond
 ----------------------------------->
-! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Fairytale bookmark.png|14px]] [[Wikipedie:Heufdpagina-info|Uut-eloch]]
+! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Fairytale bookmark.png|14px]] [[Wikipedie:Veurpagina-info|Uut-eloch]]
 |-
-| style="; font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Heufdpagina-info/Artikel_van_de_maond|archief]]''</span>
+| style="; font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]]''</span>
 |-
 <!---------------------------------
 Wos je dat...
 ----------------------------------->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_128_xeyes.png|20px]] [[Wikipedie:Heufdpagina-info|Wos je dat...]]
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_128_xeyes.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]
 |-
-| style="font-family:Arial; font-size: 95%" | {{Wos jie dat/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Heufdpagina-info/Wos_je_dat|archief]]''</span>
+| style="font-family:Arial; font-size: 95%" | {{Wos jie dat/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Wos_je_dat|archief]]''</span>
 |- 
 |-
 
 <!---------------------------------
-In aandere talen
+Geschiedenis
 ----------------------------------->
-! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedie:Nds-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
+! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
 |- 
-| style="font-family:Arial; font-size: 95%" | 
-{{Geschiedenis/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<br/><br/>
+| style="font-family:Arial; font-size: 95%" | {{Geschiedenis/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Geschiedenis|archief]]''</span>
 |- 
 |-
 
