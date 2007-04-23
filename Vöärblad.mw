@@ -49,7 +49,7 @@ Wos je dat...
 <!---------------------------------
 Geschiedenis
 ----------------------------------->
-! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
 |- 
 | style="font-family:Arial; font-size: 95%" | {{Geschiedenis/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Geschiedenis|archief]]''</span>
 |- 
@@ -58,7 +58,8 @@ Geschiedenis
 <!---------------------------------
 Prejekken
 ----------------------------------->
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedia|Prejekken op Wikipedie]]</div>
+! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Crystal_128_proxy.png|20px]] [[Wikipedia|Prejekken op Wikipedie]]
+</div>
 |- 
 | style="font-family:Verdana; font-size: 90%" | 
 *'''[[Leegsaksische woordenbouken]]''': [[Grunnegs woordenbouk|Grunnegs]] » [[Stellingwarfs woordenboek|Stellingwarfs]] » [[Drèents woordenboek|Drèents]] » [[West-Veluws woordenboek|West-Veluws]] » [[Tweants weurdnbook|Tweants]] » [[Achterhoeks woordenboek|Achterhooks]] » [[Oost-Veluws woordenboek|Oost-Veluws]]
