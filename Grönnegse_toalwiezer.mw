@@ -2700,6 +2700,12 @@ Nedderlaand (Westerkwartaars)
 |Iets nodig hebben (zie verlet voor andere betenissen)
 ''Ik heb jou gezeur niet nodig''
 |-
+|Aarngs wat mit neudeg hebben
+''Doar heb ik niks mit neudeg''
+|Ergens iets mee te maken hebben
+''Daar heb ik niks mee te maken''
+''Daar wil ik niks mee te maken hebben''
+|-
 |Aarngs wies mit wezen
 ''Doar bin ik ja wies mit''
 |Ergens blij mee zijn
@@ -2791,6 +2797,11 @@ lett: Heb je in het boerenkoolveld gelopen?
 |Een bemoeial zijn
 ''Wat ben je toch een bemoeial''
 |-
+|om (...) tou
+''Wie voaren om kìrk tou''
+|om (...) heen
+''Wij rijden om de kerk heen''
+|-
 |Onder de pannen wezen 
 ''Dit weekend binnen wie wel weer onder de pannen''
 |Ergens mee bezig zijn
@@ -2825,22 +2836,21 @@ lett: Heb je in het boerenkoolveld gelopen?
 ''Dit lijkt mij te gevaarlijk, ik ga weer terug''
 |-
 |tot ... oet/uut
-'''Zai hebben n plaank tot schut oet'''
+''Zai hebben n plaank tot schut oet''
 |uit ...
-'''Zij hebben een plank uit het hek'''
+''Zij hebben een plank uit het hek''
 |-
 |Tot twij moal tou 
 ''Hest mie dat tot twij moal tou flikt''
 |Twee keer
 ''Je hebt bij dit al twee keer geflik''
 |-
-|Wat veur geefs 
-''Dit boukie is veur geefs''
+|Wat veur geefs <div>
+''Dit boukie is veur geefs''<div>
 ''Dat bred staait der nait veur geefs''
-|-
 |Iets dat gratis is
 Iets voor niks zijn
-''Dit boekje is gratis''
+''Dit boekje is gratis''<div>
 ''Dat bord staat er niet voor niets''
 |-
 |Wat lieden maggen 
