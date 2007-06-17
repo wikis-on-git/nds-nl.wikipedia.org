@@ -1,6 +1,7 @@
 '''Geogroafische noamen op zien Grunnegs''' oet t [[Grunnegs woordenbouk]].
 
-== Ploatsnoamen ==
+== Grunnen ==
+=== Plaknoamen ===
 {| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" |Grunnegs
 ! style="background-color:#abcdef" |Nederlaands
@@ -65,9 +66,6 @@
 |[[Bril]]
 |Briltil 
 |-
-|[[Boerum]]
-|Burum (''Kölmerlaand'')
-|-
 |[[Kramweer]] 
 |Crangeweer
 |-
@@ -122,9 +120,6 @@
 |[[Moarum]]
 |Marum
 |-
-|[[Muntjeziel]]
-|Munnikezijl
-|-
 |[[De Penne]]
 |Opende
 |-
@@ -137,9 +132,6 @@
 |[[Veendam]]
 |Veendam
 |-
-|[[Warfstermeul]]
-|Warfstermolen
-|-
 |[[De Wilp]]
 |De Wilp
 |-
@@ -147,294 +139,336 @@
 |Zoutkamp
 |}
 
-'''Ploatsen boeten Grunnen/Grunnegstoaleg Nederlaand'''
+=== Gebieden ===
+
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Grunnegs
+! width="30%" |Nederlaands
+|-
+|Grunnen, Grönnen, Grönnegerlaand
+|Groningen
+|-
+|Fivelgo
+|Fivelingo
+|-
+|Gerecht
+|Gorecht
+|-
+|Hunzego
+|Hunsingo
+|-
+|Oldambt
+|Oldambt
+|-
+|Westerkertaaier, Westerkertier, Westerkertaar
+|Westerkwartier
+|-
+|Westerwôlde, Westerwoolde
+|Westerwolder
+|-
+|Reiderlaand, Raaiderlaand
+|Reiderland
+|}
+
+== Fraislaand ==
+=== Plaknoamen ===
 {| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" |Grunnegs
-! style="background-color:#abcdef" |Nederlaands/Duuts
+! style="background-color:#abcdef" |Frais
+! style="background-color:#abcdef" |Nederlaands
 |-
-|'''Fraislaand'''
+|[[Boerum]]
+|Boerum
+|Burum
 |-
-|Leeuwerd
-|Leeuwarden
+|Boetenpost
+|Bûtenpost
+|Buitenpost
 |-
-|Dokkem
-|Dokkum
-|-
-|Froaneker
-|Franeker
-|-
-|Boalswerd
+|Bolswerd
+|Boalsert
 |Bolsward
 |-
+|Dökkem
+|Dokkum
+|Dokkum
+|-
+|Drachtsterkomnij
+|Drachtster Kompenije
+|Drachtstercompagnie
+|-
+|Fraiskepoalen
+|Fryske Peallen
+|Frieschepalen
+|-
+|Froaneker
+|Fjetsjer
+|Franeker
+|-
 |Haarns
+|Harns
 |Harlingen
 |-
-|Wörkom 
-|Workum
+|t Herenveen
+|it Hearrenfean
+|Heerenveen
 |-
 |Hìndeloop
-|Hindelopen
+|Hynljippen, Hylpen
+|Hindeloopen
 |-
-|Snaik
-|Sneek
+|Höchte
+|Heech
+|Heeg
+|-
+|Ielst
+|Drylst
+|IJlst
 |-
 |De Jaauwer
+|De Jouer
 |Joure
 |-
-|'''Oostfraislaand'''
+|Kölm
+|Kollum
+|Kollum
 |-
-|Aauwerk
-|Aurich
+|Leeuwerd
+|Ljouwert
+|Leeuwarden
 |-
-|Bonnen
-|Bunde
+|[[Muntjeziel]]
+|Mûntsjesyl
+|Munnikezijl
 |-
-|Börkem
-|Borkum
+|De Pomp
+|De Pomp
+|Kollumerpomp
 |-
-|Broukmerlaand
-|Brookmerland
+|Sloot
+|Sleat
+|Sloten
 |-
-|Graitziel
-|Greetsiel
+|Snaik
+|Snits
+|Sneek
 |-
-|Grootveen
-|Großfehn
+|Stoarum
+|Starum
+|Stavoren
 |-
-|Jemmege
-|Jemgum
+|Warfstermeul, Waarfstermeul
+|Warfstermûne
+|Warfstermolen
 |-
-|Kromhörn
-|Krummhörn
+|Wörkom
+|Warkum
+|Workum
+|}
+
+=== Gebieden en aailanden ===
+
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Grunnegs
+! width="30%" |Nederlaands
 |-
-|Waismoor
-|Wiesmoor
+|Fraislaand
+|Friesland
 |-
-|'''t Drìnt'''
+|Aailaand, Skiermunnekoog 
+|Schiermonnikoog
+|-
+|Amelaand 
+|Ameland
+|-
+|Goasterlaand
+|Gaasterland
+|-
+|Schèllen(g)
+|Terschelling
+|-
+|Vlielaand
+|Vlieland
+|-
+|Zeuvenwolden 
+|Zevenwoude
+|}
+
+== t Drìnt ==
+=== Plaknoamen ===
+{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+! style="background-color:#abcdef" |Grunnegs
+! style="background-color:#abcdef" |Nederlaands
+|-
+|Azzen
+|Assen
+|-
+|Börger
+|Borger
+|-
+|Eel
+|Eelde
+|-
+|Emmen
+|Emmen
+|-
+|Emmercompascuüm
+|Emmerkompas
+|-
+|Gaiten
+|Gieten
 |-
 |Kouvort
 |Coevorden
 |-
-|Twijde Mond
-|Tweede Exloërmond
-|-
 |Möppel
 |Meppel
 |-
-|'''Overiesel'''
+|Nijbunen
+|Nieuwbuinen
 |-
+|Nijweern
+|Nieuw-Weerdinge
+|-
+|Nörg
+|Norg
+|-
+|Paais
+|Peize
+|-
+|Potterwòl, Paoterwool
+|Paterswolde
+|-
+|Tinoarlo
+|Tynaarlo
+|-
+|Twijde Mond
+|Tweede Exloërmond
+|-
+|Vaaltermond
+|Valthermond
+|-
+|Vrais(k)
+|Vries
+|-
+|Westerbörk
+|Westerbork
+|-
+|Zuudloarn
+|Zuidlaren
+|}
+
+== Overg Nederlaand ==
+=== Plaknoamen ===
+{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+! style="background-color:#abcdef" |Pervìnzie Grunnegs
+! style="background-color:#abcdef" |Pervìnzie Nederlaands
+! style="background-color:#abcdef" |Plak Grunnegs
+! style="background-color:#abcdef" |Plak Nederlaands
+|-
+|Gelderlaand
+|Gelderland
+|Aarnhaim
+|Arnhem 
+|-
+|
+|
+|Nimweeg
+|Nijmegen 
+|-
+|Zuudhollaand
+|Zuid-Holland
+|n Heeg
+|Den Haag 
+|-
+|
+|
+|Doordrècht
+|Dordrecht
+|-
+|
+|
+|Rötterdaam
+|Rotterdam
+|-
+|Noordhollaand
+|Noord-Holland
+|Hoarlem
+|Haarlem
+|-
+|
+|
+|Hörn
+|Hoorn
+|-
+|Noordbroabant
+|Noord-Brabant
+|n Bosk (oller Grunnegs: Heertogswôld)
+|'s-Hertogenbosch, Den Bosch 
+|-
+|
+|
+|Ìndhoof
+|Eindhoven 
+|-
+|
+|
+|Tilbörg
+|Tilburg
+|-
+|Overiesel
+|Overijssel
 |Zwol
 |Zwolle
 |-
+|
+|
+|Ìnskede
+|Enschede 
+|-
+|
+|
 |Vraiskenveen
 |Vriezenveen
 |-
-|Ìnskede
-|Enschede
+|
+|
+|Stainwiek
+|Steenwijk
 |-
-|'''Gelderlaand'''
-|-
-|Nimweeg
-|Nijmegen
-|-
-|Aarnhaim
-|Arnhem
-|-
-|'''Oetrècht'''
+|Limbörg
+|Limburg
+|Moastricht (oller Grunnegs: Moasbadde)
+|Maastricht
 |-
 |Oetrècht
 |Utrecht
+|Oetrècht
+|Utrecht
 |-
-|'''Limbörg'''
+|Flevolaand
+|Flevoland
+|Lelystad
+|Lelystad
 |-
-|Moasbadde
-|Maastricht
+|
+|
+|Urk, Örk
+|Urk (flv)
 |-
-|'''Duutslaand'''
+|
+|
+|Almeer
+|Almere
 |-
-|Breem
-|Bremen
-|-
-|Hambörg
-|Hamburg
-|-
-|Berlien
-|Berlin
-|-
-|Haanover
-|Hannover
-|-
-|Duskeldörp
-|Düsseldorf
-|-
-|Sleeswiek
-|Sleeswijk
-|-
-|Broenswiek
-|Braunschweig
-|-
-|Moagdebörg
-|Magdeburg
-|-
-|Frankvort
-|Frankfurt
-|-
-|Keuln
-|Köln
-|-
-|Dôrtmond
-|Dortmund
-|-
-|Röstok
-|Rostock
-|-
-|'''Belgie'''
-|-
-|Antwaarp
-|Antwerpen
-|-
-|Noamen
-|Namen
-|-
-|Mekeln
-|Mechelen
-|-
-|Bruzzel
-|Brussel
-|-
-|Loek
-|Luik
+|Zeelaand (oller Grunnegs: Zailaand)
+|Zeeland
+|Middelbörg
+|Middelburg
 |}
 
-== Laands- en provìnzienoamen ==
-''Provinzies dij der nait biestoan, binnen t zulfde as in t Nederlaands of de betreffende landstoal.''
-
-=== Nederlaand  ===
-Nedderlaand (Westerkwartaars)
-:[[Grunnen (provìnzie)|Grunnen/Grönnen]]
-::Westerkertaaier/westerkertijer/westerkertaar (Westerkwartier)
-::Hunzego (Hunsingo)
-::Fivelgo (Fivelingo)
-::Stad en Gerecht (stad Groningen en het Gorecht)
-::Oldambt
-::Westerwôlde (Westerwolde)
-:[[Frieslaand|Fraislaand]]
-::Zeuvenwolden (Zevenwoude)
-::Schèlln (Terschelling)
-::Amelaand (Ameland)
-::Ailaand (Schiermonnikog)
-:[[Drenthe|De Drìnt/Drìnthe]]
-:[[Oaveriessel|Overiesel]]
-::Zallaand (Salland)
-::Twìnte (Twente)
-:[[Gelderlaand]]
-::Aachterhouk (Achterhoek)
-::Veluwe (Veluwe)
-::Betuwe (Betuwe)
-:[[Utrecht (previnsie)|Oetrìcht]]
-:[[Noord-Hollaand|Noordhollaand]]
-::Westfraislaand (Westfriesland)
-::Kemmerlaand (Kennemerland)
-::Tessel (Texel)
-:[[Zuud-Hollaand|Zuudhollaand]]
-:[[Flevolaand]]
-:[[Zeelaand]]
-::Bevern (Beveland - Noord en Zuid)
-::Waalcher (Walcheren)
-::Zaisfloandern (Zeeuws-Vlaanderen)
-:[[Noord-Braobant|Noordbroabant]]
-:[[Limburg (Nederlaand)|Limbörg]]
-
-=== Belgie ===
-:Floandern (Vlaanderen)
-:Antwaarp (Antwerpen)
-:Limbörg (Limburg)
-:Floams Broabant (Vlaams-Brabant)
-:Woals Broabant (Waals-Brabant)
-:Hainego (Henegouwen)
-:Noamen (Namen)
-:Luxembörg (Luxemburg)
-:Loek (Luik)
-:Bruzzel (Brussel)
-
-=== Luxembörg ===
-:Luxembörg (Luxemburg)
-:Daikèrke (Diekirch)
-::Klerf (Clervaux)
-
-=== Duutslaand ===
-:Leegsaksen (Nedersaksen)
-::Oostfraislaand (Oost-Friesland)
-::Emslaand (Eemsland)
-::Bentum (Bentheim)
-:Breem (Bremen)
-:Hambörg (Hamburg)
-:Sleeswiek-Holstain (Sleeswijk-Holstein)
-::Noordfraislaand (Noord-Friesland)
-::Ditmaarsen (Dithmarschen)
-:Meklenbörg-Veurpommern (Mecklenburg-Voorpommeren)
-:Brandenbörg (Brandenburg)
-:Berlien (Berlijn)
-:Saksen-Anholt (Saksen-Anhalt)
-:Saksen (Saksen)
-:Hezzen (Hessen)
-:Tureng (Thuringen)
-:Bayern (Beieren)
-::Swoaben (Schwaben)
-:Boaden-Wörttembaarg (Baden-Wurttemberg)
-:Rhainlaand-Poalts (Rijnland-Palts)
-::Rhainhezzen (Rijnhessen)
-:Saarlaand (Saarland)
-:Noordrhain-Westfele (Noord-Rijnland-Westfalen)
-::Klevelaand (Kleefland)
-
-=== Oosterriek ===
-:Wienen (Wenen)
-:Karinten (Karintië)
-:Börgenlaand (Burgenland)
-:Veuroarelbaarg (Vorarlberg)
-
-=== Frankriek ===
-:Lerraaine (Lotharingen)
-:Boergonde (Bourgondië)
-
-=== Spanje ===
-:Baskenlaand (Baskenland)
-:Galizie (Galicië)
-:Katalonie (Catalonië)
-:Kestielje en Leon (Kastilië en León)
-
-=== Groot-Brittannie ===
-:Englaand (Engeland)
-:Skotlaand (Schotland)
-
-=== Denmaark ===
-:Jytlaand (Jutland)
-:Seelaand (Seeland)
-:Funnen (Funen)
-:Kopenhoaven (Kopenhage)
-:Vaaile (Vejle)
-:Oarhoes (Århus)
-:Fareuraailanden (Faeröereilanden)
-:Gruinlaand (Groenland)
-
-=== Overege landen === 
-:Noorweeg (Noorwegen)
-:Sveden (Zweden)
-:Finlaand (Finland)
-:Ieslaand (IJsland)
-:Portegaal (Portugal)
-:Itoalie/ Itoalje (Italië)
-:Maalte (Malta)
-:Svitzerlaand (Zwitserland)
-:Pooln (Polen)
-:Tzjechie (Tsjechië)
-:Slovakaai (Slowakije)
-:Hungoarn (Hongarije)
-:Krooasie* (Kroatië)
-:Griekenlaand (Griekenland)
-
-:<small>''<nowiki>* Uutsproken as [[Kro-oasië]]</nowiki>''</small>
 
 == Scheldwoorden ==
 {| width="70%" style="margin: 0em 0em;"
