@@ -170,7 +170,7 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 |Hul(l)ie/heulie||hen
 |}
 
-:<small>''Oens wonnen allinnig in 't zujen gebruuk, bieveurbeeld in [[Putten]] en [[Niekark]].''<small>
+<nowiki>*</nowiki>''Oens'' wonnen allinnig in 't zujen gebruuk, bieveurbeeld in [[Putten]] en [[Niekark]].</small>
 
 ==== Accusatief ==== 
 {| width="40%" style="margin: 0em 0em;"
@@ -200,7 +200,7 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 |-
 |Jie STAM + en||jie lop'''en'''
 |-
-|Hij STAM||hij loop
+|Hij STAM ''(+ extra klinker)''||hij loop
 |-
 |Wie STAM + en||wie lop'''en'''
 |-
@@ -215,21 +215,60 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 {| width="40%" style="margin: 0em 0em;"
 |'''Vervoeging'''||'''Veurbeeld'''
 |-
-|Ik STAM||ik loop
+|Ik STAM||ik loop/ik wor
 |-
-|Jie STAM + en||jie lop'''en'''
+|Jie STAM + en||jie lop'''en'''/jie wor'''ren'''
 |-
-|Hie STAM + t||hie loopt
+|Hie STAM + t||hie loopt/hie wor'''t'''*
 |-
-|Wulie STAM + en||wulie lop'''en'''
+|Wulie STAM + en||wulie lop'''en'''/wulie wor'''ren'''
 |-
-|Julie STAM + en||julie lop'''en'''
+|Julie STAM + en||julie lop'''en'''/julie wor'''ren'''
 |-
-|Zulie STAM + en||zulie lop'''en'''
+|Zulie STAM + en||zulie lop'''en'''/zulie wor'''ren'''
 |}
+
+<nowiki>*</nowiki>Umdat der gien D veurkump in de stam van ik wor('''re''') is 't: hie/'t wort.<br/>
+<nowiki>**</nowiki>In 't Nunspeets is ''worden'' gien regelmaotig warkwoord, mar wel in 't Puttens.
 
 === Onregelmaotige warkwoorden ===
 ==== Nunspeet ====
+===== Wonnen (worden) =====
+{| {{prettytable}} width="45%"
+|- style="background: #efefef;"
+! width="15%" |Tegensworige tied
+! width="15%" |Vlejen tied
+! width="15%" |Voltooien tied
+|-
+|Ik worre
+|Ik wönnen
+|Ik bin ewönnen
+|-
+|Jie wonnen
+|Jie wönnen
+|Jie bin ewönnen
+|-
+|Hij wort*
+|Hij wönnen
+|Hij is ewönnen
+|-
+|Wie wonnen
+|Wie wönnen
+|Wie bin ewönnen
+|-
+|Julen wonnen
+|Julen wönnen
+|Julen bin ewönnen
+|-
+|Zee wonnen
+|Zee wönnen
+|Zee bin ewönnen
+|-
+|}
+
+<nowiki>*</nowiki>Umdat der gien D veurkump in de stam van ik wor('''re''') is 't: hie/'t wort.<br/>
+<nowiki>**</nowiki>In 't Nunspeets is ''worden'' gien regelmaotig warkwoord, mar wel in 't Puttens.
+
 ===== Hem (hebben) =====
 {| {{prettytable}} width="45%"
 |- style="background: #efefef;"
@@ -362,7 +401,7 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 |-
 |}
 
-===== Mötten (moeten) =====
+===== Mutten (moeten) =====
 {| {{prettytable}} width="45%"
 |- style="background: #efefef;"
 ! width="15%" |Tegensworige tied
@@ -1142,7 +1181,7 @@ Disse plaosnamen bin zoas ze in [[Scharpenzeel (Gelderlaand)|Scharpenzeel]] uut-
 |Als je eigenlijk vooraf al weet dat iets mislukken zal
 |-
 |'''Donkere maarges en zwaore knapzakken lichten mit de dag op'''
-|Het wort geleidelijk beter
+|Het wordt geleidelijk beter
 |-
 |'''Daor ku-j gien armeu veur liejen'''
 |Dat is goedkoop/een kleine moeite
