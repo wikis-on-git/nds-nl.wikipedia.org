@@ -1,7 +1,7 @@
 De '''oppervlak''' of een '''oppervlakte''' geeft an hoe groot een 2-dimensionaol gebied is. Dit kan de oppervlak wezen van een [[tweedimensionaol|tweedimensionaole]] vorm, mar oek de oppervlak van een [[driedimensionaol|driedimensionaole]] vorm.
 Oppervlak wort oek wel ''greutte'' eneumd, mit name bie die van [[perceel|percelen]].
 
-De [[SI]]-eenheid van oppervlak is de [[vierkaante meter]], m². Disse is of-eleid van de SI-eenheid [[meter]].
+De [[SI]]-eenheid van oppervlak is de [[vierkante meter]], m². Disse is of-eleid van de SI-eenheid [[meter]].
 
 == Formules ==
 't Oppervlak kan as volgt berekend worren:
@@ -31,6 +31,8 @@ Gebruukmakend van <math>A=\iint dA</math>:
 *rechthoek: <math>\int_0^b \int_0^l 1 dA = b l</math> (b: [[breedte]], l: [[lengte]])
 
 *cirkel: <math>\int_{-y}^y \int_{-\sqrt{R^2-y^2}}^{\sqrt{R^2-y^2}}dydx=\pi R^2</math>. 't Is vanzelf eleganter um de cirkel [[polair]] te beschrieven, en in een polair assenstelsel te integreren!
+
+{{Dia|Disse pagina is eschreven in 't '''[[Putters]]'''}}
 
 [[Kattegerie:West-Veluws artikel]]
 [[Kattegerie:Meetkunde]]
