@@ -440,9 +440,9 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 ===== Hen (hebben) =====
 {| {{prettytable}} width="50%"
 |- style="background: #efefef;"
-! width="15%" |Tegensworige tied
+! width="15%" |Tegesworige tied
 ! width="15%" |Vlejen tied
-! width="15%" |Voltooien tied
+! width="15%" |Voltooide tied
 |-
 |Ik het
 |Ik had
@@ -473,32 +473,32 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 ===== Doen (doen) =====
 {| {{prettytable}} width="50%"
 |- style="background: #efefef;"
-! width="15%" |Tegensworige tied
+! width="15%" |Tegesworige tied
 ! width="15%" |Vlejen tied
-! width="15%" |Voltooien tied
+! width="15%" |Voltooide tied
 |-
 |Ik doe
-|Ik dee/deu
+|Ik dee/deu/dui
 |Ik het edaon
 |-
 |Jie doen
-|Jie dejen/deuien
+|Jie dejen/deuien/duien
 |Jie hen edaon
 |-
 |Hie doet
-|Hie dee/deu
+|Hie dee/deu/dui
 |Hie het edaon
 |-
 |Wulie doen
-|Wulie dejen/deuien
+|Wulie dejen/deuien/duien
 |Wulie hen edaon
 |-
 |Julie doen
-|Julie dejen/deuien
+|Julie dejen/deuien/duien
 |Julie hen edaon
 |-
 |Zulie doen
-|Zulie dejen/deuien
+|Zulie dejen/deuien/duien
 |Zulie hen edaon
 |-
 |}
@@ -506,9 +506,9 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 ===== Gaon (gaan) =====
 {| {{prettytable}} width="50%"
 |- style="background: #efefef;"
-! width="15%" |Tegensworige tied
+! width="15%" |Tegesworige tied
 ! width="15%" |Vlejen tied
-! width="15%" |Voltooien tied
+! width="15%" |Voltooide tied
 |-
 |Ik gao
 |Ik gung
@@ -539,9 +539,9 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 ===== Zien (zien) =====
 {| {{prettytable}} width="50%"
 |- style="background: #efefef;"
-! width="15%" |Tegensworige tied
+! width="15%" |Tegesworige tied
 ! width="15%" |Vlejen tied
-! width="15%" |Voltooien tied
+! width="15%" |Voltooide tied
 |-
 |Ik zie
 |Ik zag
@@ -572,16 +572,16 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 ===== Moen (moeten) =====
 {| {{prettytable}} width="50%"
 |- style="background: #efefef;"
-! width="15%" |Tegensworige tied
+! width="15%" |Tegesworige tied
 ! width="15%" |Vlejen tied
-! width="15%" |Voltooien tied
+! width="15%" |Voltooide tied
 |-
 |Ik moet
 |Ik mos
 |/
 |-
 |Jie moen
-|Jie mossen
+|Jie mon
 |/
 |-
 |Hie moet
@@ -589,15 +589,15 @@ In 't West-Veluws bin verschillende woorden waorbie de schriefwieze zowel mit ee
 |/
 |-
 |Wulie moen
-|Wulie mossen
+|Wulie mon
 |/
 |-
 |Julie moen
-|Julie mossen
+|Julie mon
 |/
 |-
 |Zulie moen
-|Zilie mossen
+|Zulie mon
 |/
 |-
 |}
