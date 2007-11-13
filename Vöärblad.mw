@@ -47,9 +47,9 @@ Wos je dat...
 |-
 
 <!---------------------------------
-Geschiedenis
+Geschiedenisse
 ----------------------------------->
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenis van  {{CURRENTMONTHNAME}}]]</div>
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenisse van  {{CURRENTMONTHNAME}}]]</div>
 |- 
 | style="font-family:Arial; font-size: 95%" | {{Geschiedenis/{{CURRENTMONTHNAME}} {{CURRENTYEAR}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Geschiedenis|archief]]''</span>
 |- 
