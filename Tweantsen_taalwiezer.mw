@@ -69,28 +69,110 @@ t Tweants is n dialekt van t [[Neersassies]]. Tweants wördt zoowat in hille Twe
 |}
 
 === Regelmoatige wearkweurde ===
-:Ik haal
-:Doe haal'''s'''/Iej haal'''t'''
-:Hee haal'''t'''
-:Wiej haal'''t'''
-:Iej(leu) haal'''t'''
-:Zee haal'''t'''
-
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|haal(e)
+|haaldn
+|-
+|Doe
+|haal'''s'''
+|
+|-
+|Iej 
+|haal'''t'''
+|haaldn
+|-
+|Hee 
+|haal'''t'''
+|haaldn
+|-
+|Wiej 
+|haal'''t'''
+|haaldn
+|-
+|Iej(leu) 
+|haal'''t'''
+|haaldn
+|-
+|Zee
+|haal'''t'''
+|haaldn
+|}
 === Hebn === 
-:Ik heb/hebbe
-:Doe hes/iej hebt
-:Hee hef
-:Wiej hebt
-:Iej(leu) hebt
-:Zee hebt
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|heb(be)
+|had/har
+|-
+|Doe
+|hes
+|
+|-
+|Iej 
+|hebt
+|hadn
+|-
+|Hee 
+|hef
+|had/har
+|-
+|Wiej 
+|hebt
+|hadn
+|-
+|Iej(leu) 
+|hebt
+|hadn
+|-
+|Zee
+|hebt
+|hadn
+|}
+
 
 === Wean ===
-:Ik bin/zin
-:Doe bis/beens/zins -- Iej bint/beent/zint/zeent
-:Hee is
-:Wiej bint/zint/zeent
-:Iej(leu) bint/beent/zint/zeent
-:Zee bint/zint/zeent
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|bin/zin
+|was/wazze
+|-
+|Doe
+|bis/beens/zins
+|
+|-
+|Iej 
+|bint/zeent
+|warn/wazn
+|-
+|Hee 
+|is
+|was
+|-
+|Wiej 
+|bint/zeent
+|warn
+|-
+|Iej(leu) 
+|bint/zeent
+|warn
+|-
+|Zee
+|bint/zeent
+|warn
+
+|}
 
 === Goan ===
 :Ik goa
@@ -99,6 +181,130 @@ t Tweants is n dialekt van t [[Neersassies]]. Tweants wördt zoowat in hille Twe
 :Wiej goat
 :Iejleu goat
 :Zee goat
+
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|goa
+|gung
+|-
+|Doe
+|gees
+|
+|-
+|Iej 
+|goat
+|gungn
+|-
+|Hee 
+|geet
+|gung
+|-
+|Wiej 
+|goat
+|gungn
+|-
+|Iej(leu) 
+|goat
+|gungn
+|-
+|Zee
+|goat
+|gungn
+|}
+
+
+=== Onregelmoatige wearkweurde ===
+
+=== Doon ===
+:Ik doo
+:Iej doot
+:Hee dut/döt
+:Wiej doot
+:Iejleu doot
+:Zee doot
+
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|doo
+|dee
+|-
+|Doe
+|
+|
+|-
+|Iej 
+|doot
+|deedn
+|-
+|Hee 
+|dut/döt
+|dee
+|-
+|Wiej 
+|doot
+|deedn
+|-
+|Iej(leu) 
+|doot
+|deedn
+|-
+|Zee
+|doot
+|deedn
+
+|}
+
+
+=== Loopn ===
+:Ik loop(e)
+:Iej doopt
+:Hee löp
+:Wiej loopt
+:Iejleu loopt
+:Zee loopt
+
+{| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | persoon
+! style="background-color:#abcdef" | huudigen tied
+! style="background-color:#abcdef" | verleedn tied
+|-
+|Ik 
+|loop(e)
+|leup
+|-
+|Doe
+|
+|
+|-
+|Iej 
+|loopt
+|leupn
+|-
+|Hee 
+|löp
+|leup
+|-
+|Wiej 
+|loopt
+|leupn
+|-
+|Iej(leu) 
+|loopt
+|leupn
+|-
+|Zee
+|loopt
+|leupn
+
+|}
 
 == Weurde ==
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
