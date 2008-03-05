@@ -89,11 +89,11 @@ Encyclopedie
 |}
 
 {| style="border-spacing:8px;margin:0px -8px"
-|class="MainPageBG" style="width: 55%; border: 1px solid moccasin; background-color: #FFFFF0; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
-<div id="lang-nds-nl">{{Veurpagina/Interwiki's}}
+| class="MainPageBG" style="width: 55%; border: 1px solid moccasin; background-color: #FFFFF0; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
+<div id="lang-nds-nl">{{Veurpagina/Interwiki's}}</div>
 |}
 {| style="border-spacing:8px;margin:0px -8px"
-|colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid gainsboro; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
+| colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid gainsboro; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
 {| align="center" cellpadding="1" class=plainlinks
 | colspan="8" align=center | Wikipedie is een prejek van de [[Wikimedia Foundation]], dee verschillende aandere [[m:Complete_list_of_Wikimedia_projects|meertalige]] en [[Wikipedie:Auteursrechten|vrieje]] prejekken beheert.
 |- 
