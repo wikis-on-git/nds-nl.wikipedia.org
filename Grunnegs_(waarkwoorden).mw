@@ -35,7 +35,7 @@
 
 :<small>''*Oetsproken as <nowiki>[[hemm]]</nowiki>''<small>
 
-== Wezen* ==
+== Wezen* (zijn) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -70,7 +70,7 @@
 
 :<small>''*Oetsproken as <nowiki>[[weedn]] of [[weezn]]</nowiki>''<small>
 
-== Doun ==
+== Doun (doen) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -140,7 +140,7 @@
 
 :<small>''*Oetsproken as <nowiki>[[doch-hen]]</nowiki>''<small>
 
-== Goan ==
+== Goan (gaan) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -173,7 +173,143 @@
 |-
 |}
 
-== Zain ==
+== Kommen (komen) ==
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik kom
+|Ik kwam
+|Ik bin kommen
+|-
+|Doe komst
+|Doe kwamst
+|Doe bist kommen
+|-
+|Hai komt
+|Hai kwam
+|Hai is kommen
+|-
+|Wie kommen
+|Wie kwammen
+|Wie binnen kommen
+|-
+|Joe kommen
+|Joe kwammen
+|Joe binnen kommen
+|-
+|Zai kommen
+|Zai kwammen
+|Zai binnen kommen
+|-
+|}
+
+== Kinnen (kunnen) ==
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik kin
+|Ik kon
+|Ik heb kint
+|-
+|Doe kinst*
+|Doe konst*
+|Doe hest kint
+|-
+|Hai kin
+|Hai kon
+|Hai het kit
+|-
+|Wie kinnen
+|Wie konnen*
+|Wie hebben kint
+|-
+|Joe kinnen
+|Joe konnen
+|Joe hebben kint
+|-
+|Zai kinnen
+|Zai konnen
+|Zai hebben kint
+|-
+|}
+
+:''Oetsproken as [doekist] en [doekost]]''
+
+== Huiven (hoeven) ==
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik huif
+|Ik hof
+|Ik heb hoft
+|-
+|Doe huifst
+|Doe hofst
+|Doe hest hoft
+|-
+|Hai huift
+|Hai hof(t)
+|Hai het hoft
+|-
+|Wie huiven
+|Wie hovven
+|Wie hebben hoft
+|-
+|Joe huiven
+|Joe hovven
+|Joe hebben hoft
+|-
+|Zai huiven
+|Zai hovven
+|Zai hebben hoft 
+|-
+|}
+
+== Loaten/Lôten (laten) ==
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik loat/lôt
+|Ik luit, leut
+|Ik heb loaten/lôten
+|-
+|Doe lôtst, letst
+|Doe luitst, leutst
+|Doe hest loaten/lôten
+|-
+|Hai lôt, let
+|Hai luit, leut
+|Hai het loaten/lôten
+|-
+|Wie loaten/lôten
+|Wie luiten, leuten
+|Wie hebben loaten/lôten
+|-
+|Joe 
+|Joe zagen
+|Joe hebben zain
+|-
+|Zai zain, zuggen, ziggen
+|Zai zagen
+|Zai hebben zain 
+|-
+|}
+
+:"''Wie hebben hom sloapen lôten''" = "''Wij hebben hem laten slapen''" (lett: "''Wij hebben hem slapen gelaten''") 
+
+== Zain (zien) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -206,7 +342,7 @@
 |-
 |}
 
-== Mouten ==
+== Mouten (moeten) ==
 ''Bie dit waarkwoord wordt de ou ook oetsproken as körte o: ik mot, doe motst, wie motten, enz.''
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
@@ -240,7 +376,7 @@
 |-
 |}
 
-==Snieden ==
+== Snieden (snijden) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -255,7 +391,7 @@
 |Doe sneest
 |Doe hest sneden
 |-
-|Hai snid
+|Hai snidt
 |Hai sneed
 |Hai het sneden
 |-
@@ -273,7 +409,7 @@
 |-
 |}
 
-== Sloapen ==
+== Sloapen (slapen) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -359,20 +495,22 @@
 |Hai het koft/kocht
 |-
 |Wie kopen
-|Wie kovven/kochten
+|Wie koften*/kochten
 |Wie hebben koft/kocht
 |-
 |Joe kopen
-|Joe kovven/kochten
+|Joe koften/kochten
 |Joe hebben koft/kocht
 |-
 |Zai kopen
-|Zai kovven/ kochten
+|Zai koften/ kochten
 |Zai hebben koft/kocht
 |-
 |}
 
-== Aanpitjen ==
+:<nowiki>*</nowiki><small> oetsproken as kovven
+
+== Aanpitjen (pushen) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -405,7 +543,7 @@
 |-
 |}
 
-== Vroagen ==
+== Vroagen (vragen) ==
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
 ! width="15%" |Tegenswoordege tied
@@ -416,11 +554,11 @@
 |Ik vreug, vruig
 |Ik heb vroagd
 |-
-|Doe vroagst
+|Doe vroagst, vragst
 |Doe vreugst, vruigst
 |Doe hest vroagd
 |-
-|Hai vroagt
+|Hai vroagt, vrag
 |Hai vreug, vruig
 |Hai het vroagd
 |-
@@ -437,6 +575,41 @@
 |Zai hebben vroagd
 |-
 |}
+
+== Willen ==
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Tegenswoordege tied
+! width="15%" |Vergangen tied
+! width="30%" |Voltoeide tied
+|-
+|Ik wil
+|Ik wol
+|Ik heb wild
+|-
+|Doe wilst*
+|Doe wolst*
+|Doe hest wild
+|-
+|Hai wil
+|Hai wol
+|Hai het wild
+|-
+|Wie willen
+|Wie wollen
+|Wie hebben wild
+|-
+|Joe willen
+|Joe wollen
+|Joe hebben wild
+|-
+|Zai willen
+|Zai wollen
+|Zai hebben wild
+|-
+|}
+
+:<nowiki>*</nowiki> ''Oetsproken as [doe wist] en [doe wost]''
 
 == Zuch/zok wasken/wazzen ==
 {| {{prettytable}} width="60%"
