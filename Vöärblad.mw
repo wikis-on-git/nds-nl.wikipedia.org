@@ -35,14 +35,14 @@ Artikel van de maond
 ----------------------------------->
 ! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Fairytale bookmark.png|14px]] [[Wikipedie:Veurpagina-info|Artikel van de maond]]
 |-
-| style="; font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}<div style="border-top:1px solid #B1CDEB; margin-top:10px; margin-bottom:10px;"></div><small>[[:nds:Template:Hööftsiet/utwählt Artikel dissen Maand|Bekiek 't Platduutse artikel van de maond]]</small><br/><span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]]''</span>
+| style="; font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}<div style="border-top:1px solid #B1CDEB; margin-top:10px; margin-bottom:10px;"></div><small>[[:nds:Template:Hööftsiet/utwählt Artikel dissen Maand|Bekiek 't Platduutse artikel van de maond]]</small><br/><span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
 Wos je dat...
 ----------------------------------->
 ! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_Clear_app_clean.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]
 |-
-| style="font-family:Arial; font-size: 95%" | {{Sjabloon:Wos je dat/{{CURRENTMONTHNAME}}}} <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Wos_je_dat|archief]]''</span>
+| style="font-family:Arial; font-size: 95%" | {{Sjabloon:Wos je dat/{{CURRENTMONTHNAME}}}} <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Wos_je_dat|archief]])</span>
 |- 
 |-
 <!---------------------------------
@@ -50,7 +50,7 @@ Geschiedenisse
 ----------------------------------->
 ! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenisse van  {{CURRENTMONTHNAME}}]]</div>
 |- 
-| style="font-family:Arial; font-size: 95%" | {{Geschiedenisse/{{CURRENTMONTHNAME}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">''[[Wikipedie:Veurpagina-info/Geschiedenisse|archief]]''</span>
+| style="font-family:Arial; font-size: 95%" | {{Geschiedenisse/{{CURRENTMONTHNAME}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Geschiedenisse|archief]])</span>
 |- 
 |-
 |}
