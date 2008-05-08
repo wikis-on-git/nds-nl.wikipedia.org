@@ -9,16 +9,12 @@
 |}
 |style="width:12%;font-size:95%;color:#000"|
 *[[Hulpe:Nieje pagina maken|'''Begin niej artikel''']]
-*[[Special:Wantedpages|Gewunste&nbsp;artikels]]
 *[[:Kattegerie:In-espreuken artikel|Espreuken&nbsp;artikels]]
-|style="width:11%;font-size:95%"|
-*[[Wikipedie:Praotkefee|Praotkefee]]
-*[[Hulpe:Wikipedie|Hulpe]]
 *'''[[Wikipedie:Etelazie|Etelazie]]''' [[Ofbeelding:Fairytale bookmark.png|7px]]
 |style="width:11%;font-size:95%"|
 *[[Hulpe:Nedersaksisch schrieven|Plat,&nbsp;hoe&nbsp;schrief&nbsp;ie&nbsp;det?]]
 *[[Wikipedie:Nedersaksisch|Nedersaksisch]]
-*[[Wikipedie:Veurpagina-info|Veurpagina-info]]
+|style="width:11%;font-size:95%"|
 |}
 
 <div style="margin-top: 1em; padding-bottom: 1em; font-family: Arial, Helvetica, sans-serif; font-size:110%;">
@@ -69,7 +65,7 @@ Encyclopedie
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
 <h3><font color="green">[[Nedersaksië|Nedersaksisch taalgebied]]</font></h3>
-[[Nedersaksisch]] » [[Achterhooks]] » [[Drèents]] » [[Grunnegs]] » [[Sallaans]] » [[Stellingwarfs]] » [[Tweants]] » [[Urkers]] » [[Veluws]] » [[Oost-Veluws]] » [[West-Veluws]] » [[Westerkertiers]] » [[Tweants-Groafschops]] » [[Gelders-Oaveriessels]] » [[Nederlaands Leegsaksisch]] » [[Platduuts]]
+[[Nedersaksisch]] » [[Achterhooks]] » [[Drèents]] » [[Grunnegs]] » [[Sallaans]] » [[Stellingwarfs]] » [[Tweants]] » [[Urkers]] » [[Veluws]] » [[Oost-Veluws]] » [[West-Veluws]] » [[Nederlaands Leegsaksisch]] » [[Platduuts]]
 
 <h3><font color="#4A6BB5">[[Portaol:Nedersaksische cultuur|Nedersaksische cultuur]]</font></h3>
 [[Nedersaksische begroetingsvörms]] » [[Nedersaksische veurnamen]] » [[Nedersaksische achternamen]] » [[Nedersaksische volksleidjes]] » [[Nedersaksische gerechten]] » [[Nedersaksische schrieveri'je]] » [[Leegsaksische woordenbouken|Leegsaksische Wikipediewoordenbouken]] » [[Liest van zinnen ien de Leegsaksische dialekten]] » [[Portoal:Grunnen|Portoal Grunnen]] » [[Geschiednis van Grunnen]] » [[Portaol:Drenthe|Portaol Drenthe]]
@@ -96,27 +92,21 @@ Encyclopedie
 | colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid gainsboro; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
 {| align="center" cellpadding="1" class=plainlinks
 | colspan="8" align=center | Wikipedie is een prejek van de [[Wikimedia Foundation]], dee verschillende aandere [[m:Complete_list_of_Wikimedia_projects|meertalige]] en [[Wikipedie:Auteursrechten|vrieje]] prejekken beheert.
-|- 
-! colspan="4" | <h4>Meertalig</h4>
-! colspan="4" | <h4>Nederlaanstalig</h4>
 |- valign="top"
-| width="4%"  |[[Image:Wikimedia-logo.png|28px]]
-| width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Coördinasie van alle Wikimedia-prejekken
 | width="4%"  |[[Image:Commons-logo.svg|28px]]
-| width="21%" |[[Commons:Veurpagina|'''WikiCommons''']]<br />Verzameling van multimediabestanden
+| width="21%" |[[Commons:Veurpagina|'''WikiCommons''']]<br />Multimediaverzameling <small>(Nedersaksisch)</small>
+| width="4%"  |[[Image:Wikimedia-logo.png|28px]]
+| width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Prejekcoördinasie <small>(Nederlaans)</small>
 | width="4%"  |[[Image:Wiktionary-logo-en.png|28px]]
-| width="21%" |[http://nl.wiktionary.org/ '''WikiWoordenboek''']<br />Woordenboek
-| width="4%"  |[[Image:Wikibooks-logo.png|28px]]
-| width="21%" |[http://nl.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen
+| width="21%" |[http://nds.wiktionary.org/ '''WikiWoordenboek''']<br />Woordenboek <small>(Platduuts)</small>
 |- valign="top"
 | width="4%"  |[[Image:Wikisource-logo.png|28px]]
-| width="21%" |[http://nl.wikisource.org/wiki/Hoofdpagina '''WikiBronnen''']<br />Openbron-dokementen
-| width="4%"  |[[Image:Wikispecies-logo.png|28px]]
-| width="21%" |[http://species.wikipedia.org/wiki/Hoofdpagina '''WikiSpecies''']<br />Gids der soorten
-| width="4%"  |[[Image:Wikiquote-logo.png|28px]]
-| width="21%" |[http://nl.wikiquote.org/ '''WikiCitaoten''']<br />Verzameling van uutspraken
+| width="21%" |[http://wikisource.org/wiki/Hööftsiet:Plattdüütsch '''WikiBronnen''']<br />Openbron-dokementen <small>(Platduuts)</small>
+| width="4%"  |[[Image:Wikibooks-logo.png|28px]]
+| width="21%" |[http://nds.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen <small>(Platduuts)</small>
+</small>
 | width="4%"  |[[Image:Wikinews-logo.png|28px]]
-| width="21%" |[http://nl.wikinews.org/ '''WikiNiejs''']<br />Openbron-niejs
+| width="21%" |[http://nl.wikinews.org/ '''WikiNiejs''']<br />Openbron-niejs <small>(Nederlaans)</small>
 |}
 |}
 
