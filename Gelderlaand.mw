@@ -26,21 +26,21 @@ Webstee = [http://www.gelderland.nl www.gelderland.nl] |
 ==Geografie==
 Gelderlaand is, naor laandoppervlakte, de grootste pervinsie van Nederlaand, wat totale oppervlakte angeet is [[Frieslaand]] de grootste previnsie. 
 
-[[Nijmegen]] is de grootste stad, daornaos bin [[Arnem]], [[Apeldoorne (stad)|Apeldoorne]] en [[Ede (stad)|Ede]] belangrieke stejen. De belangriekere kleinere plaosen bin: [[Barreveld (daarp)|Barneveld]], [[Culemborg]], [[Deutekem|Doetechem]], [[Geldermalsen]], [[Harderwiek]], [[Tiel]], [[Velp (Gelderlaand)|Velp]], [[Wageningen (Nederlaand)|Wageningen]], [[Wijchen]], [[Zaltbommel]], [[Zevenaar]] en [[Zutfent]]. 
+[[Nimwaege|Nijmegen]] is de grootste stad, daornaos bin [[Arnem]], [[Apeldoorne (stad)|Apeldoorne]] en [[Ede (stad)|Ede]] belangrieke stejen. De belangriekere kleinere plaosen bin: [[Barreveld (daarp)|Barneveld]], [[Culemborg]], [[Deutekem|Doetechem]], [[Geldermalsen]], [[Harderwiek]], [[Tiel]], [[Velp (Gelderlaand)|Velp]], [[Wageningen (Nederlaand)|Wageningen]], [[Wijchen]], [[Zaltbommel]], [[Zevenaar]] en [[Zutfent]]. 
 
 Gelderlaand kan grofweg onderverdeeld wörden in drie gedeeltes:
 * De [[Betuwe]], bekend um zien vruchenteelt.
 * De [[Veluwe]] mit 't grootste aneen-esleuten [[bos]]gebied van Nederlaand.
 * De [[Achterhoek]] of Graafschap, die veural boers is.
 
-Aandere Gelderse gebieden bin 't [[Riek van Nijmegen]], de [[Liemers]], de [[Gelderse Vallei]], de [[Bommelerwaard]], de [[Tielerwaard]], 't [[Laand van Maas en Waal]] en de [[Iesselvallei]].
+Aandere Gelderse gebieden bin 't [[Riek van Nimwaege|Riek van Nijmegen]], de [[Liemers]], de [[Gelderse Vallei]], de [[Bommelerwaard]], de [[Tielerwaard]], 't [[Laand van Maas en Waal]] en de [[Iesselvallei]].
 
 Deur Gelderlaand loop de revier de [[Rien]] mit zien oftakkingen de [[Waal (revier)|Waal]] en de [[Iessel (revier)|Iessel]]. De [[Maas]] vormp de grens mit [[Noord-Braobant]].
 
 == Grootste stejen ==
 Hieronder vie-j een overzichte van de grootste (naor antal inwoeners) Gelderse stejen:
 
-# [[Nijmegen]]
+# [[Nimwaege|Nijmegen]]
 # [[Arnem]]
 # [[Apeldoorne (stad)|Apeldoorne]]
 # [[Ede (stad)|Ede]]
@@ -83,7 +83,7 @@ poly 668 574 668 549 666 549 666 544 674 546 686 541 685 538 699 533 702 537 702
 poly 286 624 280 610 288 605 283 602 285 595 282 589 295 593 300 588 301 595 305 596 307 591 339 595 342 579 335 578 329 571 330 571 338 572 345 570 351 574 361 564 374 573 388 576 394 574 405 569 410 574 404 578 404 585 426 580 418 585 416 595 425 595 431 602 433 609 436 620 410 618 398 616 369 615 357 611 341 613 325 621 306 623 [[Neder-Betuwe]]
 poly 97 664 118 666 135 662 143 656 145 658 171 657 192 663 198 655 210 655 231 649 244 659 256 661 238 682 225 706 211 706 195 690 187 687 163 695 146 697 128 702 115 699 108 694 99 697 101 689 96 681 [[Neerijnen (gemeente)|Neerijnen]]
 poly 242 297 250 270 295 259 296 279 310 285 317 285 338 314 387 310 389 315 384 324 378 325 371 319 353 323 354 330 346 330 348 340 336 343 329 334 329 330 327 326 318 326 315 330 311 328 296 334 297 346 295 352 272 347 271 314 254 299 250 303 [[Niekark]]
-poly 466 689 474 668 482 672 496 660 501 665 506 651 503 643 507 640 509 643 513 630 509 620 522 616 526 624 536 625 536 635 545 648 545 658 541 668 548 677 555 683 541 690 541 696 544 702 532 702 514 704 506 710 499 720 486 713 474 689 [[Nijmegen]]
+poly 466 689 474 668 482 672 496 660 501 665 506 651 503 643 507 640 509 643 513 630 509 620 522 616 526 624 536 625 536 635 545 648 545 658 541 668 548 677 555 683 541 690 541 696 544 702 532 702 514 704 506 710 499 720 486 713 474 689 [[Nimwaege]]
 poly 415 142 424 141 461 115 469 125 480 120 482 124 495 119 500 123 500 129 527 159 534 161 527 168 537 184 534 188 534 192 519 211 512 214 516 236 517 242 518 249 517 251 501 243 499 246 457 247 462 241 461 236 456 231 459 202 432 191 435 188 436 180 432 180 427 163 428 161 427 158 425 158 [[Nunspeet]]
 poly 513 50 518 34 518 28 525 4 534 1 563 47 581 37 588 44 611 22 619 30 619 38 624 38 628 46 628 60 622 75 620 75 589 112 577 118 579 121 562 126 552 110 558 106 547 98 530 76 531 71 535 67 [[Oldebroek]]
 poly 896 532 902 523 892 514 897 510 893 503 895 503 892 492 902 479 906 480 912 472 917 474 919 467 925 470 939 484 958 480 968 471 974 467 974 461 979 459 980 445 982 442 992 446 993 450 998 453 1005 446 1013 448 1013 457 1030 466 1027 480 1015 489 1010 495 1009 510 1012 531 1002 544 992 541 970 536 952 534 934 542 918 540 [[Oost Gelre]]
@@ -148,7 +148,7 @@ Der bint in totaal 56 gemeentes.
 *[[Neder-Betuwe]]
 *[[Neerijnen (gemeente)|Neerijnen]]
 *[[Niekark]]
-*[[Nijmegen]]
+*[[Nimwaege|Nijmegen]]
 *[[Nunspeet]]
 *[[Oldebroek]]
 *[[Olde Iesselstreek]]
@@ -185,7 +185,7 @@ Der bint in totaal 56 gemeentes.
 *[[Gelderse Vallei]]
 *[[Iesselvallei]]
 *[[Liemers]]
-*[[Riek van Nijmegen]]
+*[[Riek van Nimwaege|Riek van Nijmegen]]
 *[[Tielerwaard]]
 
 {{NederlaandsePrevinsies}}
