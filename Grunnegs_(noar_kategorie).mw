@@ -1,6 +1,7 @@
 '''Grunnegse woorden noar kategorie''' oet t [[Grunnegs woordenbouk]].
 
-== Grondkennes veur t Grunnegs ==
+== Algemain ==
+=== Standerdoetdrokkens en groutnissen ===
 {| width="60%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -10,16 +11,44 @@
 |-
 |Moi(en)!||hallo, totziens
 |-
-|Joe!||totziens
+|Joe!, tjeu (VEK)||totziens
 |-
-|Goimörn(g)/goimorn(g)||goedemorgen
+|Gouimörn(g)/gouimorn(g)||goedemorgen
 |-
-|Goidag||goedendag/goedemiddag
+|Gouidag (even)||goedendag/goedemiddag
 |-
-|Goioavend||goedenavond
+|Gouienoavend||goedenavond
+|-
+|Ain(e), gounend ''(mv)''||iemand
+|-
+|Wel, wol (WEV)||wel
+|-
+|Nait/niet/nai, nich (WEV)||niet
+|-
+|En/ìn||en
+|}
+
+=== Vroagwoorden ===
+{| width="40%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Wel||wie
+|-
+|Woar||waar
+|-
+|Wen(neer)||wanneer
+|-
+|Hou||hoe
+|-
+|Wat||wat
+|-
+|Woar heer||waar vandaan
+|-
+|Woar hìn||waar naartoe
 |}
 
 == Tied ==
+=== Tiedsaandudens ===
 {| width="50%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -72,88 +101,19 @@
 |Bie zummerdag||'s zomers/in de zomer
 |-
 |Bie winterdag||'s winters/ in de winter
-|}
-
-:<nowiki>*</nowiki>''bie snelle oetsproak ook oetsproken as [mirrag] of [mirreg]''
-
-== Moaten ==
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
 |-
-|Moat||maat
+|Dou||toen
 |-
-|Laandmoat||oppervlaktemaat
-|-
-|Rou||100 m²
-|-
-|Daaimt||halve hectare
-|-
-|Bunder||1 hectare
-|-
-|I(e)nhold||inhoud
-|-
-|Juk||halve hectare
-|-
-|Moatje/moatke||100 centiliter 
-|-
-|Liter/kan||1 liter
-|-
-|Spint||5 liter
-|-
-|Mudde/mut||100 liter
-|-
-|Vörrel||¼
-|-
-|Haalve/hèlfte||½
-|-
-|Haalfstieg||10
-|-
-|Dezain||12
-|-
-|Stiege||20
-|-
-|Wicht||gewicht
-|-
-|Po(u)nd||500 gram
-|-
-|Onze||100 gram
-|}
-
-== Algemaine oetdrukkens ==
-{| width="40%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Ain(e)/gounend ''(mv)''||iemand
+|Nou||nu
 |-
 |Dammiet/zo||dadelijk, straks
 |-
-|Wel/wol||wel
-|-
-|Nait/niet/nai/nich||niet
-|-
-|En/ìn||en
+|Loater||later
 |}
 
-== Vroagwoorden ==
-{| width="40%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Wel||wie
-|-
-|Woar||waar
-|-
-|Wen(neer)||wanneer
-|-
-|Hou||hoe
-|-
-|Wat||wat
-|-
-|Woar heer||waar vandaan
-|-
-|Woar hìn||waar naartoe
-|}
+:<nowiki>*</nowiki>''bie snelle oetsproak ook oetsproken as [mirg] of [mirreg]''
 
-== Doagen ==
+=== Doagen ===
 {| width="40%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -161,18 +121,18 @@
 |-
 |Dinsdag/dingsdag||dinsdag
 |-
-|Woensdag/wonsdag||woensdag
+|Wonsdag/woensdag||woensdag
 |-
 |Dunderdag||donderdag 
 |-
-|Vrijdag/Vraaidag||vrijdag
+|Vraaidag||vrijdag
 |-
 |Sotterdag/Sutterdag||zaterdag
 |-
 |Zöndag/zundag||zondag
 |}
 
-== Moanden ==
+=== Moanden ===
 {| width="40%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -201,7 +161,7 @@
 |Dezìmber||december
 |}
 
-== Saaizoens ==
+=== Saaizoens ===
 {| width="40%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -211,10 +171,10 @@
 |-
 |Haafst, noajoar||herfst, najaar
 |-
-|Wìnter||winter
+|Wìnter, wienter (WEK)||winter
 |}
 
-== Feestdoagen ==
+=== Feestdoagen ===
 {| width="55%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -240,10 +200,518 @@
 |-
 |Kìrsttied, midwinter, joul||kerstmis
 |-
-|Oljoar||oudjaar
+|Ol(d)joar||oudjaar
 |}
 
-== Kleuren ==
+==Moaten==
+=== Moatnoamen ===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Moat||maat
+|-
+|Laandmoat||oppervlaktemaat
+|-
+|I(e)nhold||inhoud
+|-
+|Wicht||gewicht
+|-
+|Laange, laangte||lengte
+|-
+|Braidte, bredte||breedte
+|-
+|Hoogte, höchte (VEK, WEV)||hoogte
+|-
+|Houveulhaid||hoeveelheid
+|-
+|Vörrel||kwart (¼)
+|-
+|Haalve, hèlfte||helft (½)
+|-
+|Haile, heile (WEV), huile (VEK), hele (WEK)||hele (1)
+|-
+|Poar||paar (2)
+|-
+|Kwartet||kwartet (4)
+|-
+|Haalfstieg||tiental (10)
+|-
+|Dezain||dozijn (12)
+|-
+|Stieg||twintigtal (20)
+|-
+|Rou||100 m²
+|-
+|Daaimt, juk||halve hectare (5000 m²)
+|-
+|Bunder||hectare (10.000 m²)
+|-
+|Moatje/moatke||100 centiliter 
+|-
+|Liter/kan||1 liter
+|-
+|Spint||5 liter
+|-
+|Schepel||10 liter 
+|-
+|Mut, mudde||100 liter
+|-
+|Po(u)nd*||500 gram
+|-
+|Onze*||100 gram
+|-
+|Kilo||1 kilogram (1000 g)
+|}
+
+<nowiki>*</nowiki>''De Pound en de Onze worden tegenswoordeg binoa nait meer broekt, môr olle mìnsken broeken t nog binoa doagelks''
+
+=== Verpakkens ===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|n Deus, deuze (VEK)||een doos
+|-
+|n Blik(ke)||een blik
+|-
+|n Flort, pak||een pak
+|-
+|n Rool, role (VEK)||een rol
+|-
+|n stôk||een stuk
+|-
+|n Vlès, vlèze (VEK)||een fles
+|-
+|n Puut, pude (VEK)||een zak
+|}
+
+=== Getallen ===
+Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa stait mor ain meugelkhaid. Moutst de meugelkheden uut de eerste riege toupassen op de riegen doarnoa.  
+
+{| width="40%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Nul||nul
+|-
+|Ain, aine (VEK), ein (WEV), een (WEK)||een
+|-
+|Twij, twei (WEV), twai (NVL, VEK), twèie (VEK)||twee
+|-
+|Drij, drei (WEV), drai (NVL, VEK), drèie (VEK)||drie
+|-
+|Vijer (HGL), vaaier, vaar(VEK), vare (VEK)||vier 
+|-
+|Vief, vieve (VEK)||vijf
+|-
+|Zes/ses, sèze (VEK)||zes 
+|-
+|Zeuven/seuven||zeven
+|-
+|Acht, Aachte (VEK)||acht
+|-
+|Negen||negen 
+|-
+|Tien, tiene (VEK)||tien
+|}
+
+{| width="40%" style="margin: 0em 0em;"
+|Elven, elf||elf
+|-
+|Twolven, twolf||twaalf
+|-
+|Dartien(e)*||dertien
+|-
+|Vartien(e)*||veertien 
+|-
+|Vieftien(e)||vijftien
+|-
+|Sestien(e)||zestien 
+|-
+|Zeuventien(e)||zeventien
+|-
+|Achttien(e)||achttien
+|-
+|Negentien(e)||negentien 
+|-
+|Twinteg**||twintig
+|}
+
+''<nowiki>* Oetsproken as [dattien] en [vattien]]</nowiki>''<br>
+''<nowiki>** Oetsproken as [twinnug]</nowiki>''
+
+{| width="40%" style="margin: 0em 0em;"
+|Darteg*||dertig
+|-
+|Varteg*||veertig
+|-
+|Viefteg||vijftig
+|-
+|Zesteg/sesteg||zestig 
+|-
+|Zeuventeg/seuventeg||zeventig
+|-
+|Tachteg||tachtig 
+|-
+|Negenteg||negentig
+|-
+|Honderd||honderd
+|}
+''<nowiki>* Oetsproken as [datteg] en [vatteg]]</nowiki>''<br>
+
+{| width="40%" style="margin: 0em 0em;"
+|Twijhonderd||tweehonderd
+|-
+|Drijhonderd||driehonderd
+|-
+|Vaaierhonderd||vierhonderd 
+|-
+|Viefhonderd||vijfhonderd
+|-
+|Zes-/seshonderd||zeshonderd
+|-
+|Zeuven-/seuvenhonderd||zevenhonderd
+|-
+|Aachthonderd||achthonderd
+|-
+|Negenhonderd||negenhonderd 
+|-
+|Doezend||duizend
+|-
+|Ain miljoen|een miljoen
+|}
+
+== Op raais ==
+===Verkeer===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Bie (t) pad||Op de weg
+|-
+|Boute, breuk||boete
+|-
+|Bred||bord
+|-
+|Broezen||snel rijden
+|-
+|Doenvoaren||rijden onder invloed
+|-
+|Flikkerlicht||knipperlicht
+|-
+|I(e)n richten van||richting
+|-
+|Oetvoart, uutvoart||afrit, uitrit
+|-
+|Ommelander raais||lange reis
+|-
+|Onderweegs||onderweg
+|-
+|Oversteek||zebrapad
+|-
+|Paarkern||parkeren
+|-
+|Riepe||trottoir
+|-
+|Stopstee||halte
+|-
+|Stremlicht||stoplicht
+|-
+|Stroat(e)||straat
+|-
+|Swoareghaid, kösten||kosten
+|-
+|Tegenvoar(d)er||tegenligger
+|-
+|Tuufken||langzaam rijden
+|-
+|Veurrang||voorrang
+|-
+|Voarn, rieden||rijden
+|-
+|Voart||verkeerssnelheid
+|-
+|Weeg, wege||weg
+|}
+
+===Vervouer===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Auto||auto (''[Oto]'' gain meugelke oetsproak)
+|-
+|Bus||autobus
+|-
+|Omnibus||stadsbus/streekbus 
+|-
+|Aachterkoar(e), aanhonger||aanhanger
+|-
+|Plof(fiets), plovvert, knallert||brommer
+|-
+|Woonwoagen, karavan||caravan
+|-
+|Bolwoagen, tilwoagen||vrachtwagen
+|-
+|Foajeton||onoverdekt rijtuig
+|-
+|Rad, fiets(e)||fiets
+|-
+|Vlaigmesien, vlaigtuug||vliegtuig
+|-
+|Toeristenbus||touristcar
+|-
+|Train||trein
+|-
+|Ziedkoar||zijspan
+|}
+
+===Om weeg vroagen===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Dij kaant oet||die kant op
+|-
+|Liekoet/liekuut||rechtdoor
+|-
+|Rìchts(ôf)||rechts(af)
+|-
+|Links(ôf)||links
+|-
+|Omgoan||terug gaan/rijden
+|-
+|Oet stad, dörp||de stad, het dorp uit
+|-
+|Bie revier laangs||langs de rivier
+|-
+|Tot de stremlichten tou||tot aan de stoplichten
+|}
+
+=== Ien train ===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Voar(d)er||bestuurder, machinist
+|-
+|Kondukteur||conducteur
+|-
+|Verbatshok||loket
+|-
+|Dagkoart||dagkaart
+|-
+|Ôfstimpeln||afstempelen
+|-
+|Stimpelmesien||stempelautomaat
+|-
+|Noar Stad tou||naar de stad Groningen
+|-
+|Zetstee, stee||zitplaats
+|-
+|Ôfraais||vertrek
+|-
+|Aankommen||aankomst
+|-
+|Stasjon||station
+|-
+|I(e)ngaang||ingang
+|-
+|Oetgaang||uitgang
+|-
+|Manluu-/herengemak||herentoilet
+|-
+|Vraauwluugemak*||damestoilet
+|-
+|Pafken||roken
+|-
+|Neudoetgaang||nooduitgang
+|-
+|Toulèg||toeslag
+|-
+|Reserveerd||gereserveerd
+|}
+
+:<nowiki>*</nowiki>''ook vruiluugemak of vraauwliegemak''</small>
+
+== Toerisme en rekrioatsie ==
+=== Ien n stad of dörp ===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Akwoariom||Aquarium
+|-
+|Bioskoop||bioscoop
+|-
+|Börg/ borg||borg
+|-
+|Daaier(n)-/darentoen(e)||dierentuin
+|-
+|Domkìrk||kathedraal
+|-
+|Graft||gracht
+|-
+|Hotel||hotel
+|-
+|Kavvee||café
+|-
+|Kestail, slöt||kasteel
+|-
+|Kìrk(e), kèrk(e)||kerk
+|-
+|Klooster, klouster||klooster
+|-
+|Looproete||wandelroute
+|-
+|Maar(k)tploats||marktplein
+|-
+|Meul||molen
+|-
+|Monumìnt||monument
+|-
+|Muzijom, muzeum||Museum
+|-
+|Oldstad||Oude binnenstad
+|-
+|Paark||park
+|-
+|Paarkgeroazie||parkeergarage
+|-
+|Roadhoes, stadhoes||gemeente-/stadhuis
+|-
+|Ristoraant||restaurant
+|-
+|Stadmidden||binnenstad
+|-
+|Stadswaal/-muur/-mure/-maauwer||stadsmuur
+|-
+|Stee-en-stoetje||bed-and-breakfast
+|-
+|Tejoater||theater, schouwburg
+|-
+|Toren/ toeren||toren
+|-
+|Vesten||vesting
+|-
+|Winkelstroat(e)||Winkelstraat
+|-
+|Zainsweerdegheden||bezienswaardigheden
+|-
+|Zìntrum||centrum
+|}
+
+===Ien börgen, kìrken, enz. ===
+{| width="40%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|keunenklek||koninklijk
+|-
+|heertogelk||hertogelijk
+|-
+|groavelk||grafelijk
+|-
+|bisskoppelk/bisschoppelk||bisschoppelijk
+|-
+|jonkersk||adelijk
+|-
+|börg||borg (landhuis, kasteeltje)
+|-
+|stainhoes||steenhuis
+|-
+|ridderzoal||ridderzaal
+|-
+|ontvangenszoal||ontvangstzaal
+|-
+|middenzoal||centrale zaal
+|-
+|vangenshol||kerker
+|-
+|keuk(en)||keuken
+|-
+|schat-/skathoes||veehuis
+|-
+|börgtoen||kasteeltuin
+|-
+|(midden)schip||middenschip
+|-
+|koor||koor
+|-
+|ziedschip||zijschip
+|-
+|kop, absis||absis
+|-
+|vèlven||gewelf
+|-
+|aalter||altaar
+|-
+|benedikter||benedictijnen
+|-
+|sistersjenser||cisterciënzers
+|-
+|dominiker||dominicanen
+|-
+|fransisker||franciscanen
+|-
+|jezuwieten||jezuïeten
+|-
+|kruusheren||kruisheren
+|-
+|veurhistorisch||prehistorisch
+|-
+|romoans||romaans
+|-
+|Oldfrais||Oud-Fries, romano-gotisch
+|-
+|gotisch||gotisch
+|-
+|middelaiws/-eeuws/-eiws/-aivs||middeleeuws
+|-
+|Reums||romeins
+|-
+|renaissance||renaissance
+|-
+|barok||barok
+|-
+|rokoko||rococo
+|-
+|klassisistisch||classicistisch
+|-
+|nijmoods||modern
+|}
+
+===Aan zee===
+{| width="40%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
+|-
+|Badstraand||toegankelijk strand
+|-
+|Tougang veur geefs||gratis toegankelijk
+|-
+|Swimmen verboden||verboden te zwemmen
+|-
+|Badklaaider, badkrös||zwemkleding
+|-
+|Lochtbèrre||luchtbed
+|-
+|Badpool||badmuts
+|-
+|Haanddouk||handdoek
+|-
+|Does(k)||douche
+|-
+|Eb(be)||eb
+|-
+|Boar(e)||golf (kleine)
+|-
+|Wag(e)||golf (groot)
+|-
+|Knizzenstraand||kiezelstrand
+|-
+|Kwaal/kwale||kwal
+|-
+|Schulp||schelp
+|-
+|Vloud, vlod||vloed
+|-
+|Wi(e)ndschaarm||windscherm
+|}
+
+== Doagelkse dingen ==
+=== Kleuren ===
 {| width="40%" style="margin: 0em 0em;"
 |'''Biewoord'''||'''Bievougleks noamwoord'''||'''Nederlaands'''
 |-
@@ -270,100 +738,7 @@
 |Wit||widde||wit
 |}
 
-== Getallen ==
-Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa stait mor ain meugelkhaid. Moutst de meugelkheden uut de eerste riege toupassen op de riegen doarnoa.  
-
-{| width="40%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Nul||nul
-|-
-|Ain(e), ein(e), een||een
-|-
-|Twai, twij, twèie||twee
-|-
-|Drai, drij, drèie||drie
-|-
-|Vijer, vaaier, vaar, vare||vier 
-|-
-|Vief, vieve||vijf
-|-
-|Ses, sèze||zes 
-|-
-|Zeuven||zeven
-|-
-|Acht, Aachte||acht
-|-
-|Negen||negen 
-|-
-|Tien(e)||tien
-|}
-
-{| width="40%" style="margin: 0em 0em;"
-|Elven*||elf
-|-
-|Twolven**||twaalf
-|-
-|Dartien(e)||dertien
-|-
-|Vartien(e)||veertien 
-|-
-|Vieftien(e)||vijftien
-|-
-|Sestien(e)||zestien 
-|-
-|Zeuventien(e)||zeventien
-|-
-|Achttien(e)||achttien
-|-
-|Negentien(e)||negentien 
-|-
-|Twinteg***||twintig
-|}
-
-:<small>''<nowiki>* Uutsproken as [[elm]]</nowiki>''<small>
-:<small>''<nowiki>** Uutsproken as [[twolm]]</nowiki>''<small>
-:<small>''<nowiki>*** Uutsproken as [[twinneg]]</nowiki>''<small>
-
-{| width="40%" style="margin: 0em 0em;"
-|Darteg||dertig
-|-
-|Varteg||veertig
-|-
-|Viefteg||vijftig
-|-
-|Sesteg||zestig 
-|-
-|Zeuventeg||zeventig
-|-
-|Tachteg||tachtig 
-|-
-|Negenteg||negentig
-|-
-|Honderd||honderd
-|}
-
-{| width="40%" style="margin: 0em 0em;"
-|Twijhonderd||tweehonderd
-|-
-|Drijhonderd||driehonderd
-|-
-|Vaaierhonderd||vierhonderd 
-|-
-|Viefhonderd||vijfhonderd
-|-
-|Seshonderd||zeshonderd
-|-
-|Zeuvenhonderd||zevenhonderd
-|-
-|Aachthonderd||achthonderd
-|-
-|Negenhonderd||negenhonderd 
-|-
-|Doezend||duizend
-|}
-
-== Femilie ==
+=== Femilie ===
 {| width="60%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -406,7 +781,7 @@ Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa s
 |Opoe, bepke||oma
 |}
 
-== t Weer ==
+=== t Weer ===
 {| width="60%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
@@ -469,161 +844,7 @@ Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa s
 |Iesel||ijzel
 |}
 
-== Op weeg ==
-===Vervouer===
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Auto, kar||auto
-|-
-|Bus||autobus
-|-
-|Omnibus||stadsbus/streekbus 
-|-
-|Aachterkoar(e), aanhonger||aanhanger
-|-
-|Plof(fiets), plovvert, knallert||brommer
-|-
-|Woonwoagen, karavan||caravan
-|-
-|Bolwoagen, tilwoagen||vrachtwagen
-|-
-|Foajeton||onoverdekt rijtuig
-|-
-|Rad, fiets(e)||fiets
-|-
-|Vlaigmesien, vlaigtuug||vliegtuig
-|-
-|Toeristenbus||touristcar
-|-
-|Train||trein
-|-
-|Ziedwoagen||zijspan
-|}
-
-===Om de weeg vroagen===
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Liekoet/liekuut||rechtdoor
-|-
-|Rìchts(of)||rechts(af)
-|-
-|Links(of)||links
-|-
-|Omgoan||terug gaan/rijden
-|-
-|Oet stad, dörp||de stad, het dorp uit
-|-
-|Bie t revier laangs||langs de rivier
-|-
-|Tot de stremlichten tou||tot aan de stoplichten
-|-
-|Dij kaant oet||die kant op
-|}
-
-=== Overg op weeg ===
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Voarn, rieden||rijden
-|-
-|Voart||verkeerssnelheid
-|-
-|Tuufken||langzaam rijden
-|-
-|Broezen||snel rijden
-|-
-|Weeg, wege, pad||weg
-|-
-|Flikkerlicht||knipperlicht
-|-
-|Paarkern||parkeren
-|-
-|Doenvoaren||rijden onder invloed
-|-
-|In richten van||richting
-|-
-|Oetvoart, uutvoart||afrit, uitrit
-|-
-|Veurrang||voorrang
-|-
-|Verkeersbred||verkeersbord
-|-
-|Boute, breuk||boete
-|-
-|Swoareghaid, kösten||kosten
-|}
-
-== In train ==
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|Raais, raaize||reis
-|-
-|Ommelander raais||lange reis
-|-
-|Voarder(t)||bestuurder, machinist
-|-
-|Kondukteur||conducteur
-|-
-|Verbatshok||loket
-|-
-|Dagkoart||dagkaart
-|-
-|Ôfstimpeln||afstempelen
-|-
-|Stimpelmesien||stempelautomaat
-|-
-|Noar Stad tou||naar de stad Groningen
-|-
-|Zetstee, stee||zitplaats
-|-
-|Ofraais||vertrek
-|-
-|Aankommen||aankomst
-|-
-|Stasjon||station
-|-
-|I(e)ngaang||ingang
-|-
-|Oetgaang||uitgang
-|-
-|Herengemak||herentoilet
-|-
-|Vraauwluugemak*||damestoilet
-|-
-|Pafken||roken
-|-
-|Neudoetgaang||nooduitgang
-|-
-|Touleg||toeslag
-|-
-|Reserveerd||gereserveerd
-|}
-
-:<nowiki>*</nowiki>''ook vruiluugemak of vraauwliegemak''</small>
-
 == Eterij en drinkerij ==
-=== Verpakken, houveulhaid ===
-{| width="60%" style="margin: 0em 0em;"
-|'''Grunnegs'''||'''Nederlaands'''
-|-
-|n Deus, deuze||een doos
-|-
-|n Blik(ke)||een blik
-|-
-|n Flort, pak||een pak
-|-
-|Ain stôk||één stuk
-|-
-|n Poar||een paar
-|-
-|n Vlès, vlèze||een fles
-|-
-|n Puut, pude||een zak
-|}
-
 === Gruinte en fruit ===
 {| width="60%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
@@ -707,7 +928,7 @@ Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa s
 |-
 |Metwôrst||droge worst
 |-
-|Ozzensteert||ossenstaart
+|Ozzen-/oksensteert||ossenstaart
 |-
 |Heern||haring
 |-
@@ -715,7 +936,7 @@ Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa s
 |-
 |Dörsk(e)||kabeljauw
 |-
-|Solm||zalm
+|Laks, Solm||zalm
 |-
 |Meun||voorn
 |-
@@ -868,42 +1089,45 @@ Bie de eerste riege getallen stoan meerdere meugelkheden. In de riegen doarnoa s
 |[[Boerenwicht]]||brandewijn met perzikken (G)
 |}
 
-==Sport en rekrioatsie==
-===Aan zee===
-{| width="40%" style="margin: 0em 0em;"
+== Daaier ==
+=== Visken en aander woaterdaaier ===
+{| width="60%" style="margin: 0em 0em;"
 |'''Grunnegs'''||'''Nederlaands'''
 |-
-|Badstraand||toegankelijk strand
+|Kat, kadde||kat
 |-
-|Tougang veur geefs||gratis toegankelijk
+|Hond/hound, dog||hond
+|}
+
+=== Visken en aander woaterdaaier ===
+{| width="60%" style="margin: 0em 0em;"
+|'''Grunnegs'''||'''Nederlaands'''
 |-
-|Swimmen verboden||verboden te zwemmen
+|Heern||haring
 |-
-|Badklaaider, badkrös||zwemkleding
+|Tuunvisk||tonijn
 |-
-|Lochtbèrre||luchtbed
+|Dörsk(e)||kabeljauw
 |-
-|Badpool||badmuts
+|Solm||zalm
 |-
-|Haanddouk||handdoek
+|Meun||voorn
 |-
-|Does(k)||douche
+|Vlunder||bot
 |-
-|Eb(be)||eb
+|Mekrail||makreel
 |-
-|Boar(e)||golf (kleine)
+|Vorelle||forel
 |-
-|Wag(e)||golf (groot)
+|Oal||paling
 |-
-|Knizzenstraand||kiezelstrand
+|Zeeblèr||tong
 |-
-|Kwaal/kwale||kwal
+|Genoat||garnaal
 |-
-|Schulp||schelp
+|Mözzel||mossel
 |-
-|Vloud, vlod||vloed
-|-
-|Wi(e)ndschaarm||windscherm
+|Kraab||krab
 |}
 
 {{Grunnegs woordenbouk}}
