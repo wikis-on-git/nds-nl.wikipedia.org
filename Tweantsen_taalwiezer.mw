@@ -77,51 +77,9 @@ Meesttieds wördt an t eande van n woord noa nen langn klaank de [r] neet oet-es
 
 <small>In völle plaatsn wörd "hee" ook vuur vrouwleu broekt. t Blik oet de rest van t verhaal wal of t um nen kearl of ne vrouwe geet.</small>
 
-===Lidwöarde===
-t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mannelik, Vrouwelik en Onziedig.
-
-====onbepoalde lidwöarde====
-{| class="prettytable" rules="all" cellpadding="2" width="80%" style="border: 1px solid #999"
-! style="background-color:#abcdef" | Mannelik
-! style="background-color:#abcdef" | Vrouwelik
-! style="background-color:#abcdef" | Onziedig
-! style="background-color:#abcdef" | Meervoald
-|-
-|nen kearl
-|ne vrouwe
-|n wich
-|.-. leu {{Info|Vuur mearvoold besteet gin onbepoald lidwoard; mangs wördt r "wat" of "n antal" gebroekt: "wat leu"}}
-|}
-
-===bepoalde lidwöarde===
-{| class="prettytable" rules="all" cellpadding="2" width="80%" style="border: 1px solid #999"
-! style="background-color:#abcdef" | Mannelik
-! style="background-color:#abcdef" | Vrouwelik
-! style="background-color:#abcdef" | Onziedig
-! style="background-color:#abcdef" | Meervoald
-|-
-|n kearl
-|de vrouwe
-|t wich
-|de leu
-|}
-
-===anwieswöarde===
-{| class="prettytable" rules="all" cellpadding="2" width="80%" style="border: 1px solid #999"
-! style="background-color:#abcdef" | Mannelik
-! style="background-color:#abcdef" | Vrouwelik
-! style="background-color:#abcdef" | Onziedig
-! style="background-color:#abcdef" | Meervoald
-|-
-|Den kearl
-|dee vrouwe
-|Det/dat wich
-|Dee leu
-|}
-
-
 === Bezittelike veurnaamweurde ===
 {| class="prettytable" rules="all" cellpadding="2" width="80%" style="border: 1px solid #999"
+! style="background-color:#abcdef" | 
 ! style="background-color:#abcdef" | Mannelik
 ! style="background-color:#abcdef" | Vrouwelik
 ! style="background-color:#abcdef" | Onziedig
@@ -174,8 +132,8 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 === Regelmoatige wearkweurde ===
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
-! style="background-color:#abcdef" | verleedn tied
+! style="background-color:#abcdef" | rechtevoortse tied
+! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
 |Ik 
@@ -217,8 +175,8 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 === Hebn === 
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
-! style="background-color:#abcdef" | verleedn tied
+! style="background-color:#abcdef" | rechtevoortse tied
+! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
 |Ik 
@@ -259,7 +217,7 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 === Wean ===
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
+! style="background-color:#abcdef" | rechtevoortse tied
 ! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
@@ -303,8 +261,8 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 === Goan ===
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
-! style="background-color:#abcdef" | verleedn tied
+! style="background-color:#abcdef" | rechtevoortse tied
+! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
 |Ik 
@@ -349,8 +307,8 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
-! style="background-color:#abcdef" | verleedn tied
+! style="background-color:#abcdef" | rechtevoortse tied
+! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
 |Ik 
@@ -393,8 +351,8 @@ t Lidwoard haank of van t geslacht van t woord. Tweants ken dree geslachtn: Mann
 === Loopn ===
 {| class="prettytable" rules="all" cellpadding="2" width="50%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" | persoon
-! style="background-color:#abcdef" | hudige tied
-! style="background-color:#abcdef" | verleedn tied
+! style="background-color:#abcdef" | rechtevoortse tied
+! style="background-color:#abcdef" | verledn tied
 ! style="background-color:#abcdef" | voleandigde tied
 |-
 |Ik 
@@ -752,9 +710,6 @@ Dit oonderdeel is um te loatn zeen dèt Tweants vake aandere oetdrukkingen hef a
 |Dat kan ik nog wel gebruiken
 |Dèt kon miej wal pasn
 |-
-|Dat onding...
-|Den smearlap, det moat, det (on)deer
-|-
 |Dat smaakt erg lekker
 |Dèt kö'j best ètn
 |-
@@ -763,9 +718,6 @@ Dit oonderdeel is um te loatn zeen dèt Tweants vake aandere oetdrukkingen hef a
 |-
 |De wind van voren krijgen
 |n Schoer duur de bene kriegn, n board der of kriegn
-|-
-|Die gast/gozer/kerel...
-|Den grapnmaker, dat moat
 |-
 |Die verloochent zijn afkomst
 |Den hef zin hoesnommer vergètn, Den wil heugerder drietn as at e t gat hef zitn, Den hef zienn hoesbreef verleurn
