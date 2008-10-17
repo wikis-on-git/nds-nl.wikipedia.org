@@ -229,20 +229,29 @@ NL: Jan is groter dan ik
 
 === Regelmoatige warkwoorden ===
 ==== Tegenswoordige tied ====
-{| width="40%" style="margin: 0em 0em;"
-|'''Vervoegen'''||'''Veurbeeld'''
+{| {{prettytable}} width="60%"
+|- style="background: #efefef;"
+! width="15%" |Vervoogen
+! width="15%" |Veurbeeld
 |-
-|Ik STAM ''(+ extra klinker)''||ik wark(e)
+|Ik STAM ''(+ extra klinker)''
+|Ik wark''(e)'''
 |-
-|I-j STAM + ''t''||i-j wark'''t'''
+|I-j STAM + ''t''
+|I-j wark'''t'''
 |-
-|Hi-j STAM ''(+ t)''||hi-j wark'''t''' (moar ok ''hi-j löp'' veur ''hij loopt'')
+|Hi-j STAM ''(+ t)''
+|Hi-j wark'''t'''
 |-
-|Wi-j STAM + t||wie wark'''t'''
+|Wi-j STAM + t
+|Wi-j wark'''t'''
 |-
-|I-jluu STAM + t||i-jluu wark'''t'''
+|I-jleu STAM + t
+|I-jleu wark'''t'''
 |-
-|Zi-jluu STAM + t||zi-jluu wark'''t'''
+|Zi-jleu STAM + t
+|Zi-jleu wark'''t'''
+|-
 |}
 
 ==== Verleden tied ====
