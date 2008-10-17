@@ -228,55 +228,68 @@ NL: Jan is groter dan ik
 
 
 === Regelmoatige warkwoorden ===
-==== Tegenswoordige tied ====
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
-! width="15%" |Vervoogen
-! width="15%" |Veurbeeld
+! width="15%" |Tegenswoordige tied
+! width="15%" |Verleden tied
+! width="15%" |Voltooide tied
 |-
-|Ik STAM ''(+ extra klinker)''
-|Ik wark''(e)'''
+|Ik STAM '''(+ e)'''
+|Ik STAM  + '''en'''
+|Ik heb e-STAM + '''t'''
 |-
-|I-j STAM + ''t''
-|I-j wark'''t'''
+|I-j STAM + '''t'''
+|I-j STAM  + '''en'''
+|I-j hebt e-STAM + '''t'''
 |-
-|Hi-j STAM ''(+ t)''
-|Hi-j wark'''t'''
+|Hi-j STAM '''(+ t)'''
+|Hi-j STAM  + '''en'''
+|Hi-j hef e-STAM + '''t'''
 |-
-|Wi-j STAM + t
-|Wi-j wark'''t'''
+|Wi-j STAM + '''t'''
+|Wi-j STAM  + '''en'''
+|Wi-j hebt e-STAM + '''t'''
 |-
-|I-jleu STAM + t
-|I-jleu wark'''t'''
+|I-jleu STAM + '''t'''
+|I-jleu STAM  + '''en'''
+|I-jleu hebt e-STAM + '''t'''
 |-
-|Zi-jleu STAM + t
-|Zi-jleu wark'''t'''
+|Zi-jleu STAM + '''t'''
+|Zi-jleu STAM  + '''en'''
+|Zi-jleu hebt e-STAM + '''t'''
 |-
 |}
 
-==== Verleden tied ====
+Veurbeeld:
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
-! width="15%" |Vervoogen
-! width="15%" |Veurbeeld
+! width="15%" |Tegenswoordige tied
+! width="15%" |Verleden tied
+! width="15%" |Voltooide tied
 |-
-|Ik STAM  + en
-|ik wark'''en'''
+|Ik wark'''e'''
+|Ik wark'''en'''
+|Ik heb ewark'''t'''
 |-
-|I-j STAM + en
-|I-j wark'''en'''
+|I-j wark'''t'''
+|I-j warken'''en'''
+|I-j hebt ewark'''t'''
 |-
-|Hi-j STAM + en
+|Hi-j wark'''t'''
 |Hi-j wark'''en'''
+|Hi-j hef e-wark'''t'''
 |-
-|Wi-j STAM + en
+|Wi-j wark'''t'''
 |Wi-j wark'''en'''
+|Wi-j hebt ewark'''t'''
 |-
-|I-jluu STAM + en
-|I-jluu wark'''en'''
+|I-jleu wark'''t'''
+|I-jleu wark'''en'''
+|I-jleu hebt ewark'''t'''
 |-
-|Zi-j(leu) STAM + en
-|Zi-j(leu) wark'''en'''
+|Zi-jleu warkt'''t'''
+|Zi-jleu wark'''en'''
+|Zi-jleu hebt ewark'''t'''
 |-
 |}
 
