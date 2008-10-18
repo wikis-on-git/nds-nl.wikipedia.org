@@ -227,12 +227,15 @@ NL: Jan is groter dan ik
 
 
 
-=== Regelmoatige warkwoorden ===
+=== Zwakke warkwoorden ===
+
+Zwakke warkwoorden bunt warkwoorden, woarvan de verleedn tied, en de volteuide tied denzelfden klinker hebt as de teggenswoardige tied.
+
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
-! width="15%" |Tegenswoordige tied
-! width="15%" |Verleden tied
-! width="15%" |Voltooide tied
+! width="15%" |Teggenswoordige tied
+! width="15%" |Verleedn tied
+! width="15%" |Volteuide tied
 |-
 |Ik STAM '''(+ e)'''
 |Ik STAM  + '''en'''
@@ -263,9 +266,9 @@ NL: Jan is groter dan ik
 Veurbeeld:
 {| {{prettytable}} width="60%"
 |- style="background: #efefef;"
-! width="15%" |Tegenswoordige tied
-! width="15%" |Verleden tied
-! width="15%" |Voltooide tied
+! width="15%" |Teggenswoordige tied
+! width="15%" |Verleedn tied
+! width="15%" |Volteuide tied
 |-
 |Ik wark'''e'''
 |Ik wark'''en'''
