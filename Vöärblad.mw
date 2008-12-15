@@ -21,8 +21,31 @@
 <div style="margin-top: 1em; padding-bottom: 1em; font-family: Arial, Helvetica, sans-serif; font-size:110%;">
 Welkom bie de '''[[Nedersaksisch]]e''' uutgave van [[Wikipedia|Wikipedie]], een [[encyclopedie]] in een [[m:List of Wikipedias|bulte talen]] waor iederene an mee kan doon. Disse uutgave besteet vanof [[24 meert]] [[2006]] en hef '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' artikels. Disse Wikipedie hef as doel infermasie an te biejen in 't [[Wikipedie:Nedersaksisch|Nedersaksisch]] uut Nederlaand en de grensstreek mit Duutslaand. Wi-j meer infermasie, kiek op de pagina veur [[Hulpe:Info veur niejelingen|niejelingen]].</div>
 
-<!-----------------------------
-Heuftebel
+<!---------------------------------
+Heuftebel 1
+----------------------------------->
+{| style="border-spacing:0px;margin:0px 0px;width:100%"
+| style="border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
+<!---------------------------------
+Pertaolen
+----------------------------------->
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="margin: 0px auto; width: 100px;">[[Ofbeelding:Fairytale bookmark.png|14px]] Pertaolen
+|-
+| style="; font-family:Arial; font-size: 95%" | 
+<div class="portale" align="center">
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Intersaksische vlagge 3.svg|30px]]&nbsp;</span>[[Portaol:Nedersaksische cultuur|Nedersaksische cultuur]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Flag of Doetinchem.svg|30px|border|Vlagge van Deutekem]]&nbsp;</span>[[Portaol:Achterhook|Achterhook]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Flag_Drenthe.svg|30px|border|Drèentse vlagge]]&nbsp;</span>[[Portaol:Drenthe|Drenthe]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Flag_Groningen.png|30px|Grunnense vlaag]]&nbsp;</span>[[Portoal:Grunnen|Grunnen]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Vlag_van_Twente.gif|30px|Tweantse vlagge]]&nbsp;</span>[[Portoal:Tweante|Tweante]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Conduit.png|30px]]&nbsp;</span>[[Portaol:Portaolenoaverzicht|Portaolenoaverzicht]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</div>
+|-
+|}
+|}
+<!---------------------------------
+Heuftebel 2
 ----------------------------------->
 {| style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
@@ -37,11 +60,10 @@ Artikel van de maond
 <!---------------------------------
 Wos je dat...
 ----------------------------------->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_Clear_app_clean.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]
+! style="background-color: #F0F3CD; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #DDDDA4; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green3.jpg]]</div><div style="float:left;">[[Image:Crystal_Clear_app_clean.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]
 |-
 | style="font-family:Arial; font-size: 95%" | {{Sjabloon:Wos je dat/{{CURRENTMONTHNAME}}}} <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Wos_je_dat|archief]])</span>
 |- 
-|-
 <!---------------------------------
 Geschiedenisse
 ----------------------------------->
@@ -49,7 +71,6 @@ Geschiedenisse
 |- 
 | style="font-family:Arial; font-size: 95%" | {{Geschiedenisse/{{CURRENTMONTHNAME}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Geschiedenisse|archief]])</span>
 |- 
-|-
 |}
 
 <!-------------------------------------
@@ -65,26 +86,20 @@ Encyclopedie
 ! style="background-color: #CEF2E8; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[Ofbeelding:Crystal Clear app package network.png|20px]] [[Encyclopedie]]</div>
 |-
 | style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 90%" | 
-<h3><font color="green">[[Nedersaksië|Nedersaksisch taalgebied]]</font></h3>
-[[Nedersaksisch]] » [[Achterhooks]] » [[Drèents]] » [[Grunnegs]] » [[Sallaans]] » [[Stellingwarfs]] » [[Tweants]] » [[Urkers]] » [[Veluws]] » [[Oost-Veluws]] » [[West-Veluws]] » [[Nederlaands Leegsaksisch]] » [[Platduuts]]
+<h3><font color="green">[[Nedersaksisch]]</font></h3>
+[[Achterhooks]] » [[Drèents]] » [[Grunnegs]] » [[Sallaans]] » [[Stellingwarfs]] » [[Tweants]] » [[Urkers]] » [[Veluws]] » [[Oost-Veluws]] » [[West-Veluws]] »  [[Gelders-Oaveriessels]] » [[Tweants-Groafschops]] » [[Nederlaands Leegsaksisch]] » [[Platduuts]] » [[Noord Leegsaksisch]] » [[Oostfaals]] » [[Oostfreisk Nederduutsk]] » [[Oost Leegduuts]] » [[Sleeswieks]] » [[Westfaals]] 
 
-<h3><font color="#4A6BB5">[[Portaol:Nedersaksische cultuur|Nedersaksische cultuur]]</font></h3>
-[[Nedersaksische begroetingsvörms]] » [[Nedersaksische veurnamen]] » [[Nedersaksische achternamen]] » [[Nedersaksische volksleidjes]] » [[Nedersaksische gerechten]] » [[Nedersaksische schrieveri'je]] » [[Leegsaksische woordenbouken|Leegsaksische Wikipediewoordenbouken]] » [[Liest van zinnen ien de Leegsaksische dialekten]] » [[Geschiednis van Grunnen]] »  [[Wikipedie:Nedersaksisch beluustern|Nedersaksisch beluustern]]
+<h3><font color="#4A6BB5">[[Nedersaksië|Nederlaans-Nedersaksisch taalgebied]]</font></h3>
+[[Achterhook]] » [[Drenthe]] » [[Flevolaand]] » [[Frieslaand]] » [[Gelderlaand]] » [[Grunnen (provìnzie)|Grunnen]] » [[Liemers (streek)|Liemers]] » [[Oaveriessel]] » [[Sallaand]] » [[Stellingwarven]] » [[Tweante]] » [[Utrech (previnsie)|Utrech]] » [[Veluwe]] » [[Westerkertier]]
 
-<h3><font color="gray">[[Portaol:Nedersaksische cultuur|Portoaln]]</font></h3>
-[[Portoal:Grunnen|Portoal Grunnen]] » [[Portaol:Drenthe|Portaol Drenthe]] » [[Portaol:Achterhook|Portaol Achterhook]] » [[Portoal:Tweante|Portoal Tweante]]
+<h3><font color="gray">[[Wetenschop|Wetenschappen]]</font></h3>
+[[Antropologie]] » [[Biologie]] » [[Eerdwetenschoppen]] » [[Filesefie]] » [[Geografie]] » [[Geschiedenis]] » [[Komputerkunde]] » [[Laandbouw]] » [[Netuurkunde]] » [[Scheikunde]] » [[Steernskunde]] » [[Wiskunde]]
 
-<h3><font color="#53873D">[[Nederlaand|Gebieden in Nederlaand]]</font></h3>
-[[Tweante]] » [[Achterhook]] » [[Veluwe]] » [[Utrech (previnsie)|Utrech]] » [[Stellingwarven]] » [[Grunnen (provìnzie)|Grunnen]] » [[Oaveriessel]] » [[Sallaand]] » [[Gelderlaand]] » [[Drenthe]] » [[Frieslaand]] » [[Liemers (streek)|Liemers]] » [[Noord-Braobant]] » [[Limburg (Nederlaand)|Limburg]] » [[Zeelaand]] » [[Flevolaand]] » [[Noord-Hollaand]] » [[Zuud-Hollaand]]
+<h3><font color="green">[[:Kattegerie:Kultuur|Cultuur]]</font> <font color="green">en</font> <font color="green">[[:Kattegerie:Geleuf|geleuf]]</font><h3>
+[[Architektuur]] » [[Geleuf]] » [[Kultuur]] » [[Literetuur]] » [[Meziek]] » [[Christendom]] » [[Jezus Christus]] » [[God]] » [[Biebel]] » [[Protestantisme]] » [[Rooms-Katholieke Karke]] » [[Oosters-Orthodoxe Karke]] » [[Oolde Testement|Et Oolde]] en [[Ni'je Testement]] » [[JHWH]] » [[Islam]] » [[Allah]] » [[Jodendom]]
 
-<h3><font color="#4A6BB5">[[Wetenschop|Wetenschappen]]</font></h3>
-[[Antropologie]] » [[Biologie]] » [[Eerdwetenschoppen]] » [[Filesefie]] » [[Geschiedenis]] » [[Komputerkunde]] » [[Laandbouw]] » [[Netuurkunde]] » [[Scheikunde]] » [[Steernskunde]] » [[Wiskunde]] » [[Filesefie]]
-
-<h3><font color="gray">[[Kultuur|Cultuur]]</font> <font color="gray">en</font> <font color="gray">[[geleuf]]</font><h3>
-[[Christendom]] » [[Geleuf]] » [[Onzevaoder]] » [[Architektuur]] » [[Letterkunde]] » [[Meziek]] » [[Kaark]] » [[Jezus Christus]] » [[God]] » [[Biebel]] » [[Protestantisme]] » [[Rooms-Katholieke Karke]] » [[Oosters-Orthodoxe Karke]] » [[Oolde Testement|Et Oolde]] en [[Ni'je Testement]] » [[JHWH]] » [[Islam]] » [[Jodendom]]
-
-<h3><font color="green">Verschillende onderwarpen</font></h3>
-[[Olle Egypte|t Olle Egypte]] » [[Middeleeuwn]] » [[Kunstgeschiednis]] » [[Hunebed]] » [[Streektaol]] » [[Hollaanse expansie]] » [[Kasteel]] » [[Begreefplak]] » [[Waetersport]] » [[Zunnesysteem]]<br /><br />
+<h3><font color="#4A6BB5">[[:Kattegerie:Maotschoppi'je|Maotschappieje]]</font></h3>
+[[Femilie]] » [[Poletiek]] » [[Saemenleving]] » [[Sport]] » [[Taol]] » [[Toerisme]] » [[Vrieje tied]]<br /><br />
 |}
 |}
 
