@@ -49,25 +49,26 @@ Heuftebel 2
 |class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px" | 
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px"
 <!---------------------------------
-Artikel van de maond
+Artikel van de maond nds-nl
 ----------------------------------->
 ! style="background-color: #cedff2; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Fairytale bookmark.png|14px]] [[Wikipedie:Veurpagina-info|Artikel van de maond]]
 |-
-| style="; font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}<div style="border-top:1px solid #B1CDEB; margin-top:10px; margin-bottom:10px;"></div>{{Verbarg|De plattdüütsche utwählte Artikel dissen Maand| {{#ifexist: Sjabloon:Artikel van de maond/nds-de/{{CURRENTMONTHNAME}} | {{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}} }} | Dit artikel besteet nog neet. }} }}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]])</span>
+|-
+| style="font-family:Arial; font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
-Wos je dat...
+Artikel van de maond nds-de
 ----------------------------------->
-! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_Clear_app_clean.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]
+! style="background-color: #DCF4CC; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #9EE072; text-align: left; padding-left: 7px;   -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Crystal_Clear_app_clean.png|20px]] [[Wikipedie:Veurpagina-info|Platduuts artikel van de maond]]</div>
 |-
+| style="font-family:Arial; font-size: 95%" | {{#ifexist: Sjabloon:Artikel van de maond/nds-de/{{CURRENTMONTHNAME}} | {{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}} }} | Dit artikel besteet nog neet. }} <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]])</span>
+|- 
+<!---------------------------------
+Wos je dat
+----------------------------------->
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Wos je dat...]]</div>
+|- 
 | style="font-family:Arial; font-size: 95%" | {{Sjabloon:Wos je dat/{{CURRENTMONTHNAME}}}} <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Wos_je_dat|archief]])</span>
-|- 
-<!---------------------------------
-Geschiedenisse
------------------------------------>
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 100%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Wikipedie:Veurpagina-info|Geschiedenisse van  {{CURRENTMONTHNAME}}]]</div>
-|- 
-| style="font-family:Arial; font-size: 95%" | {{Geschiedenisse/{{CURRENTMONTHNAME}}}}<span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Geschiedenisse|archief]])</span>
 |- 
 |}
 
