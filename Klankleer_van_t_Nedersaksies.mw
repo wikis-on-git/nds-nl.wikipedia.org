@@ -117,24 +117,28 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 !ACT
 !DR
 !GOS
+!STL
 !TWE
 !VEL
 |- 
 |i as in dik(nl), evolgd deur j-klank
-|i-j 
+|i-j, i'j 
 |ij
 |ìj
+|i'j, i'j'
 |i-j, i'j
-|i'j
+|i'j, i-j
 |- 
 |soeur (fr)
 |äö (näölen)
+|
 |
 |
 |öa, ùe
 |öö
 |- 
 |k'''eu'''ken (nl)
+|eu
 |eu
 |eu
 |eu
@@ -147,6 +151,7 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 |ui
 |ui
 |ui
+|ui
 |- 
 |n'''i'''ght (en)
 |
@@ -154,8 +159,10 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 |ai
 |
 |
+|
 |- 
 |'''ou'''t (en)
+|ou
 |ou
 |ou
 |ou
@@ -166,6 +173,7 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 |
 |
 |aauw
+|
 |
 |
 |}
