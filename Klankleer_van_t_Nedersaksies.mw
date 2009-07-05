@@ -10,7 +10,7 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 
 === Klinkers ===
 
-{| {{prettytable}} 
+{| class="wikitable"
 !Umskrieving van den klank
 !ACT
 !DRT
@@ -150,7 +150,7 @@ Oaverzicht van klanken in t Nedersaksies en eure skriefwiezen, volgens:
 
 === Tweeklanken ===
 
-{| {{prettytable}} 
+{| class="wikitable" 
 !Umskrieving van den klank
 !ACT
 !DRT
