@@ -1,7 +1,7 @@
 Dit bint '''taalwiezers van de [[Nedersaksisch]]e varianten in Nederlaand'''. Zi'j bint binnen maokt um de verschillen tussen de verschillende varianten binnen t [[Nedersaksisch]] in [[Nederlaand]] te laoten zeen en te benaodrokken. Ok dienen zi'j as hulpe veur mèensen dei niet alle dialecten verstaon kunt. Der bint 9 taalwiezers:
 
 <imagemap>
-Image:Dialekten Leegsaksisch.PNG|
+Image:Dialekten_Leegsaksisch.PNG|
 
 poly 389 390 347 382 309 372 291 359 276 333 301 335 309 331 319 316 336 306 352 283 360 287 368 286 372 281 379 291 376 315 387 342 406 342 392 357 [[Veluwse taalwiezer|Veluws]]
 poly 422 341 405 354 393 393 433 414 457 403 467 403 475 393 457 378 462 366 454 354 433 351 [[Achterhooksen taalwiezer|Achterhooks]]
@@ -9,9 +9,10 @@ poly 428 333 441 300 472 290 491 294 500 292 508 308 504 323 507 334 495 344 482
 poly 421 332 411 335 391 334 384 311 387 296 383 282 377 276 367 280 355 271 354 261 370 253 373 247 364 240 363 227 381 235 383 254 402 264 425 264 440 263 448 259 458 253 460 261 456 275 459 285 464 289 444 293 433 305 [[Sallaanse täälwiezer|Sallaans]]
 poly 387 227 368 221 360 219 344 214 360 194 372 192 388 179 399 167 413 159 425 164 432 177 432 191 425 202 418 209 399 213 [[Stellingwarver taelwiezer|Stellingwarfs]]
 poly 493 244 466 243 445 253 417 260 390 254 388 236 397 220 419 213 437 193 435 169 448 163 466 164 483 191 497 207 490 221 481 231 [[Drèents taolwiezer|Drèents]]
-poly 505 208 468 156 454 153 442 159 415 157 410 142 396 140 399 117 389 103 395 87 421 85 454 75 473 78 482 98 501 108 522 121 519 173 [[Grönnegse toalwiezer|Grönnegs]]
-poly 563 153 555 142 529 136 530 108 543 112 543 105 538 97 501 95 505 64 511 64 518 60 512 49 531 34 551 34 570 33 597 33 604 65 597 100 [[Oostfreiske toulwiezer|Oostfreisk]]
+poly 564 152 552 141 527 136 531 106 544 111 540 103 502 92 505 67 515 62 513 52 536 32 567 37 595 33 597 59 605 76 599 100 576 123 568 147 [[Oostfreiske toulwiezer|Oostfreisk]]
 circle 318 245 20 [[Urker taolwezer|Urkers]]
+poly 503 206 468 155 456 154 442 159 422 157 409 143 397 137 401 117 391 102 397 88 430 82 464 72 477 81 498 109 519 122 519 140 521 167 520 180 [[Grönnegse toalwiezer|Grönnegs]]
+poly 506 245 500 243 488 234 498 227 496 219 501 214 506 215 506 229 [[Sallaanse täälwiezer|Sallaans]]
 
 desc none
 </imagemap>
