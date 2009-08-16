@@ -1,3 +1,38 @@
+{| class="infobox vcard" style="width:{{{infoboxwidth|20em}}};max-width:{{{maxwidth|285px}}}; font-size:90%;"
+!colspan="2" style="background:#eee; padding:0.2em; line-height:110%; text-align:center; font-size:135%;"| <!--deprecated:--><span class="fn org">'''Skokkelaand en umgeving'''</span>
+|-
+!colspan="2" style="padding-bottom:0.4em; text-align:center; font-size:110%;"| [[Wealdarfgoodliest|UNESCO Wereldaarfgoudstee]]
+|-
+{{#if:{{{Image<includeonly>|</includeonly>}}} |<!--then:-->
+{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} <hr>[[Ofbeelding:Schokland4.jpg|250px]]
+{{!}}-
+}}
+{{#if:{{{imagecaption<includeonly>|</includeonly>}}} |<!--then:-->
+{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} '''Skokkelaand'''<hr>
+{{!}}-
+}}
+{{#if:{{{State Party|}}} |<!--then:-->
+{{!}} '''[[Table of World Heritage Sites based on State Parties|State&nbsp;Party]]'''
+{{!}} {{{State_Party<includeonly>|</includeonly><!--deprecated:-->{{{State Party|}}}<!---->}}}
+{{!}}-
+}}
+| '''Type'''
+| Cultureel
+|-
+| '''Regio'''
+| ''Europa en Noord-Amerika''
+|-
+| '''Laand'''
+| [[Nederlaand]]
+|-
+| '''Jaor upnaome'''
+| [[1995]]
+|-
+| '''Volgenummer'''
+| [http://whc.unesco.org/en/list/739 739]
+</span>
+|}
+
 '''Skokkelaand''' is nen wonkarn en veurmalig [[eilaand]] in den [[Noordoostpolder]], Nederlaandsen proveensie [[Flevolaand]], dat in [[1859]] om veiligheidsredenen ontruumd wöd. Tot [[1932]] lag et as eilaand in den [[Zuderzee]], noa et kloarkommen van den [[Ofsluutdiek]] in et [[Iesselmeer]]. Sinds den drögelegging van den Noordoostpolder in [[1942]] mek et dele uut van et vastelaand.
 
 Op Skokkelaand is noe n museum. Joarleks bezeukt rundumme 40.000 leu et veurmalige eilaand.
