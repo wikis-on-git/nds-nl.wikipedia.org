@@ -1,4 +1,4 @@
-{| border="0" cellspacing="0" cellpadding="0" style="background: transparent; font-weight: bold; text-align: center; height: 30; width: 75%;"
+{| border="0" margin-top:.7em; cellspacing="0" cellpadding="0" style="background: transparent; font-weight: bold; text-align: center; height: 30; width: 75%;"
 |-
 | {{#ifeq:{{{1}}}|Veluws
 | width="24%" style="background-color:#fcfcfc; border:1px #fabd23;" {{!}} <span style="color:#424242;">Veluws</span>
