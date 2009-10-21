@@ -1,32 +1,4 @@
-{| border="0" cellspacing="0" cellpadding="0" style="background: transparent; margin-top:+.7em; font-weight: bold; text-align: center; height: 30; width: 75%;"
-|-
-| {{#ifeq:{{{1}}}|Veluws
-| width="24%" style="background-color:#fcfcfc; border:1px #fabd23;" {{!}} <span style="color:#424242;">Veluws</span>
-| width="24%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-bottom: 0px;" class="MainPageTab" {{!}} [[Veurblad|Veluws]]
-}}
-| style="width: 1%;" | &nbsp;
-| {{#ifeq:{{{1}}}|Grönnegs
-| width="24%" style="background-color:#fcfcfc; border:1px solid #fabd23;" {{!}} <span style="color:#424242;">Grönnegs</span>
-| width="24%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-bottom: 0px solid #CDCDCD;" class="MainPageTab" {{!}} [[Grönnegs]]
-}}
-| style="width: 1%;" | &nbsp;
-| {{#ifeq:{{{1}}}|Tweants
-| width="24%" style="background-color:#fcfcfc; border:1px solid #fabd23; border-width: 1px 1px 0;" {{!}} <span style="color:#424242;">Tweants</span>
-| width="24%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-bottom: 0px solid #CDCDCD;" class="MainPageTab" {{!}} [[Tweants]]
-}}
-| style="width: 1%;" | &nbsp;
-| {{#ifeq:{{{1}}}|Drèents
-| width="24%" style="background-color:#fcfcfc; border:1px solid #fabd23; border-width: 1px 1px 0;" {{!}} <span style="color:#424242;">Drèents</span>
-| width="24%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-bottom: 0px solid #CDCDCD;" class="MainPageTab" {{!}} <span lang="swg" xml:lang="swg">[[Drèents]]</span>
-}}<!--
-| style="width: 1%;" | &nbsp;
-| {{#ifeq:{{{1}}}|Vorarlbärgisch
-| width="19%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-width: 1px 1px 0;" {{!}} <span style="color:#424242;">Vorarlbärgisch</span>
-| width="19%" style="background-color:#fcfcfc; border:1px solid lightgrey; border-bottom: 1px solid #CDCDCD;" class="MainPageTab" {{!}} [[Wikipedia:Houptsyte_(Vorarlbärgisch)|Vorarlbärgisch]]
-}}-->
-|}<noinclude>
-[[bar:Vorlage:Hauptseitenwechsel]]
-</noinclude>
+{{Veurblad/dialekken}}
 {|style="width:100%;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
 {|style="width:280px;border:solid 0px;background:none"
