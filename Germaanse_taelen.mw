@@ -1,4 +1,4 @@
-{{Wiu}}
+{{Begin}}
 {|class="wikitable"  style="text-align: center; font-size: 70%"
 |-
 | rowspan=3 | [[Iezertied]]<br><small>500 v. Chr&ndash;200 n Chr</small>
@@ -26,9 +26,9 @@
 |-
 | [[Early Middle Ages]]<br><small>700&ndash;1100</small>
 | colspan=2 |
-|style="background: #eba"| [[Old Leag Frankies]]
-|colspan=4 style="background: #79f"| Runic [[Old West Norse]]
-|colspan=3 style="background: #b9f"| Runic [[Old East Norse]]
+|style="background: #eba"| [[Old Nederfrankies]]
+|colspan=4 style="background: #79f"| Runic [[Old Westnoors]]
+|colspan=3 style="background: #b9f"| Runic [[Old Oostnoors]]
 |-
 | [[Middle Ages]]<br><small>1100&ndash;1350</small>
 |rowspan=1 colspan=2 |
@@ -42,40 +42,45 @@
 |rowspan=1 colspan=1 style="background: #b5f"| Vrog [[Old Sweeds]]
 |rowspan=1 colspan=1 style="background: #b7f"| Vrog [[Old Gutnish]]
 |-
-| [[Late Middle Ages]]<sup>2</sup><br><small>1350&ndash;1500</small>
+| [[Late Middeleeuwn]]<sup>2</sup><br><small>1350&ndash;1500</small>
 |rowspan=1 colspan=2 |
 |rowspan=2 colspan=2 style="background: #fb8" | [[Vrog Ni-j Hoogduuts]]
 |rowspan=1 colspan=2 style="background: #e9b" | Laat [[Middelengels]]
-|rowspan=1 colspan=1 style="background: #e9b" | [[Early Scots]]<sup>3</sup>
-|rowspan=1 colspan=1 style="background: #77d"| Late [[Old Icelandic]]
-|rowspan=1 colspan=1 style="background: #7ad"| Old [[Faroese language|Faroese]]
-|rowspan=1 colspan=1 style="background: #7ab"| Old [[Norn language|Norn]]
-|rowspan=1 colspan=1 style="background: #7a9"| [[Middle Norwegian]]
-|rowspan=1 colspan=1 style="background: #b39"| Late Old [[Danish language|Danish]]
-|rowspan=1 colspan=1 style="background: #b3b"| Late [[Old Swedish]]
-|rowspan=1 colspan=1 style="background: #b3d"| Late [[Old Gutnish]]
+|rowspan=1 colspan=1 style="background: #e9b" | [[Vrog Skots]]<sup>3</sup>
+|rowspan=1 colspan=1 style="background: #77d"| Late [[Old Ieslands]]
+|rowspan=1 colspan=1 style="background: #7ad"| Old [[Faröes]]
+|rowspan=1 colspan=1 style="background: #7ab"| Old [[Norn]]
+|rowspan=1 colspan=1 style="background: #7a9"| [[Middel Noors]]
+|rowspan=1 colspan=1 style="background: #b39"| Laat Old [[Deens]]
+|rowspan=1 colspan=1 style="background: #b3b"| Laat [[Old Sweeds]]
+|rowspan=1 colspan=1 style="background: #b3d"| Laat [[Old Gutnish]]
 |-
-| [[Early Modern Age]]<br><small>1500&ndash;1700</small>
+| [[Vrogmoderne tied]]<br><small>1500&ndash;1700</small>
 |colspan=2 style="background: #8f8" | [[Crimean Gothic language|Crimean Gothic]]
 |rowspan=2 style="background: #fb9"|  [[Nederfrankies]], ondermear [[Nederlands]]
-|style="background: #fab"| [[Middle Frisian]]
-|rowspan=1 colspan=2 style="background: #e8b" | [[Early Modern English]]
-|rowspan=1 colspan=1 style="background: #e8b" | [[Middle Scots]]
-|rowspan=2 colspan=1 style="background: #77b" | [[Icelandic language|Icelandic]]
-|rowspan=2 colspan=1 style="background: #7cb" | [[Faroese language|Faroese]]
-|rowspan=1 colspan=1 style="background: #7c9" | [[Norn language|Norn]]
-|rowspan=2 colspan=1 style="background: #b89" | [[Norwegian language|Norwegian]]
-|rowspan=2 colspan=1 style="background: #b59" | [[Danish language|Danish]]
-|rowspan=2 colspan=1 style="background: #b5b" | [[Swedish language|Swedish]]
+|style="background: #fab"| [[Middel Freesk]]
+|rowspan=1 colspan=2 style="background: #e8b" | [[Vrog Ni-j Engels]]
+|rowspan=1 colspan=1 style="background: #e8b" | [[Middel Skots]]
+|rowspan=2 colspan=1 style="background: #77b" | [[Ieslands]]
+|rowspan=2 colspan=1 style="background: #7cb" | [[Faröes]]
+|rowspan=1 colspan=1 style="background: #7c9" | [[Norn]]
+|rowspan=2 colspan=1 style="background: #b89" | [[Noors]]
+|rowspan=2 colspan=1 style="background: #b59" | [[Deens]]
+|rowspan=2 colspan=1 style="background: #b5b" | [[Sweeds]]
 |rowspan=1 colspan=1 style="background: #b5d" | [[Gutnish]]
 |-
-| [[Modern Age]]<br><small>1700 to present</small>
-|colspan=2 | all extinct
-|colspan=2 style="background: #fa7"|  [[High German languages|High German varieties]]
+| [[Moderne Tied]]<br><small>1700 to present</small>
+|colspan=2 | allemoale oet-estorven
+|colspan=2 style="background: #fa7"|  [[Hoogduuts]]
 |rowspan style="background: #fb9"| [[Nedersaksies]]
-| style="background: #faa"| [[Frisian languages|Frisian varieties]]
-|rowspan=1 colspan=2 style="background: #f7b"| [[List of dialects of the English language|English varieties]]
-|rowspan=1 colspan=1 style="background: #f7b"| [[Scots Language|Modern Scots]] varieties
+| style="background: #faa"| [[Freesk]]
+|rowspan=1 colspan=2 style="background: #f7b"| [[Engels]]
+|rowspan=1 colspan=1 style="background: #f7b"| [[Skots]]
 |rowspan=1 colspan=1 | oet-estorven<sup>4</sup>
 |rowspan=1 colspan=1 | oet-estorven<sup>4</sup>
 |}
+
+[[Kattegerie:Achterhooks artikel]]
+[[Kattegerie:Germaanse taol]]
+
+[[en:Germanic languages]]
