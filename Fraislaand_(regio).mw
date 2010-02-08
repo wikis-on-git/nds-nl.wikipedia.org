@@ -13,9 +13,9 @@
 | align=center colspan="2" |
 {| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0"
 |- align=center
-| {{border|
+| {{border|}}
 | &nbsp;&nbsp;
-| [[Image:{{#if:{{{bestansnaam wapen|}}}|{{{bestansnaam wapen}}}|Sin escudo.svg}}|125x100px|Wapen van {{{naam|{{PAGENAME}}}}}]]
+| [[Image:Sin escudo.svg|125x100px|Wapen van {{PAGENAME}}]]
 |- align=center
 | <small>([[Fraislaand_%28regio%29#Vlaag|Vlaag van Fraislaand]])</small>
 |
