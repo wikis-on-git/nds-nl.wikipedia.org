@@ -1,39 +1,16 @@
-{| class="infobox vcard" style="width:20em;max-width:285px; font-size:90%;"
-!colspan="2" style="background:#eee; padding:0.2em; line-height:110%; text-align:center; font-size:135%;"| <!--deprecated:--><span class="fn org">'''Memphis en zien Necropolis - de piramide vèlden van Giza tot Dahshur tou'''</span>
-|-
-!colspan="2" style="padding-bottom:0.4em; text-align:center; font-size:110%;"| [[Wealdarfgoodliest|UNESCO Wereldaarfgoudstee]]
-|-
-{{#if:{{{Image<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} <hr>[[Ofbeelding:Giza sfinge e piramidi.jpg|250px|Sphinx vann Giza]]
-{{!}}-
+{{Infobox wealdarfgood
+| titel         = Memphis en zien Necropolis<br /><small>de piramide vèlden van Giza tot Dahshur tou</small>
+| ofbeelding    = Giza sfinge e piramidi.jpg
+| omschrijving  = '''Sphinx vann Giza'''<br /> 't Gizaplateau mit de piramide van Khefren rechts, dij van Mycerinus links en de sfinx op de veurgrond
+| kop           = 
+| type          = Kultureel
+| regioon       = Aroabische landen
+| laand         = [[Egypte]]
+| joar          = [[1979]]
+| volgnr        = 86
+| ofbeelding2   = Piramides-van-gizeh.jpg
+| omschrijving2 = Piramides van Giza
 }}
-{{#if:{{{imagecaption<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} '''t Gizaplateau mit de piramide van Khefren rechts, dij van Mycerinus links en de sfinx op de veurgrond'''<hr>
-{{!}}-
-}}
-{{#if:{{{State Party|}}} |<!--then:-->
-{{!}} '''[[Table of World Heritage Sites based on State Parties|State&nbsp;Party]]'''
-{{!}} {{{State_Party<includeonly>|</includeonly><!--deprecated:-->{{{State Party|}}}<!---->}}}
-{{!}}-
-}}
-| '''Type'''
-| Kultureel
-|-
-| '''Regioon'''
-| ''Aroabische landen''
-|-
-| '''Laand'''
-| [[Egypte]]
-|-
-| '''Joar opnoamen'''
-| [[1979]]
-|-
-| '''Volgnummer'''
-| [http://whc.unesco.org/en/list/86 86]
-</span>
-|}
-
-[[Ofbeelding:Piramides-van-gizeh.jpg|right|250px|thumb|Piramides van Giza]]
 
 De '''piramides van Giza''' binnen drij grote [[piramide]]s in [[Egypte]]. Zai stoan bie t vrougere Giza, n loug bie t historische heufdstad [[Memphis]], dat nou n dail is van [[Kairo]]. De piramides stoan op n plato van zaandstain, woar de piramides zulf ook uut môkt binnen. De piramides van Giza binnen baauwt tuzzen 2551 en 2472 joaren veur [[Kristus]]. Der ston toun n hail komplex van gangen en muren om de mìnsken noar de piramides te leiden en om t grafrover stoer te môken. 
 
