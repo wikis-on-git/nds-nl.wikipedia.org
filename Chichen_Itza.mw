@@ -1,37 +1,16 @@
-{| class="infobox vcard" style="width:20em;max-width:285px; font-size:90%;"
-!colspan="2" style="background:#eee; padding:0.2em; line-height:110%; text-align:center; font-size:135%;"| <!--deprecated:--><span class="fn org">'''Veur-Spoanse stad Chichen Itza'''</span>
-|-
-!colspan="2" style="padding-bottom:0.4em; text-align:center; font-size:110%;"| [[Wealdarfgoodliest|UNESCO Wereldaarfgoudstee]]
-|-
-{{#if:{{{Image<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} <hr>[[Ofbeelding:Chichen-Itza-Castillo-Seen-From-East.JPG|250px|Chichen Itza]]
-{{!}}-
+{{Infobox wealdarfgood
+| titel         = Veur-Spoanse stad Chichen Itza
+| ofbeelding    = Chichen-Itza-Castillo-Seen-From-East.JPG
+| omschrijving  = 
+| kop           = Chichen Itza
+| type          = Kultureel
+| regioon       = Latains Amerikoa en de Karrieben
+| laand         = [[Mexiko]]
+| joar          = [[1988]]
+| volgnr        = 483
+| ofbeelding2   = Karta ChichenItza.PNG
+| omschrijving2 = Kaart Chichen Itza
 }}
-{{#if:{{{imagecaption<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} '''Chichen Itza'''<hr>
-{{!}}-
-}}
-{{#if:{{{State Party|}}} |<!--then:-->
-{{!}} '''[[Table of World Heritage Sites based on State Parties|State&nbsp;Party]]'''
-{{!}} {{{State_Party<includeonly>|</includeonly><!--deprecated:-->{{{State Party|}}}<!---->}}}
-{{!}}-
-}}
-| '''Type'''
-| Kultureel
-|-
-| '''Regioon'''
-| ''Latains Amerikoa en de Karrieben''
-|-
-| '''Laand'''
-| [[Mexiko]]
-|-
-| '''Joar opnoamen'''
-| [[1988]]
-|-
-| '''Volgnummer'''
-| [http://whc.unesco.org/en/list/483 483]
-</span>
-|}
 
 '''Chichen Itza''' (oetsproak ''tjietjen ietza'', [[Yukatan Mayaans]]: ''Chi'ch'èen Ìitsha' '': "Aan de monden van de welle van de [[Itza stam]]) is n groot komplex van ruines oet de Veur-Spoanse tied en is legen op t haalfaailaand [[Yukatan]] ien [[Mexico|Mexiko]]. Op dit haalfaailaand is gain bovengrondse revier, môr wel twij "goaten" woardeur man tougang het tou ondergrondse revieren. Aine doarvan is de [[Hailege Cenotes]] (ook ''Hailege welle'' of ''Bron van offerns''), woar de stad aan ontstoan is. Zo as de lèste noam al dut vermouden wör dizze welle ook offerns brocht aan de regengod [[Chaac]]. 
 
@@ -41,8 +20,10 @@ Tegenswoordeg stoan der allend nog tìmpelkomplexen. Of der ook woonhoezen wèst
 Ofbeelding:Mexico Cenotes.jpg|De hailege welle.
 Ofbeelding:Chichen Itza Temple of Kukulcan Serpent.JPG|De tìmpel van Kukulcan bie de [[zunneswinden]], woarbie n slaang op t trappenzied tou zain is.
 Ofbeelding:GreatBallCourt-interior.jpg|De grode Balenvèld. De baal mos deur deur de lutje ring dij onder de toren links tou zain is. Dit zol de [[zun]] veurstèllen dij ien t midden van t zunnestelsel tou stoan komt.
-Ofbeelding:Templo de los Guerreros.jpg|Templo de los Guerreros.
+Ofbeelding:Templo de los Guerreros.jpg|Templo de los Guerreros
 </gallery>
+
+{{Commonscat|Chichén Itzá}}
 
 [[Kattegerie:Grunnegs artikel]]
 [[Kattegerie:Wereldarfgood in Mexico]]
