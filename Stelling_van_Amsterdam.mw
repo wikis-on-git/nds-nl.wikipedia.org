@@ -1,45 +1,22 @@
-{| class="infobox vcard" style="width:20em;max-width:285px; font-size:90%;"
-!colspan="2" style="background:#eee; padding:0.2em; line-height:110%; text-align:center; font-size:135%;"| <!--deprecated:--><span class="fn org">'''Waterlinie Amsterdam (Stelling van Amsterdam)'''</span>
-|-
-!colspan="2" style="padding-bottom:0.4em; text-align:center; font-size:110%;"| [[Wealdarfgoodliest|UNESCO Wereldarfgoodstee]]
-|-
-{{#if:{{{Image<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} <hr>[[Ofbeelding:Geschuetzstand Fort Vijfhuizen.jpg|250px|Viefhuuzen]]
-{{!}}-
+{{Infobox wealdarfgood
+| titel         = Waterlinie Amsterdam
+| ofbeelding    = Geschuetzstand Fort Vijfhuizen.jpg
+| omschrijving  = Viefhuuzen
+| kop           = Stelling van Amsterdam
+| type          = Kultureel
+| regioon       = Europa en Noord-Amerika
+| laand         = [[Nederlaand]]
+| joar          = [[1996]]
+| volgnr        = 759
+| ofbeelding2   = Stelling van Amsterdam Nederlaand.jpg
+| omschrijving2 = Kaarte van de Stelling van Amsterdam
 }}
-{{#if:{{{imagecaption<includeonly>|</includeonly>}}} |<!--then:-->
-{{!}}colspan="2" align="center" style="padding-bottom:0.3em;"{{!}} '''Stelling van Amsterdam'''<hr>
-{{!}}-
-}}
-{{#if:{{{State Party|}}} |<!--then:-->
-{{!}} '''[[Table of World Heritage Sites based on State Parties|State&nbsp;Party]]'''
-{{!}} {{{State_Party<includeonly>|</includeonly><!--deprecated:-->{{{State Party|}}}<!---->}}}
-{{!}}-
-}}
-| '''Type'''
-| Kultureel
-|-
-| '''Regio'''
-| ''Europa en Noord-Amerika''
-|-
-| '''Laand'''
-| [[Nederlaand]]
-|-
-| '''Joar opnoame'''
-| [[1996]]
-|-
-| '''Volgnummer'''
-| [http://whc.unesco.org/en/list/759 759]
-</span>
-|}
-
-[[Ofbeelding:Stelling_van_Amsterdam_Nederlaand.jpg|thumb|300px|Kaarte van de Stelling van Amsterdam]]
 
 De '''Stelling van Amsterdam''' was ne verdeadegingsliene, eleagen  op 10 tot 15 kilometer rundumme et centrum van et [[Nederlaand]]se [[Amsterdam]]. De stelling is 135 kilometer lang, umvat 42 [[fort]]en en is an-elegd van [[1880]] tot [[1920]]. Underdele van de stelling is et [[pantserfort]] [[Fort Pampus]] in de veurmoalege [[Zuderzee]].
 
 In 1996 wierd de Stelling van Amsterdam deur [[UNESCO]]  op de [[Lieste van monumenten op de Wealdarfgoodlieste| Wealdarfgoodlieste]] eplaatst.
 
-==Taak==
+== Taak ==
 In de eerste plaatse was de Stelling van Amsterdam ne [[waterliene]]. In geval van vi-jandelekheden zollen grote delen van et gebeed rundumme Amsterdam under water wödden ezet. Den vi-jand zol dan neet können oprukken. Amsterdam zol nen nationaolen taak hebben as [[redoute]], as et letste [[bastion]] van Nederlaand. Dee [[fort]]en wödden eplaatst op plaetse woar de waterliene wöd deurkruust deur dieken, weage, of spoorlienen. Ok plaetse woar et water deep genög was um te voaren mit boten waren kwetsboar. Op dee plaetse zol den oprukkende vi-jand neet deur et water wödden teggen-eholden, zodat hi-j op dizze plekken under vuur enommen mös können wödden. In den kriegsvaktaal stoanden dizze weage enz. bekand as [[acces]]sen. Den anleg van de Stelling van Amsterdam wodden ereageld in den [[Vestingwet]] van [[1874]].
 
 ==Bouw en veurbereiding==
@@ -105,17 +82,21 @@ De Stelling van Amsterdam hef nooit dienst edoan, al waren den anweazegheid van 
 * Batteri-je bi-j Durgerdam ([[Vuurtoorneilaand]])
 
 ==Zee ok== 
-*[[Hollandse Waterliene]]
-*[[Ni-je Hollandse Waterliene]]
-*[[Cornelis Rudolphus Theodorus Krayenhoff]]
+* [[Hollandse Waterliene]]
+* [[Ni-je Hollandse Waterliene]]
+* [[Cornelis Rudolphus Theodorus Krayenhoff]]
 
 ==Uutgoande verwiezingen==
-*[http://www.stelling-amsterdam.nl/ Webstea Stelling van Amsterdam, ne stadsmure van water]
-*[http://www.werelderfgoed.nl/pages/nl.php Wealdarfgood Nederlanad]
+* [http://www.stelling-amsterdam.nl/ Webstea Stelling van Amsterdam, ne stadsmure van water]
+* [http://www.werelderfgoed.nl/pages/nl.php Wealdarfgood Nederlanad]
 
-[[Kattegerie:Achterhooks_artikel]]
+{{Commonscat|Stelling van Amsterdam}}
+{{Coördinaten|52_22_28_N_04_53_35_E_type:city_region:NL|52°22°28'N, 4°53°35'O}}
+
+[[Kattegerie:Achterhooks artikel]]
 [[Kattegerie:Wereldarfgood in Nederlaand]]
 [[Kattegerie:Fort]]
+
 
 [[ca:Línia de defensa d'Amsterdam]]
 [[de:Stellung von Amsterdam]]
