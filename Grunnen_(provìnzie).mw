@@ -1,7 +1,7 @@
 {{Provinzietabel |
 noam = Grunnen|
-vlageofbeelden = [[Ofbeelding:Flag Groningen.png|150px]] |
-woapenofbeelden = [[Ofbeelding:Groningen_coa.svg|150px]] |
+vlageofbeelden = [[Ofbeelding:Flag Groningen.png|150px|Vlage van Grunnen]] |
+woapenofbeelden = [[Ofbeelding:Groningen_coa.svg|150px|Woapen van Grunnen]] |
 körtnoam = Grunnen |
 heufdstad = [[Grunnen (stad)|Grunnen]] |
 religiejoar = 1999|
@@ -220,7 +220,10 @@ De [[Provinzjoale Stoaten]] binnen veur t lèst kozen in 2007.
 | align=right | 51,0 || align=right | 43
 |-
 |}
-</TD><TD WIDTH="50"><TD><TD></TABLE>
+| width="50" |
+|
+|
+|}
 
 == Hìnwiezen ==
 * [http://www.provinciegroningen.nl Offisjeel webstee van de provìnzie Grunnen]
