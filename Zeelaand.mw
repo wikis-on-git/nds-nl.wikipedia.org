@@ -1,24 +1,24 @@
-{{Provinzietabel |
-noam = Zeelaand|
-vlageofbeelden = [[Ofbeelding:Flag of Zeeland.svg|125px|Previnsievlagge]] |
-woapenofbeelden = [[Ofbeelding:WapenZeeland.gif|130px|Previnsiewaopen]] |
-körtnoam = Zeelaand|
-heufdstad = [[Milburg]] |
-religiejoar = 1999 |
-GPS =  51°30' [[Breedtegraod|NB]] 3°36' [[Lengtegraod|OL]] |
-Religie = [[Protestantisme]] 35%<br />[[Katholicisme]] 23% |
-opprange = 10e |
-opp = 1.788    |
-woateropp = 1.146  |
-bewrange = 11e |
-inwoners = 380.186 |
-doatum = [[1 jannewaori]] [[2006]] |
-bevolkingsdichtheid = 212 |
-Volkslaid = [[Zeeuws volkslied]] |
-ofbeelden =  [[Ofbeelding:Zeeland-Position.png|Locaotie van de previnsie Zeelaand]] |
-Kommissoares van Keunegin = [[Wim van Gelder|drs. W.T. (Wim) van Gelder]] |
-Webstee = [http://www.zeeland.nl www.zeeland.nl] |
+{{Infobox pervincie
+| titel          = 
+| vlag           = Flag of Zeeland.svg
+| waopen         = WapenZeeland.gif
+| kaart          = Zeeland-Position.png
+| taolen         = 
+| heufdstad      = [[Milburg]]
+| religie        = [[Protestantisme]] 35% <br /> [[Katholicisme]] 23%
+| religie_jaor   = 1999
+| volksleeid     = [[Zeeuws volkslied]]
+| opp_laand      = 1.788 
+| opp_waoter     = 1.146
+| inwoner_totaol = 380.186
+| inwoner_totaol_jaor = [[1 jannewaori]] [[2006]]
+| bevolkingsdichtheid = 212
+| commissaoris   = [[Wim van Gelder|drs. W.T. (Wim) van Gelder]]
+| ofbeelding     = 
+| omschrijving   = 
+| website        = http://www.zeeland.nl
 }}
+
 '''Zeelaand''' ([[Zeeuws]]: ''Zeêland'', [[Nederlaands|Nederlaans]]: ''Zeeland'') is een [[Pervincie|previnsie]] van [[Nederlaand]], dee in 't zuudwessen van 't laand lig. 't Grens an [[Zuud-Hollaand]], [[Noord-Braobant]], en de [[België|Belgische]] previnsies [[Westfloandern|West-Vlaanderen]], [[Oostfloandern|Oost-Vlaanderen]] en [[Antwarpen]]. Mit ongeveer 380.000 inwoeners hef 't nao [[Flevolaand]] de minste inwoeners van alle Nederlaanse previnsies. De [[heufdstad|heufstad]] van de previnsie is [[Milburg]]. 
 
 De veurnaamste inkomsbronnen bin [[laandbouw]], [[visserieje]] en [[toerisme]]. Der koemen veural veul Duutsers naor Zeelaand.
@@ -32,26 +32,21 @@ In 't grootste deel van Zeelaand wonnen der [[Zeeuws]] espreuken (zo'n 60%). Ter
 In 't Laand van Hulst en een paor grensdarpen uut 't Laand van Aksel wonnen gien Zeeuws espreuken mar [[Oost-Vlaams]]. De dialekken uut de res van Zeeuws-Vlaanderen wonnen soms tot 't Zeeuws erekend, dan weer tot 't [[West-Vlaams]], dit is umdat ze feitelijk van allebeie wat hemmen.
 
 == Gemeentes ==
-[[Ofbeelding:GemeentenZeelandNrs.png|links|Gemeentes in Zeelaand]]
-{| class="vatop" cellpadding="10"
-|
-# [[Borsele (gemeente)|Borsele]]
-# [[Goes]]
-# [[Hulst (gemeente)|Hulst]]
-# [[Kapelle (gemeente)|Kapelle]]
-# [[Middelburg (gemeente)|Milburg]]
-|
-6. [[Noord-Bevelaand]]<br />
-7. [[Reimerswoal (gemeente)|Reimerswaol]]<br />
-8. [[Schouwen-Duvelaand]]<br />
-9. [[Sluus (gemeente)|Sluus]]
-|
-10. [[Terneuzen (gemeente)|Terneuzen]]<br />
-11. [[Tholen (gemeente)|Tholen]]<br />
-12. [[Veere (gemeente)|Veere]]<br />
+[[Ofbeelding:GemeentenZeelandNrs.png|thumb|links|
+1. [[Borsele (gemeente)|Borsele]];
+2. [[Goes]];
+3. [[Hulst (gemeente)|Hulst]];
+4. [[Kapelle (gemeente)|Kapelle]];
+5. [[Middelburg (gemeente)|Milburg]];
+6. [[Noord-Bevelaand]];
+7. [[Reimerswoal (gemeente)|Reimerswaol]];
+8. [[Schouwen-Duvelaand]];
+9. [[Sluus (gemeente)|Sluus]];
+10. [[Terneuzen (gemeente)|Terneuzen]];
+11. [[Tholen (gemeente)|Tholen]]
+12. [[Veere (gemeente)|Veere]];
 13. [[Vlissingen]]
-|}
-<br clear=all>
+]]`
 
 == Uutgaonde verwiezingen ==
 * [http://www.sdu.nl/staatscourant/scdata/prov/zeeland.htm Baosisinfermasie (2002)]
@@ -62,6 +57,7 @@ In 't Laand van Hulst en een paor grensdarpen uut 't Laand van Aksel wonnen gien
 
 {{Zeelaand}}
 {{NederlaandsePrevinsies}}
+{{Coördinaten|51_30_0_N_03_36_0_E_zoom:10_region:NL|51°30'N, 3°26'O}}
 
 [[Kattegerie:West-Veluws artikel]]
 [[Kattegerie:Zeelaand]]
