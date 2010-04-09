@@ -51,20 +51,20 @@ Bie disse gevallen wonnen der an-eraojen naor een dokter te gaon.
 
 == Nedersaksisch ==
 * [[Achterhooks]]: ''heufdpiene'', ''heufdzeerte'', ''koppiene''
-* [[Drèents]]: ''heufdpien<small>(</small>e<small>)</small>'', ''heufdzeert<small>(</small>e<small>)</small>'', ''koppiene'', ''kopzeert<small>(</small>e<small>)</small>'', ''kopzèer''
-* [[Grunnegs]]: ''kopzeer<small>(</small>d<small>)</small>e'', ''heufdpien<small>(</small>e<small>)</small>''
+* [[Drèents]]: ''heufdpien{{small()|e}}'', ''heufdzeert{{small()|e}}'', ''koppiene'', ''kopzeert{{small()|e}}'', ''kopzèer''
+* [[Grunnegs]]: ''kopzeer{{small()|d}}e'', ''heufdpien{{small()|e}}''
 * [[Stellingwarfs]]: ''heufdpiene'', ''heufdzeerte'', ''koppiene''
 * [[Tweants]]: 
-**''koppiene'', ''heufdpiene'', ''kopzeert<small>(</small>e<small>)</small>'', ''heufdzeerte''
+**''koppiene'', ''heufdpiene'', ''kopzeert{{small()|e}}'', ''heufdzeerte''
 **''n zear heufd'', ''nen zearn kop'', ''~ dak'', ''~ harsens''
 **"''n kop/t heuwd denst dr mie op/an''"
 * [[Veluws]]: 
-**''kopzeert<small>(</small>e<small>)</small>''
-**''koppien<small>(</small>e<small>)</small>''
-**''heufdpien<small>(</small>e<small>)</small>''
-**''heufpien<small>(</small>e<small>)</small>''
+**''kopzeert{{small()|e}}''
+**''koppien{{small()|e}}''
+**''heufdpien{{small()|e}}''
+**''heufpien{{small()e|}}''
 **''eufpiene'' ([[Attem]])
-**''heuf<small>(</small>d<small>)</small>zeerte'' ([[Epe]])
+**''heuf{{small()|d}}zeerte'' ([[Epe]])
 **''pien in de kop'' ([[Une]], [[Garder]])
 **''pien in 't heufd'' ([[Bennekum]])
 **''piene in 't heuf'' ([[Apeldoorne]])
@@ -77,7 +77,7 @@ Bie disse gevallen wonnen der an-eraojen naor een dokter te gaon.
 
 {{Dia|Disse pagina is eschreven in 't [[Nunspeets]]}}
 
-[[Kattegerie:West-Veluws_artikel]]
+[[Kattegerie:West-Veluws artikel]]
 [[Kattegerie:Ziekte]]
 
 [[an:Cefalea]]
