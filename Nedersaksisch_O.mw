@@ -10,11 +10,11 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit O begunt''' oet 't [[Neders
 
 *[[Achterhooks]]: ''oepoe''
 *[[Drèents]]:
-**''bep<small>(</small>pe<small>)</small>'', ''böp<small>(</small>pe<small>)</small>''
-**''grootmo<small>(</small>e<small>)</small>'', ''grootmo<small>(</small>o<small>)</small>uder''
-**''grotmo<small>(</small>e<small>)</small>'' (uutspraok ''grof-'')
+**''bep{{small()|pe}}'', ''böp{{small()|pe}}''
+**''grootmo{{small()|e}}'', ''grootmo{{small()|o}}uder''
+**''grotmo{{small()|e}}'' (uutspraok ''grof-'')
 **''opoe''
-**''ote'', ''otie<small>(</small>n<small>)</small>''
+**''ote'', ''otie{{small()|n}}''
 **''oma''
 *[[Grönnegs]]:
 **''opoe''
@@ -27,7 +27,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit O begunt''' oet 't [[Neders
 **''beppe''
 **''grotmoe'' (uutspraok ''grof-'')
 **''opoe''
-**''ote'', ''otie<small>(</small>n<small>)</small>''
+**''ote'', ''otie{{small()|n}}''
 **''oma''
 *[[Tweants]]:
 **'''''[[oma]]'''''
@@ -38,7 +38,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit O begunt''' oet 't [[Neders
 **''groepmoor'', ''grootmoer''
 **''oepoe'', ''opoe''
 **''oma''
-**''oot'', ''ootje<small>(</small>n<small>)</small>'' ([[Putten]], [[Niekark]] - ''verouwerd'')
+**''oot'', ''ootje{{small()|n}}'' ([[Putten]], [[Niekark]] - ''verouwerd'')
 **''ootjie'' ([[Bunschoten]])
 |}
 
@@ -91,27 +91,27 @@ Bijvoorbeeld van touw.
 **''naor''
 **''allebarstens'' (oek ''alder-'')
 **''merakels''
-**''iez<small>(</small>el<small>)</small>ig''
+**''iez{{small()|el}}ig''
 
 ==Ooievaar==
 *[[Nederlands]]: ''ooievaar''
 
 *[[Achterhooks]]: *''stoark''
 *[[Drèents]]:
-**''(h)eileuver''
+**''{{small()|h}}eileuver''
 **''luibert''
 **''ooievaar'', ''ooievaer'', ''ooievaor''
 **''stork'', ''störk''
 *[[Grönnegs]]: 
-**''aaiber<small>(</small>d<small>)</small>''
-**''störk<small>(</small>en<small>)</small>'' ([[Westerwoolds|WEV]])
+**''aaiber{{small()|d}}''
+**''störk{{small()|en}}'' ([[Westerwoolds|WEV]])
 *[[Sallaans]]: 
 **''ooievaar''
 **''stork'' 
-**''(h)eileuver''
+**''{{small()|h}}eileuver''
 *[[Stellingwarfs]]: 
 **''langbien''
-**''sturk<small>(</small>e<small>)</small>''
+**''sturk{{small()|e}}''
 *[[Tweants]]: 
 **'''''[[stoark]]''', stöark''
 **''kikkervretter''
@@ -149,7 +149,7 @@ Bijvoorbeeld van touw.
 *[[Nederlands]]: ''oorwurm''
 
 *[[Achterhooks]]: ''gaffeltand'',''gaffeltang''
-*[[Grönnegs]]: ''(k)nieptang''
+*[[Grönnegs]]: ''{{small()|k}}nieptang''
 *[[Tweants]]: '''''[[gaffeltaand]]'''''
 *[[Urkers]]: ''skallebieter''
 *[[Veluws]]: 
@@ -165,15 +165,15 @@ Bijvoorbeeld van touw.
 **''grootvaa'' 
 **''opa''
 *[[Drèents]]:
-**''bes<small>(</small>se<small>)</small>''
-**''grootva<small>(</small>e<small>)</small>''
-**''grootvao<small>(</small>i<small>)</small>''
-**''grotva<small>(</small>e<small>)</small>'' (uutespreuken as ''grofva<small>(</small>e<small>)</small>'')
+**''bes{{small()|se}}''
+**''grootva{{small()|e}}''
+**''grootvao{{small()|i}}''
+**''grotva{{small()|e}}'' (uutespreuken as ''grofva{{small()|e}}'')
 **''opa''
 *[[Grönnegs]]:
 **''opa''
 **''besse'', ''bebbe'' (WEV)
-**''grootvoa<small>(</small>r<small>)</small>''
+**''grootvoa{{small()|r}}''
 **''pake'' ([[Westerkertiers|WEK]])
 *[[Sallaans]]: ...
 *[[Stellingwarfs]]:
@@ -185,8 +185,8 @@ Bijvoorbeeld van touw.
 **''detta'' ([[Riesns]], hoaste nit mear gebroekt, vake allene nog as skeeldwoord)
 *[[Urkers]]: ''beabe''
 *[[Veluws]]: 
-**''grootva<small>(</small>o<small>)</small>'', ''grootvao<small>(</small>r<small>)</small>''
-**''grovva<small>(</small>o<small>)</small>''
+**''grootva{{small()|o}}'', ''grootvao{{small()|r}}''
+**''grovva{{small()|o}}''
 **''opa''
 **''groof'' ([[Bunschoten]])
 
@@ -216,9 +216,9 @@ Bijvoorbeeld van touw.
 * [[Oostfreisk]]: ''oks''
 * [[Sallaans]]: ...
 * [[Stellingwarfs]]: ...
-* [[Tweants]]: ''osse<small>(</small>n<small>)</small>'' (Ook as skeeldwoord vuur n dom, onhaandig persoon gebroekt)
+* [[Tweants]]: ''osse{{small()|n}}'' (Ook as skeeldwoord vuur n dom, onhaandig persoon gebroekt)
 * [[Urkers]]: ...
-* [[Veluws]]: ''os<small>(</small>se<small>)</small>''
+* [[Veluws]]: ''os{{small()|se}}''
 
 ==Overvol (na eten)==
 * [[Nederlands]]: 
