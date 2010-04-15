@@ -43,7 +43,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''boog'' (dikke tak)
 **''toek'' (dunnere tak)
 **''takke'' (dunnere tak)
-**''twiek<small>(</small>e<small>)</small>'' (zeer dunne tak; twijg)
+**''twiek{{small()|e}}'' (zeer dunne tak; twijg)
 *[[Sallaans]]: ...
 *[[Stellingwarfs]]: ...
 *[[Tweants]]: 
@@ -51,8 +51,8 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''ries'' (rijshout) (keump n naamn [[Riesn]] van)
 *[[Urkers]]: ...
 *[[Veluws]]: 
-**''tak<small>(</small>ke<small>)</small>''
-**''twieg<small>(</small>e<small>)</small>'' (zeer dunne tak; twijg)
+**''tak{{small()|ke}}''
+**''twieg{{small()|e}}'' (zeer dunne tak; twijg)
 **''zwieg'' (zeer dunne tak; twijg - [[Putten]])
 **''giespel'' (zeer dunne tak; twijg - [[Nunspeet]])
 
@@ -60,8 +60,8 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 *[[Nederlands]]: ''tante''
 
 *[[Grönnegs]]:
-**''taande''/''ta(a)nte''/''tanne''/''tantie'' (laifkozend)
-**''ta(a)n'' (vòlgd deur n noam, bv. ta(a)n Antje; Antje is mien tante)
+**''taande''/''ta{{small()|a}}nte''/''tanne''/''tantie'' (laifkozend)
+**''ta{{small()|a}}n'' (vòlgd deur n noam, bv. ta{{small()|a}}n Antje; Antje is mien tante)
 *[[Drèents]]:
 **''tante'' ([[ZWZ]]: vake rap uutespreuken zunder de ''-e'' bi'j namen die begunt mit een klinker: ''tant' Aaltien'')
 **Töt in de twintigste eeuw was 't ''meuie'' achter de name: ''Aaltien meuie''.
@@ -70,10 +70,10 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''meuje'' (eulderwets, nog wal as skeeldwoard gebroekt)
 ***Rechtevoort zegt iederene, net as in t Hollaands, ''tante'' en doarnoa n naamn. Vroger zeadn ze eerst n naamn en plakn dr dan ''meuje''. achter: bv. ''Tante Diene'', ''Dienemeuje''
 *[[Veluws]]:
-**''meu<small>(</small>i<small>)</small>''
+**''meu{{small()|i}}''
 **''meuje''
 **''tante''
-***In 't Veluws zegen ze meestentieds eers de naam en plakken daor ''meu<small>(</small>i<small>)</small>'' of ''meuje'' achter: bv. ''Tante Jacobje'', ''Jaukjen-meuje''
+***In 't Veluws zegen ze meestentieds eers de naam en plakken daor ''meu{{small()|i}}' of ''meuje'' achter: bv. ''Tante Jacobje'', ''Jaukjen-meuje''
 
 ==Tegel==
 *[[Nederlands]]: ''tegel''
@@ -132,8 +132,8 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''teruw'' (Oost-Tweante)
 *[[Urkers]]: ''terogge''
 *[[Veluws]]:
-**''weerum<small>(</small>me<small>)</small>'', ''weer''
-**''terug<small>(</small>ge<small>)</small>'', ''terogge''
+**''weerum{{small()|me}}'', ''weer''
+**''terug{{small()|ge}}'', ''terogge''
 **''troege'' ([[Nunspeet]])
 
 ==Theekan==
@@ -162,16 +162,16 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''zetjen''
 **''tiedjen''
 *[[Drèents]]:
-**''poos'', ''poze'' ([[ZWN]], [[ZWZ]]), ''poosie(n)''
-**''raom'', ''raompie(n)'' ([[MD]], [[ZWN]], [[ZWZ]], [[ZOZ]])
+**''poos'', ''poze'' ([[ZWN]], [[ZWZ]]), ''poosie{{small()|n}}''
+**''raom'', ''raompie{{small()|n}}'' ([[MD]], [[ZWN]], [[ZWZ]], [[ZOZ]])
 **''rekte'' ([[MD]], [[VK]]), ''rek''
 **''roffel''
 **''ruk'', ''rok'' ([[ZWN]], [[ZWZ]]), ''rök'' ([[ZWZ]])
-**''schoffie(n)'', ''schoftie(n)''
-**''steugie(n)'', ''stèugie(n)''
-**''teuge'', ''teugie(n)'' ([[KVD]], [[MD]], [[ZWN]], [[ZWZ]], [[ZOZ]])
+**''schoffie{{small()|n}}'', ''schoftie{{small()|n}}''
+**''steugie{{small()|n}}'', ''stèugie{{small()|n}}''
+**''teuge'', ''teugie{{small()|n}}'' ([[KVD]], [[MD]], [[ZWN]], [[ZWZ]], [[ZOZ]])
 **''tiedtie(n)''
-**''toer'', ''toere'' ([[KVD]], [[ZWZ]]), ''toertie(n)''
+**''toer'', ''toere'' ([[KVD]], [[ZWZ]]), ''toertie{{small()|n}}''
 **''toerlang'' ([[ZOZ]], [[ZOV]])
 **''zet'', ''zettien''
 *[[Grönnegs]]: 
@@ -201,7 +201,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 **''plee'' (informeel)
 
 *[[Achterhooks]]: ''huusken''
-*[[Drèents]]: ''huusie<small>(</small>n<small>)</small>''
+*[[Drèents]]: ''huusie{{small()|n}}''
 *[[Grönnegs]]: 
 **''huuske''/''hoeske'' (verwiezend noar t vrougere hokje dat lös van t woonhoes ston en sums boven n graft hong)
 **''gemak'' (verwiezend noar t vrougere hokje dat aan t woonhoes vast zat en boven n graft hong)
@@ -258,7 +258,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 ==Trog==
 * [[Nederlands]]: ''trog''
 
-*[[Achterhooks]]: ''zo(o)mp''
+*[[Achterhooks]]: ''zo{{small()|o}}mp''
 *[[Drèents]]: ...
 *[[Grönnegs]]: ''Overieselse zoump''
 *[[Sallaans]]: ...
@@ -267,7 +267,7 @@ Hier stoat woorden die of in 't '''Nedersaksisch mit T begunt''' oet 't [[Neders
 *[[Urkers]]: ...
 *[[Veluws]]: 
 **''zeuning'', ''zeunige''
-**''trog<small>(</small>ge<small>)</small>''
+**''trog{{small()|ge}}''
 
 {{Nedersaksische taalwiezers}}
 
