@@ -41,7 +41,7 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |- 
 | bgcolor="honeydew" |cursor, muisaanwijzer
 | bgcolor="honeydew" |cursor
-|<small>(</small>moes<small>)</small>pielken
+|{{small()|moes}}pielken
 |pieltie(n)
 |pieltje
 |muus(anwiezer), moes(anwiezer)
@@ -55,11 +55,11 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |bestand
 |bestaand
 |bestaand, boudel
-|besta<small>(</small>a<small>)</small>nd
+|besta{{small()|a}}nd
 |bestaand
 |bestaand, dreager
 |
-|besta<small>(</small>a<small>)</small>nd, bestangd{{Info|Bunsjoten}}
+|besta{{small()|a}}nd, bestangd{{Info|Bunsjoten}}
 |-
 | bgcolor="honeydew" |website, webstek
 | bgcolor="honeydew" |website
@@ -81,7 +81,7 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |zuukmesiene
 |zeukbalkn, -mesiene
 |
-|zeuk-, zuukmesien<small>(</small>e<small>)</small>
+|zeuk-, zuukmesien{{small()|e}}
 |-
 | bgcolor="honeydew" |browser
 | bgcolor="honeydew" |browser
@@ -103,7 +103,7 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |daelelaeden
 |binnhaaln, neerloadn, neerlaadn, dale loadn
 |
-|binnenha<small>(</small>o<small>)</small>len
+|binnenha{{small()|a}}len
 |-
 | bgcolor="honeydew" |e-mail
 | bgcolor="honeydew" |e-mail
@@ -114,7 +114,7 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |aemel
 |netpost, iej-meel
 |
-|netpos<small>(</small>t<small>)</small>, e-pos<small>(</small>t<small>)</small>, liendepos<small>(</small>t<small>)</small>
+|netpos{{small()|t}}, e-pos{{small()|t}}, liendepos{{small()|t}}
 |-
 | bgcolor="honeydew" |uploaden, versturen
 | bgcolor="honeydew" |upload
@@ -154,22 +154,22 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |
 |
 |knoppenbred
-|tikplank<small>(</small>e<small>)</small>, toetsenbord
+|tikplank{{small()|e}}, toetsenbord
 |toetsebod
 |tikplaanke, knöpkesbröd
 |
-|tikplank<small>(</small>e<small>)</small>, toetsenbord
+|tikplank{{small()|e}}, toetsenbord
 |-
 | bgcolor="honeydew" |computer
 | bgcolor="honeydew" |computer
 |
 |
 |
-|knipper&shy;kist<small>(</small>e<small>)</small>, computer, rekenaar
+|knipper&shy;kist{{small()|e}}, computer, rekenaar
 |komputer
 |kompjoeter, knipper&shy;kiste, mesiene
 |
-|knipperkist<small>(</small>e<small>)</small>, computer, rekenaar
+|knipperkist{{small()|e}}, computer, rekenaar
 
 |-
 | bgcolor="honeydew" |koppeling, link
@@ -279,11 +279,11 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |
 |
 |
-|bra<small>(</small>a<small>)</small>ndmure
+|bra{{small()|a}}ndmure
 |braandmure
 |
 |braandmuur
-|bra<small>(</small>a<small>)</small>ndmure, bra<small>(</small>a<small>)</small>ndmuur, brangdmuur{{Info|Bunsjoten}}, braandmoere{{Info|Elburg}}
+|bra{{small()|a}}ndmure, bra{{small()|a}}ndmuur, brangdmuur{{Info|Bunsjoten}}, braandmoere{{Info|Elburg}}
 |-
 | bgcolor="honeydew" |apenstaartje
 | bgcolor="honeydew" |at
@@ -291,11 +291,11 @@ Overzichte van ofkortingen dee-w in dit artikel gebruken:
 |
 |
 |
-|aepestat<small>(</small>tien<small>)</small>
+|aepestat{{small()|tien}}
 |
 |
 |apestart, apesteert{{Info|Verkleinwoord ku-j oek gebruken}}
 |}
 
-[[Kattegerie:Nedersaksisch]]
+[[Kattegerie:Nedersaksiese woorden en begrippen|Computertermen]]
 [[Kattegerie:Infermatika]]
