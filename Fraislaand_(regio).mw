@@ -1,6 +1,5 @@
 {| align=right cellpadding=4 cellspacing=0 width=280 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; font-size: 95%;"
-|+<big>
-'''Fryslân'''<br />
+|+ style="font-size: larger" | '''Fryslân'''<br />
 '''Fraislaand'''<br />
 '''Freesland'''<br />
 '''Fräislound'''<br />
@@ -8,7 +7,6 @@
 '''Friislon'''<br />
 '''Friesland'''<br />
 '''Frisland'''
-</big>
 |-
 | align=center colspan="2" |
 {| style="background:#f9f9f9;" border="0" cellpadding="2" cellspacing="0"
@@ -16,10 +14,10 @@
 | {{border|}}
 | &nbsp;&nbsp;
 | [[Image:Sin escudo.svg|125x100px|Wapen van {{PAGENAME}}]]
-|- align=center
-| <small>([[Fraislaand_%28regio%29#Vlaag|Vlaag van Fraislaand]])</small>
+|- align=center style="font-size: smaller"
+| ([[#Vlaag|Vlaag van Fraislaand]])
 |
-| <small>([[Woapen van Fraislaand (regio)|Woapen van Fraislaand]])</small>
+| ([[Woapen van Fraislaand (regio)|Woapen van Fraislaand]])
 |}
 |- align=center valign=top
 | colspan="2" style="background:#ffffff;" | [[Image:Europe location FRS.png|250px|Lokasie van Fraislaand]]
