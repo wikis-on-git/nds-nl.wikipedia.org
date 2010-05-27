@@ -20,7 +20,7 @@ webstee = [http://www.heerenveen.nl www.heerenveen.nl] |
 }}
 '''Et Vene''' ([[Nederlaands|Nederlaans]]: ''Heerenveen'' {{Audio|450_Heerenveen.ogg|<small>uutspraoke</small>}}, [[Fries]]: ''It Hearrenfean'' of ''It Fean'') is een [[gemiente (bestuur)|gemiente]] in de perveensie [[Frieslaand]].
 
-De gemiente Et Vene het 42.978 inwoners ([[1 november]] [[2007]], bron: CBS), waorvan omdebi'j 29.000 in et heufdplak [[Et Vene (plak)|Et Vene]]. 
+De gemiente Et Vene het 42.978 inwoners,<ref name="CBS-20071101">1 november 2007, Bron: Centraal Bureau voor de Statistiek</ref> waorvan omdebi'j 29.000 in et heufdplak [[Et Vene (plak)|Et Vene]]. 
 
 De gemiente is in [[1934]] vormd deur fusie van de veurmaolige gemientes [[Aengwirden]], een diel van [[Schoterlaand]] en een diel van [[Haskerlaand]].
 
@@ -28,13 +28,13 @@ De gemiente is in [[1934]] vormd deur fusie van de veurmaolige gemientes [[Aengw
 De gemiente Et Vene het zestien officiële plakken, waorvan de stad Et Vene vereweg de grootste is. De Nederlaanse naemen bin de officiële, allienig de naeme van et dörp De Kniepe (''De Knijpe'') is officieel verfriesd tot ''De Knipe''.
 
 ===Stad en dörpen===
-Antal inwoners per woongebied '''*''' op 1 jannewaori 2004: 
+Antal inwoners per woongebied<ref group="*">Woongebied: et woongebied en et bi'jbeheurende omliggende gebied buten de bebouwde koeme. Gegevens per woongebied bin niet beschikber.</ref><ref name="CBS-20040101">1 jannewaori 2004, Bron: Centraal Bureau voor de Statistiek</ref>: 
 {| class="toccolours" style="margin: 0em 0em;"
 |'''Stellingwarfse naeme'''||'''''Friese naeme'''''||'''Antal'''
 |-
-|[[Et Vene (plak)|Et Vene]] '''**'''||''It Hearrenfean''||ALIGN="right"|29.750
+|[[Et Vene (plak)|Et Vene]]<ref group="*">Exklusief Ni'jeschoot</ref>||''It Hearrenfean''||ALIGN="right"|29.750
 |-
-|[[Jubbege]] '''***'''||''Jobbegea''||ALIGN="right"|3270
+|[[Jubbege]]<ref group="*">Inklusief de wiek Schurige</ref>||''Jobbegea''||ALIGN="right"|3270
 |-
 |[[Ni'jehoorn]]||''Nijhoarne''||ALIGN="right"|1500
 |-
@@ -64,11 +64,10 @@ Antal inwoners per woongebied '''*''' op 1 jannewaori 2004:
 |-
 |[[Ni'jeschoot]]||''Nijskoat''||ALIGN="right"|140
 |}
-<small>Bron: CBS</small><br />
+<references group="*" />
 
-'''*''' Woongebied: et woongebied en et bi'jbeheurende omliggende gebied buten de bebouwde koeme. Gegevens per woongebied bin niet beschikber.<br />
-'''**''' Exklusief Ni'jeschoot<br />
-'''***''' Inklusief de wiek Schurige
+== Rifferenties ==
+<references />
 
 [[Kattegerie:Stellingwarfs artikel]]
 [[Kattegerie:Gemiente in Frieslaand]]
