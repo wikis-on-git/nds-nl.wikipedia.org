@@ -22,23 +22,11 @@ Europa wördt meestal opdield in:
 |- 
 | colspan=5 style="background:#eee;" | '''[[Oost-Europa]]:'''
 |-
-| [[Wit-Ruslaand]]
-| align="right" | 207,600
-| align="right" | 10,335,382
-| align="right" | 49.8
-| [[Minsk]]
-|-
 | [[Bulgarije]]
 | align="right" | 110,910
 | align="right" | 7,621,337
 | align="right" | 68.7
 | [[Sofia]]
-|-
-| [[Tsjechië]]
-| align="right" | 78,866
-| align="right" | 10,256,760
-| align="right" | 130.1
-| [[Praag]]
 |-
 | [[Hongarije]]
 | align="right" | 93,030
@@ -51,6 +39,12 @@ Europa wördt meestal opdield in:
 | align="right" | 4,434,547
 | align="right" | 131.0
 | [[Chisinau]]
+|-
+| [[Oekraïne]]
+| align="right" | 603,700
+| align="right" | 48,396,470
+| align="right" | 80.2
+| [[Kiev]]
 |-
 | [[Pooln|Polen]]
 | align="right" | 312,685
@@ -76,11 +70,17 @@ Europa wördt meestal opdield in:
 | align="right" | 111.0
 | [[Bratislava]]
 |-
-| [[Oekraïne]]
-| align="right" | 603,700
-| align="right" | 48,396,470
-| align="right" | 80.2
-| [[Kiev]]
+| [[Tsjechië]]
+| align="right" | 78,866
+| align="right" | 10,256,760
+| align="right" | 130.1
+| [[Praag]]
+|-
+| [[Wit-Ruslaand]]
+| align="right" | 207,600
+| align="right" | 10,335,382
+| align="right" | 49.8
+| [[Minsk]]
 |- 
 | colspan=5 style="background:#eee;" | '''[[Scandinaovië|Noord-Europa]]:'''
 |-
@@ -114,17 +114,17 @@ Europa wördt meestal opdield in:
 | align="right" | 828.0
 | [[St Peter Port]]
 |-
-| [[Ieslaand]]
-| align="right" | 103,000
-| align="right" | 279,384
-| align="right" | 2.7
-| [[Reykjavik]]
-|-
 | [[Ierlaand]]
 | align="right" | 70,280
 | align="right" | 3,883,159
 | align="right" | 55.3
 | [[Dublin]]
+|-
+| [[Ieslaand]]
+| align="right" | 103,000
+| align="right" | 279,384
+| align="right" | 2.7
+| [[Reykjavik]]
 |-
 | [[Isle of Man]]
 | align="right" | 572
@@ -162,17 +162,17 @@ Europa wördt meestal opdield in:
 | align="right" | 0.046
 | [[Longyearbyen]]
 |-
-| [[Sveden|Zweden]]
-| align="right" | 449,964
-| align="right" | 8,876,744
-| align="right" | 19.7
-| [[Stockholm]]
-|-
 | [[Verienigd Keuninkriek]]
 | align="right" | 244,820
 | align="right" | 59,778,002
 | align="right" | 244.2
 | [[Londen]]
+|-
+| [[Sveden|Zweden]]
+| align="right" | 449,964
+| align="right" | 8,876,744
+| align="right" | 19.7
+| [[Stockholm]]
 |-
 | colspan=5 style="background:#eee;" | '''[[Zuud-Europa]]:'''
 |-
@@ -194,12 +194,6 @@ Europa wördt meestal opdield in:
 | align="right" | 77.5
 | [[Sarajevo]]
 |-
-| [[Kroatië]]
-| align="right" | 56,542
-| align="right" | 4,390,751
-| align="right" | 77.7
-| [[Zagreb]]
-|-
 | [[Gibraltar]] ([[Verienigd Keuninkriek|VK]])
 | align="right" | 5.9
 | align="right" | 27,714
@@ -217,6 +211,12 @@ Europa wördt meestal opdield in:
 | align="right" | 57,715,625
 | align="right" | 191.6
 | [[Rome]]
+|-
+| [[Kroatië]]
+| align="right" | 56,542
+| align="right" | 4,390,751
+| align="right" | 77.7
+| [[Zagreb]]
 |-
 | [[Macedonië]]
 | align="right" | 25,333
@@ -274,29 +274,23 @@ Europa wördt meestal opdield in:
 |-
 | colspan=5 style="background:#eee;" | '''[[West-Europa]]:'''
 |-
-| [[Oostnriek|Oostenriek]]
-| align="right" | 83,858
-| align="right" | 8,169,929
-| align="right" | 97.4
-| [[Wenen]]
-|-
 | [[België]]
 | align="right" | 30,510
 | align="right" | 10,274,595
 | align="right" | 336.8
 | [[Brussel]]
 |-
-| [[Fraankriek]]
-| align="right" | 547,030
-| align="right" | 59,765,983
-| align="right" | 109.3
-| [[Paries]]
-|-
 | [[Duutslaand]]
 | align="right" | 357,021
 | align="right" | 83,251,851
 | align="right" | 233.2
 | [[Berlien]]
+|-
+| [[Fraankriek]]
+| align="right" | 547,030
+| align="right" | 59,765,983
+| align="right" | 109.3
+| [[Paries]]
 |-
 | [[Liechtenstein]]
 | align="right" | 160
@@ -321,6 +315,12 @@ Europa wördt meestal opdield in:
 | align="right" | 16,318,199
 | align="right" | 393.0
 | [[Amsterdam]]
+|-
+| [[Oostnriek|Oostenriek]]
+| align="right" | 83,858
+| align="right" | 8,169,929
+| align="right" | 97.4
+| [[Wenen]]
 |-
 | [[Zwitserlaand]]
 | align="right" | 41,290
