@@ -1,59 +1,32 @@
 {{Tw-logo|Tweantsen taalwiezer}}
-{| {{prettytable}} border="1" cellpadding="2" cellspacing="0" align="right" width="300" style="float:right; margin-left:1em; margin-bottom:1em;"
-!colspan="2" bgcolor="lightgrey"|<big>Tweants</big>
-|-
-|Naam  
-|Tweants
-|-
-|Andere naamn  
-|Tukkers (vake grappig bedoold)
-|-
-|Nederlaandse naam  
-|Twents
-|-
-|Laand 
-|[[Nederlaand]] 
-|-
-|Taalgebied  
-|t Oosten van de preveensie Oaveriessel, de regio Tweante
-|-
-|Antal sprekers 
-|338.000  
-|-
-|Dialekte
-|
-Duur Jo Daan inedeeld as:
+{{Sproake
+| kop         = Tweants
+| sproake     = Tweants
+| ofbeelding  = IndelingTweants.png
+| umskrieving = Tweants taalgebeed en zin indeling
+| naam_anders = Tukkers (vake grappig bedoold)
+| laand       = [[Nederlaand]]   
+| gebeed      = t Oosten van de preveensie Oaveriessel, de regio Tweante
+| sprekkers   = 338.000
+| dialekte    = Duur Jo Daan inedeeld as:
 *[[Oost-Tweants]] 
 *[[Tweants-Groafschops]]
 *[[Vjens]] 
 
 Wieder nog weer oonder te verdeeln in döarpsdialekte
-|-
-|Taalklassifikatsie  
-|
-*[[Indo-Uropees]]  
+| klassifikatie = *[[Indo-Uropees]]  
 **[[Germaanse sproaken|Germaans]]  
 ***[[West-Germaans]]  
 ****[[Nederduuts]]
-****[[Nedersaksisch|Neersassies]] 
-*****'''Tweants''' 
-|-
-|Skrift  
-|t [[Latiense alfabet]] 
-|-
-|Taalstoates
-|t Tweants wödt zeen as dialekt van t [[Nedersaksisch|Neersassies]]
-|-
-|Taalkode ISO 639-1  
-|n.v.t. 
-|-
-|Taalkode ISO 639-2  
-|nds 
-|-
-|Taalkode ISO 639-3/DIS 
-|twd 
-|}
-[[Ofbeelding:IndelingTweants.png|thumb|250px|Tweants taalgebeed en zin indeeling]]
+| skrift      = t [[Latiense alfabet]]  
+| stoates     = t Tweants wödt zeen as dialekt van t [[Nedersaksisch|Neersassies]]
+| iso1        = n.v.t.
+| iso2        = nds
+| iso3        = twd
+| vootkop     = 
+| ofbeelding2 = 
+| caption2    = 
+}}
 
 ''Vuur ne deepgoande beskriewing van de Tweantse sproake, mu'j [[Tweantse taalwiezer|in n Tweantsen taalwiezer kiekn >>]].''
 
