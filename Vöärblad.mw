@@ -101,25 +101,32 @@ De sprekers van t Nedersaksisch (oek wè Leegsaksisch eneumd) neumen der eigen d
 | class="MainPageBG" style="width: 55%; border: 1px solid moccasin; background-color: #FFFFF0; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
 <div id="lang-nds-nl">{{Veurblad/Interwiki's}}</div>
 |}
+
 {| style="border-spacing:8px;margin:0px -8px"
 | colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid gainsboro; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em;" | 
-{| align="center" cellpadding="1" class=plainlinks
-| colspan="8" align=center | Wikipedie is een projek van de [[Wikimedia Foundation]], dee verschillende aandere [[m:Complete_list_of_Wikimedia_projects|meertalige]] en [[Wikipedie:Auteursrechten|vrieje]] projekken beheert.
+<small>Zusterprojekken:</small>
+{| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
 |- valign="top"
-| width="4%"  |[[Image:Commons-logo.svg|28px]]
-| width="21%" |[[Commons:Veurpagina|'''WikiCommons''']]<br />Multimediaverzameling <small>(Nedersaksisch)</small>
-| width="4%"  |[[Image:Wikimedia-logo.png|28px]]
-| width="21%" |[[m:Hoofdpagina|'''Meta-Wiki''']]<br />Projekkoördinasie <small>(Nederlaans)</small>
-| width="4%"  |[[Image:Wiktionary-logo-en.png|28px]]
-| width="21%" |[http://nds.wiktionary.org/ '''WikiWoordenboek''']<br />Woordenboek <small>(Platduuts)</small>
+| width="4%"  |[[Image:Commons-logo.svg|20px]]
+| width="21%" |[[Commons:Veurpagina|'''WikiCommons''']] - Multimediaverzameling <small>(NDS-NL)</small>
+| width="4%"  |[[Image:Wikimedia-logo.png|20px]]
+| width="21%" |[[m:Hoofdpagina Nederlands|'''Meta-Wiki''']] - Wikimediakoördinasie <small>(NL)</small>
+| width="4%"  |[[Image:Wiktionary-logo-en.png|20px]]
+| width="21%" |[http://nds.wiktionary.org/ '''WikiWoordeboek'''] - Woordenboek <small>(NDS-DE / NDS-NL)</small>
 |- valign="top"
-| width="4%"  |[[Image:Wikisource-logo.png|28px]]
-| width="21%" |[http://wikisource.org/wiki/Hööftsiet:Plattdüütsch '''WikiBronnen''']<br />Openbron-dokumenten <small>(Platduuts)</small>
-| width="4%"  |[[Image:Wikibooks-logo.png|28px]]
-| width="21%" |[http://nds.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen <small>(Platduuts)</small>
-</small>
-| width="4%"  |[[Image:Wikinews-logo.png|28px]]
-| width="21%" |[http://nl.wikinews.org/ '''WikiNiejs''']<br />Openbron-niejs <small>(Nederlaans)</small>
+| width="4%"  |[[Image:Wikibooks-logo.png|20px]]
+| width="21%" |[http://nl.wikibooks.org/ '''WikiBoeken'''] - Boeken en haandleidingen <small>(NL)</small>
+| width="4%"  |[[Image:Wikisource-logo.png|20px]]
+| width="21%" |[http://wikisource.org/wiki/Hööftsiet:Plattdüütsch '''WikiBronnen'''] - Bronteksen <small>(NDS-DE)</small>
+| width="4%"  |[[Image:Wikiquote-logo.png|20px]]
+| width="21%" |[http://nl.wikiquote.org/wiki/Hoofdpagina '''WikiSitaoten'''] - Verzameling sitaoten en spreekwoorden <small>(NL)</small>
+|- valign="top"
+| width="4%"  |[[Image:Wikispecies-logo.png|20px]]
+| width="21%" |[http://species.wikimedia.org/wiki/Hoofdpagina '''WikiSoorten'''] - Soorten <small>(NL)</small>
+| width="4%"  |[[Image:Wikinews-logo.png|20px]]
+| width="21%" |[http://nl.wikinews.org/ '''WikiNiejs'''] - Niejs <small>(EN)</small>
+| width="4%"  |[[Image:Wikiversity-logo-en.svg|20px]]
+| width="21%" |[http://en.wikiversity.org/wiki/Wikiversity:Main_Page '''WikiVersiteit'''] - Leermateriaal <small>(EN)</small>
 |}
 |}
 
