@@ -66,6 +66,21 @@ Artikel van de maond nds-de
 |-
 | style="font-family:Arial; font-size: 95%" | {{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}
 <span style="float:right; font-family:Arial; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Veurpagina-info/Artikel_van_de_maond|archief]])</span>
+|-
+<!---------------------------------
+Schrieven en zeuken
+----------------------------------->
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] Artikels zeuken of schrieven</div>
+|- 
+| style="font-family:Arial; font-size: 95%" | <inputbox>
+type=create
+buttonlabel=Niej artikel anmaken
+</inputbox>
+<inputbox>
+type=search
+buttonlabel=Gao naor t artikel
+searchbuttonlabel=Wikipedie deurzeuken
+</inputbox>
 |- 
 |}
 
