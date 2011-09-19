@@ -77,12 +77,14 @@ Schrieven en zeuken
 |<inputbox>
 type=create
 buttonlabel=Begin n nieje pagina
+width=25
 </inputbox>
 |
 |<inputbox>
 type=search
 buttonlabel=Gao naor dit artikel
 searchbuttonlabel=Wikipedie deurzeuken
+width=25
 </inputbox>
 |}
 |- 
