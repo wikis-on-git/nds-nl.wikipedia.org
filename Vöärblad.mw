@@ -1,25 +1,23 @@
-{| id="veurbladintro" style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc;background-repeat:no-repeat; background-position:1% 25%;"
-|style="width:50%;color:#000"|
-{|style="width:280px;border:solid 0px;background-color:transparent;"
+{| id="veurbladintro" style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%"
+| style="height:6.8em; width:50%"|
+{|style="width:280px; border:solid 0px; background-color:transparent"
 |-
-| style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000"><h1 style="font-size: 120%; font-family: 'hoefler text', 'times new roman', serif;  font-variant: small-caps; border: none; margin: 0; padding: 0;">Welkom bie Wikipedie</h1></div>
-<div style="top:+0.2em;font-size: 95%">de [[Hulpe:Uutleg|vrie te bewarken]] ensyklopedie.</div>
-<div id="articlecount" style="width:100%;text-align:center;font-weight:bold;font-size:85%;">Vandage is t [[{{CURRENTDAYNAME}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]</div>
+| style="width:280px; text-align:center; white-space:nowrap" |
+<div style="font-size:172%; padding:.1em">Welkom bie Wikipedie,</div>
+<div style="padding-top:0.1em; font-size:95%">de [[Hulpe:Uutleg|vrie te bewarken]] ensyklopedie.</div>
+<div style="padding-top:0.1em; font-weight:bold; font-size:85%;">[[{{ucfirst:{{CURRENTDAYNAME}}}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]</div>
 |}
-|style="width:20%; font-size:95%;color:#000"|
+|style="width:20%; font-size:95%"|
 [[Ofbeelding:Fairytale bookmark.png|15px|link=Wikipedie:Etelazie]] [[Wikipedie:Etelazie|De etalazie]]<br />
 [[Ofbeelding:Nuvola apps amarok.png|15px|link=:Kattegerie:In-espreuken artikel]] [[:Kattegerie:In-espreuken artikel|In-espreuken&nbsp;artikels]]<br />
 [[Ofbeelding:Exailelogo.svg|15px|link=Wikipedie:Nedersaksies beluusteren]] [[Wikipedie:Nedersaksies beluusteren|Nedersaksies&nbsp;beluusteren]]
 |style="width:20%; font-size:95%"|
 [[Ofbeelding:HILLDEP puntointerrogativo.png|15px|link=Hulpe:Nedersaksies schrieven]] [[Hulpe:Nedersaksies schrieven|Plat,&nbsp;hoe&nbsp;schrief&nbsp;ik&nbsp;dat?]]<br />
 [[Ofbeelding:Crystal_Clear_app_wp_red.png|15px|link=Hulpe:Nieje pagina maken]] [[Hulpe:Nieje pagina maken|Begin n niej artikel]]<br />
-[[Ofbeelding:System-users.svg|15px|link=Hulpe:Informasie veur anwas]] [[Hulpe:Informasie veur anwas|Informasie veur niej volk]]
+[[Ofbeelding:System-users.svg|15px|link=Hulpe:Informasie veur anwas]] [[Hulpe:Informasie veur anwas|Informasie veur niejkoemers]]
 |}
 
-<div style="margin-top: 1em; padding-bottom: 1em; font-family: Arial, Helvetica, sans-serif; font-size:110%;">
-Welkom bie de '''[[Nedersaksies]]e''' uutgave van [[Wikipedia|Wikipedie]], n [[ensyklopedie]] op internet waor iederene an mee kan doon, en die beschikbaor is in [[m:List of Wikipedias|verschillende talen]]. Disse uutgave besteet vanof [[24 meert]] [[2006]] en hef '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' artikels. Op de nds-nl-Wikipedie steet informasie in t [[Wikipedie:Nedersaksies|Nedersaksies]] dat in Nederlaand en de Duutse grensstreek espreuken wörden.</div>
+<div style="margin-top:1em; margin-bottom:1em; font-size:110%;">Welkom bie de '''[[Nedersaksies]]e''' uutgave van [[Wikipedia|Wikipedie]], n [[ensyklopedie]] op internet waor iederene an mee kan doon, en die beschikbaor is in [[m:List of Wikipedias|verschillende talen]]. Disse uutgave besteet vanof [[24 meert]] [[2006]] en hef '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' artikels. Op de nds-nl-Wikipedie steet informasie in t [[Wikipedie:Nedersaksies|Nedersaksies]] dat in Nederlaand en de Duutse grensstreek espreuken wörden.</div>
 
 <!---------------------------------
 Heuftabel 1
