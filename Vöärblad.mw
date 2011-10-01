@@ -68,7 +68,7 @@ Artikel van de maond nds-de
 <!---------------------------------
 Schrieven en zeuken
 ----------------------------------->
-! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Special:Zeuken|Artikels schrieven en zeuken]]</div>
+! style="background-color: #CCD5F4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size: 85%; font-variant: small-caps; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px;  -moz-border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Nuvola apps date.png|20px]] [[Special:Zeuken|Artikels of pagina's schrieven en zeuken]]</div>
 |- 
 | style="font-family:Arial; font-size: 95%" | 
 {| align="center"
@@ -80,7 +80,7 @@ width=25
 |
 |<inputbox>
 type=search
-buttonlabel=Gao naor dit artikel
+buttonlabel=Gao naor disse pagina
 searchbuttonlabel=Wikipedie deurzeuken
 width=25
 </inputbox>
