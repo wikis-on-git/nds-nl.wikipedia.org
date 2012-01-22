@@ -52,10 +52,10 @@ Heuftebel 2
 <!---------------------------------
 Artikel van de maond nds-nl
 ----------------------------------->
-! style="background-color: #cedff2; font-size: 90%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola Dutch flag.svg|18px]] [[Wikipedie:Artikel van de maond|Artikel van de maond]]
+! style="background-color: #cedff2; font-size: 90%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div id="mp-tfa-h2"; style="float:left;">[[Ofbeelding:Nuvola Dutch flag.svg|18px]] [[Wikipedie:Artikel van de maond|Artikel van de maond]]
 |-
 |-
-| style="font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}
+| style="font-size: 95%" | <div id="mp-itn">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
@@ -100,9 +100,9 @@ Rechterkolom
 <!---------------------------------
 In t niejs
 ----------------------------------->
-! style="background-color: #F0F3CD; font-size: 90%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Ofbeelding:wbar_green3.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola apps knewsticker.png|22px]] [[Portaol:In t niejs|In t niejs]]</div>
+! style="background-color: #F0F3CD; font-size: 90%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Ofbeelding:wbar_green3.jpg]]</div><div id="mp-itn-h2"; style="float:left;">[[Ofbeelding:Nuvola apps knewsticker.png|22px]] [[Portaol:In t niejs|In t niejs]]</div>
 |-
-| style="font-size: 95%;" | {{In t niejs}}
+| style="font-size: 95%;" | <div id="mp-itn">{{In t niejs}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Portaol:In t niejs/Archief|archief]] | <span class="plainlinks">[{{fullurl:Mal:In t niejs|action=edit}} +])</span></span>
 |-
 <!---------------------------------
