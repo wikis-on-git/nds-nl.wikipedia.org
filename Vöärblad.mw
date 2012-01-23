@@ -48,16 +48,14 @@ Heuftebel 2
 ----------------------------------->
 {| style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color: #ffffff; vertical-align: top;  -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px" | 
-<div id="mp-tfa">
 {| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background-color:#ffffff;  -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"
 <!---------------------------------
 Artikel van de maond nds-nl
 ----------------------------------->
-
 ! style="background-color: #cedff2; font-size: 90%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola Dutch flag.svg|18px]] [[Wikipedie:Artikel van de maond|Artikel van de maond]]</div>
 |-
 |-
-| style="font-size: 95%" | {{Artikel van de maond/{{CURRENTMONTHNAME}}}}
+| style="font-size: 95%" | <div id="mp-tfa">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
@@ -65,7 +63,7 @@ Artikel van de maond nds-de
 ----------------------------------->
 ! style="background-color: #DCF4CC; font-size: 90%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Nuvola German flag.svg|18px]] [[Wikipedie:Artikel van de maond|Platduuts artikel van de maond]]</div>
 |-
-| style="font-size: 95%" | {{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}
+| style="font-size: 95%" | <div id="mp-tfa">{{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span></div>
 |-
 <!---------------------------------
