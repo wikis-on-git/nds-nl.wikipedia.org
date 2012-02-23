@@ -271,10 +271,10 @@ t Kroaties is n Zuud-[[Slaviese talen|Slaviese]] taal die stark verwant is an t 
 
 == Bestuurlike indeling ==
 [[Ofbeelding:Zupanije.gif|600px|right]]
-{| border=0
-|- bgcolor=silver
-| '''Provincie''' || '''Kroatiese naam'''
-|- bgcolor=#ececec
+{| class="wikitable"
+|- 
+! '''Provincie''' || '''Kroatiese naam'''
+|- 
 ! colspan="3"  | ''Sentraal-Kroasië''
 |-
 | [[Bjelovar-Bilogora]]
@@ -303,7 +303,7 @@ t Kroaties is n Zuud-[[Slaviese talen|Slaviese]] taal die stark verwant is an t 
 |-
 | [[Zagreb]]
 | Grad Zagreb
-|- bgcolor=#ececec
+|- 
 ! colspan="3" | ''Hrvatsko Primorje'' ([[Adriatiese Zee|Adriatiese kust]])
 |-
 | [[Dubrovnik-Neretva]]
@@ -326,7 +326,7 @@ t Kroaties is n Zuud-[[Slaviese talen|Slaviese]] taal die stark verwant is an t 
 |-
 | [[Zadar]]
 | Zadarska županija
-|- bgcolor=#ececec
+|- 
 ! colspan="3" | [[Slavonië]]
 |-
 | [[Brod-Posavina]]
