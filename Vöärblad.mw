@@ -1,14 +1,14 @@
 {| id="veurbladintro" style="width:100%; margin-top:+.7em; background-color:#fcfcfc; border:1px solid #ccc; background-repeat:no-repeat; background-position:1% 25%"
 | style=" width:30%; text-align:center"|
 <div style="font-size:172%; padding:.2em;">Welkom bie Wikipedie,</div>
-<div style="padding-top:0.2em; font-size:95%;">de [[Hulpe:Uutleg|vrie te bewarken]] ensyklopedie.</div>
+<div style="padding-top:0.2em;">de [[Hulpe:Uutleg|vrie te bewarken]] ensyklopedie.</div>
 <div style="padding-top:0.2em; font-weight:bold; font-size:85%;">[[{{ucfirst:{{CURRENTDAYNAME}}}}]] [[{{CURRENTDAY}} {{CURRENTMONTHNAME}}]] [[{{CURRENTYEAR}}]]</div>
 | style="width:25%;"|&nbsp;
-|style="width:22%; font-size:95%"|
+|style="width:22%;|
 [[Ofbeelding:Fairytale bookmark.png|15px|link=Wikipedie:Etelazie]] [[Wikipedie:Etelazie|De etalazie]]<br />
 [[Ofbeelding:Nuvola apps amarok.png|15px|link=:Kattegerie:In-espreuken artikel]] [[:Kattegerie:In-espreuken artikel|In-espreuken&nbsp;artikels]]<br />
 [[Ofbeelding:Exailelogo.svg|15px|link=Wikipedie:Nedersaksies beluusteren]] [[Wikipedie:Nedersaksies beluusteren|Nedersaksies&nbsp;beluusteren]]
-|style="width:23%; font-size:95%"|
+|style="width:23%;|
 [[Ofbeelding:HILLDEP puntointerrogativo.png|15px|link=Hulpe:Nedersaksies schrieven]] [[Hulpe:Nedersaksies schrieven|Plat,&nbsp;hoe&nbsp;schrief&nbsp;ik&nbsp;dat?]]<br />
 [[Ofbeelding:Crystal_Clear_app_wp_red.png|15px|link=Hulpe:Nieje pagina maken]] [[Hulpe:Nieje pagina maken|Nieje pagina anmaken]]<br />
 [[Ofbeelding:System-users.svg|15px|link=Hulpe:Informasie veur anwas]] [[Hulpe:Informasie veur anwas|Informasie veur niejkoemers]]
@@ -25,10 +25,9 @@ Heuftabel 1
 <!---------------------------------
 Portaolen
 ----------------------------------->
-! style="background-color: whitesmoke; font-size: 90%; border: 1px solid lightgrey; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_transp.gif]]</div><div style="margin: 0px auto; width: 100px;">[[Ofbeelding:Crystal Clear app password.png|16px|Portaolen]] Portaolen
+! style="background-color: whitesmoke; font-size: 95%; border: 1px solid lightgrey; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_transp.gif]]</div><div style="margin: 0px auto; width: 100px;">[[Ofbeelding:Crystal Clear app password.png|16px|Portaolen]] Portaolen
 |-
-| style="; font-size: 95%" | 
-<div class="portale" align="center">
+|<div class="portale" align="center">
 <span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Nuvola apps knewsticker.png|30px|link=Portaol:In t niejs|In t niejs]]&nbsp;</span>[[Portaol:In t niejs|In t niejs]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Intersaksische vlagge 3.svg|30px|link=Leegsaksische vlaag|Veurstelvlagge veur t Nedersaksies]]&nbsp;</span>[[Portaol:Nedersaksische cultuur|Nedersaksiese kultuur]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span style="white-space:nowrap;"><span class="icon">[[Ofbeelding:Flag of Doetinchem.svg|30px|border|link=Portaol:Achterhook|Vlagge van Deutekem]]&nbsp;</span>[[Portaol:Achterhook|Achterhook]]&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -49,26 +48,26 @@ Heuftebel 2
 <!---------------------------------
 Artikel van de maond nds-nl
 ----------------------------------->
-! style="background-color: #cedff2; font-size: 90%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola Dutch flag.svg|18px]] [[Wikipedie:Artikel van de maond|Artikel van de maond]]</div>
+! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola Dutch flag.svg|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Artikel van de maond]]</div>
 |-
 |-
-| style="font-size: 95%" | <div id="mf-avdm" title="Artikel van de maond">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
+| <div id="mf-avdm" title="Artikel van de maond">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
 Artikel van de maond nds-de
 ----------------------------------->
-! style="background-color: #DCF4CC; font-size: 90%; border: 1px solid #9EE072; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Image:Nuvola German flag.svg|18px]] [[Wikipedie:Artikel van de maond|Platduuts artikel van de maond]]</div>
+! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_blue.jpg]]</div><div style="float:left;">[[Image:Nuvola German flag.svg|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Platduuts artikel van de maond]]</div>
 |-
-| style="font-size: 95%" | <div id="mf-avdmde" title="Platduuts artikel van de maond">{{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}</div>
+| <div id="mf-avdmde" title="Platduuts artikel van de maond">{{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span>
 |-
 <!---------------------------------
 Schrieven en zeuken
 ----------------------------------->
-! style="background-color: #CCD5F4; font-size: 90%; border: 1px solid #BBBBFF; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_purple.jpg]]</div><div style="float:left;">[[Image:Loupe.svg|18px]] [[Special:Zeuken|Artikels zeuken of schrieven]]</div>
+! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_blue.jpg]]</div><div style="float:left;">[[Image:Loupe.svg|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Special:Zeuken|Artikels zeuken of schrieven]]</div>
 |- 
-| style="font-size: 95%" | 
+| 
 {{Kolommen2
 |Kolom1=
 <inputbox>
@@ -97,17 +96,17 @@ Rechterkolom
 <!---------------------------------
 In t niejs
 ----------------------------------->
-! style="background-color: #F0F3CD; font-size: 90%; border: 1px solid #DDDDA4; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Ofbeelding:wbar_green3.jpg]]</div><div style="float:left;">[[Ofbeelding:Nuvola apps knewsticker.png|22px]] [[Portaol:In t niejs|In t niejs]]</div>
+! style="background-color: #DCF4CC; font-size: 95%; border: 1px solid #BAEA9C; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Ofbeelding:wbar_green2.jpg]]</div><div style="float:left;">[[Bestaand:Nuvola apps knewsticker.png|22px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Portaol:In t niejs|In t niejs]]</div>
 |-
-| style="font-size: 95%;" | <div id="mf-itn" title="In t niejs">{{In t niejs}}</div>
+| <div id="mf-itn" title="In t niejs">{{In t niejs}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Portaol:In t niejs/Archief|archief]] | <span class="plainlinks">[{{fullurl:Mal:In t niejs|action=edit}} +])</span></span>
 |-
 <!---------------------------------
 Nedersaksies
 ----------------------------------->
-! style="background-color: #CEF2E8; font-size: 90%; border: 1px solid #8BE0C9; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_green1.jpg]]</div><div style="float:left;">[[Ofbeelding:Crystal Clear app package network.png|18px]] [[Nedersaksies]]</div>
+! style="background-color: #DCF4CC; font-size: 95%; border: 1px solid #BAEA9C; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_green2.jpg]]</div><div style="float:left;">[[Bestaand:Crystal Clear app package network.png|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Nedersaksies]]</div>
 |-
-| style="font-size: 95%" | [[Ofbeelding:Koart_Leegsaksisch.png|right|200px|Koart van't Nedersaksies deel van Nederlaand]] t '''Nedersaksies''' is n [[West-Germaanse talen|West-Germaanse taal]], die deur zo'n dree miljoen meensen espreuken wörden. Veur t Nedersaksies besteet der gien standardvorm, t besteet uut verschillende dialekten. t Nedersaksies beheurt tot t [[Nederduuts]], umdat t niet mee-edaon hef an de [[tweede Germaanse klankverschuving]].
+| [[Ofbeelding:Koart_Leegsaksisch.png|right|200px|Koart van't Nedersaksies deel van Nederlaand]] t '''Nedersaksies''' is n [[West-Germaanse talen|West-Germaanse taal]], die deur zo'n dree miljoen meensen espreuken wörden. Veur t Nedersaksies besteet der gien standardvorm, t besteet uut verschillende dialekten. t Nedersaksies beheurt tot t [[Nederduuts]], umdat t niet mee-edaon hef an de [[tweede Germaanse klankverschuving]].
 
 t Nedersaksies wörden veural espreuken in t noordelike deel van [[Duutslaand]] en t noordoostelike deel van [[Nederlaand]] (de provinsies [[Grunnen (provinzie)|Groningen]], [[Drenthe]] en [[Oaveriessel|Overiessel]]; de [[Gelderlaand|Gelderse]] gebiejen de [[Veluwe]] en de [[Achterhook|Achterhoek]]; de [[Stellingwarven]] in t zuudoosten van [[Frieslaand]]; en [[Urk]] in [[Flevolaand]]).
 
@@ -115,7 +114,7 @@ De sprekers van t Nedersaksies (oek wel t Leegsaksies eneumd) neumen der eigen d
 |}
 |}
 
-{| style="border-spacing:0px;margin:0px 0px;width:100%"
+{| style="border-spacing:0px;margin:0px;width:100%"
 | colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px" | 
 <div style="padding:0.2em 0.5em; text-align:center; font-size:125%; font-weight:bold;">Zusterprojekten</div>  
 {| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
@@ -143,18 +142,33 @@ De sprekers van t Nedersaksies (oek wel t Leegsaksies eneumd) neumen der eigen d
 |}
 |}
 
-<p style="font-variant: small-caps; text-align: center; font-size: 105%;">
-'''[[:Kattegerie:Nedersaksies artikel|Nedersaksies:]]''' 
-[[:Kattegerie:Achterhooks artikel|Achterhooks]] |
-[[:Kattegerie:Drèents artikel|Draents]] | 
-[[:Kattegerie:Grunnegs artikel|Grönnigs]] | 
-[[:Kattegerie:Oost-Veluws artikel|Oost-Veluws]] | 
-[[:Kattegerie:Sallaands artikel|Sallaands]] |
-[[:Kattegerie:Stellingwarfs artikel|Stellingwarfs]] | 
-[[:Kattegerie:Tweants artikel|Twaents]] | 
-[[:Kattegerie:Urkers artikel|Urkers]] | 
-[[:Kattegerie:West-Veluws artikel|West-Veluws]]
-</p>
+{| style="border-spacing:0px;margin-top:7px;width:100%"
+| colspan=2 class="MainPageBG" style="width: 55%; border: 1px solid #cedff2; background-color:white; vertical-align: top; padding:1em;padding-top:0.5em;padding-bottom:0em; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px" | 
+<div style="padding:0.2em 0.5em; text-align:center; font-size:125%; font-weight:bold;">Artikels op dialektgroep</div>  
+{| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
+|- valign="top"
+| width="4%"  |[[Image:Gelderland-Flag.svg|20px]]
+| width="21%" |[[:Kategorie:Achterhooks_artikel|Achterhookse artikels]]
+| width="4%"  |[[Image:Gelderland-Flag.svg|20px]]
+| width="21%" |[[:Kategorie:Oost-Veluws_artikel|Oost-Veluwse artikels]]
+| width="4%"  |[[Image:Tweante.png|20px]]
+| width="21%" |[[:Kategorie:Tweants_artikel|Twaentse ärtikels]]
+|- valign="top"
+| width="4%"  |[[Image:Flag Drenthe.svg|20px]]
+| width="21%" |[[:Kategorie:Drèents_artikel|Draentse artikels]]
+| width="4%"  |[[Image:Flag_of_Overijssel.svg|20px]]
+| width="21%" |[[:Kategorie:Sallaands_artikel|Sallaandse artikels]]
+| width="4%"  |[[Image:Vlagge_Urk.gif|20px]]
+| width="21%" |[[:Kategorie:Urkers_artikel|Urker artikels]]
+|- valign="top"
+| width="4%"  |[[Image:Flag_Groningen.png|20px]]
+| width="21%" |[[:Kategorie:Grunnegs_artikel|Grönnigse artikels]]
+| width="4%"  |[[Image:Frisian flag.svg|20px]]
+| width="21%" |[[:Kategorie:Stellingwarfs_artikel|Stellingwarfse artikels]]
+| width="4%"  |[[Image:Gelderland-Flag.svg|20px]]
+| width="21%" |[[:Kategorie:West-Veluws_artikel|West-Veluwse artikels]]
+|}
+|}
 __NOTOC__ __NOEDITSECTION__
 
 {{nobots}}
