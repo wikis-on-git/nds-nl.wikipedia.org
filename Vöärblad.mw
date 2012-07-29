@@ -48,7 +48,7 @@ Heuftebel 2
 <!---------------------------------
 Artikel van de maond nds-nl
 ----------------------------------->
-! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Bestaand:Nedersaksies peerd.png|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Artikel van de maond]]</div>
+! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left;  padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:Wbar_blue.jpg]]</div><div style="float:left;">[[Bestaand:Nds-nl nds-de iconic.svg|27px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Artikel van de maond]]</div>
 |-
 |-
 | <div id="mf-avdm" title="Artikel van de maond">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
@@ -57,7 +57,7 @@ Artikel van de maond nds-nl
 <!---------------------------------
 Artikel van de maond nds-de
 ----------------------------------->
-! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_blue.jpg]]</div><div style="float:left;">[[Image:Nuvola German flag.svg|18px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Platduuts artikel van de maond]]</div>
+! style="background-color: #cedff2; font-size: 95%; border: 1px solid #B1CDEB; text-align: left; padding-left: 7px; -moz-border-radius:10px; -webkit-border-radius:10px; border-radius:10px"  | <div style="float:right;">[[Image:wbar_blue.jpg]]</div><div style="float:left;">[[Bestaand:Nds-nl nds-de iconic.svg|27px]]&nbsp;&nbsp;&nbsp;&nbsp;[[Wikipedie:Artikel van de maond|Platduuts artikel van de maond]]</div>
 |-
 | <div id="mf-avdmde" title="Platduuts artikel van de maond">{{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}</div>
 <span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Wikipedie:Artikel_van_de_maond|archief]])</span>
