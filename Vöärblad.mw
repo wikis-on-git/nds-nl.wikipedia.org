@@ -49,7 +49,7 @@
 | style="background:transparent; width: 55%; vertical-align: top;" |
 <!--Begin rechterkolom-->
 
-<div id="mf-avdm" title="Artikel van de maond">
+<div id="mf-avdm">
 {| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em; margin-top: 1em;"
 | style="background: #9ACD32; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[Wikipedie:Artikel_van_de_maond|<span style="color: #000;">Artikel van de maond ></span>]]'''
 |-
@@ -58,7 +58,7 @@
 |}
 </div>
 
-<div id="mf-avdmde" title="Platduuts artikel van de maond">
+<div id="mf-avdmde">
 {| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
 | style="background: #9ACD32; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[Wikipedie:Artikel_van_de_maond#Nds-de|<span style="color: #000;">Platduuts artikel van de maond ></span>]]'''
 |-
@@ -66,7 +66,7 @@
 {{Artikel van de maond/nds-de/{{CURRENTMONTHNAME}}}}
 |}
 </div>
-<div id="mf-itn" title="In t niejs">
+<div id="mf-itn">
 {| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
 | style="background: #9ACD32; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[Portaol:In t niejs|<span style="color: #000;">In t niejs ></span>]]'''
 |-
