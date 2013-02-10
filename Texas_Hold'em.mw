@@ -91,6 +91,35 @@ As nen spöller vund dat de beste kombinatie de vief kaarten op taofel bunt, mot
 
 Den spöller met de beste hand wunt de pot. Bi'j gelieke kombinaties wörd de pot verdeeld (''[[Split Pot|Split Pot]]'').
 
+== Kaansen en staotistieken ==
+
+{| class="wikitable"
+|- style="background:#ffec8b"
+! Hand !! Kombinaties !! Kaans !! Beskrieving !! Veurbeeld
+|-
+| Royal Flush ||align="right"| 4.324 ||align="right"| 0,003232 % || Op de riege 10 tot en met aos in ene kleure || 10 harten J harten Q harten K harten A harten
+|-style="background:#e9e9e9"
+| Straight Flush ||align="right"| 37.260 || align="right"|0,027851 %|| Vief kaarten op de riege in ene kleure, gin aos as heugste || 5 klaover 6 klaover 7 klaover 8 klaover 9 klaover
+|-
+| Veerling, Four of a kind ||align="right"| 224.848 ||align="right"| 0,168067 %|| Veer dezelde kaarten in verskillende kleuren || A harten A klaover A skuppen A roeten
+|-style="background:#e9e9e9"
+| Full House || align="right"|3.473.184 ||align="right"| 2,596102 %|| Nen dreeling en nen tweeling || K harten K roeten K klaover 9 skuppen 9 harten
+|-
+| Flush || align="right"|4.047.644 || align="right"|3,03255 %|| Vief kaarten van dezelde kleuren || 6 harten 8harten Q harten K harten A harten
+|-style="background:#e9e9e9"
+| Straote, Straight || align="right"|6.180.020 || align="right"|4,61938 %|| Vief kaarten op de riege, neet in dezelde kleuren ||7 harten 8 harten 9 roeten 10 klaover J skuppen
+|-
+| Dreeling, Three of a kind || align="right"|6.461.620 ||align="right"| 4,829870 %|| Dree dezelde kaarten || Q roeten Q harten Q klaover (en 2 aandere kaarten)
+|-style="background:#e9e9e9"
+| Twee paar, Two pairs || align="right"|31.433.400 || align="right"|23,495536 %|| Tweemaol n paar || 10 skuppen 10 harten A harten A roeten en ne aandere kaarte
+|-
+| Paar, One pair ||align="right"| 58.627.800 ||align="right"| 43,8322546 %|| Twee dezelde kaarten || J klaover J roeten en 3 aandere kaarten
+|-style="background:#e9e9e9"
+| High Card (heugste kaarte) || align="right"|23.294.460 ||align="right"| 17,411920 %|| gin van de aandere kombinatie hierboven, en de heugste kaarte || A harten
+|-
+| ''Totaal'' || align="right"|133.784.560 ||align="right"| 100 %|| | ||
+|}
+
 == Verwiezingen ==
 <references />
 
