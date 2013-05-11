@@ -95,35 +95,6 @@
 |}
 |}
 
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #E0E0E0; border:1px solid lightgrey; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''<span style="color: #000;">Zusterprojekten ></span>'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
-{| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
-|- valign="top"
-| width="4%"  |[[Bestaand:Commons-logo.svg|25px]]
-| width="21%" |[[Commons:Veurblad|'''WikiCommons''']]<br />Multimediaverzameling <small>(NDS-NL)</small>
-| width="4%"  |[[Bestaand:Wikimedia-logo.png|25px]]
-| width="21%" |[[m:Hoofdpagina Nederlands|'''Meta-Wiki''']]<br />Koordinasie van Wikimedia <small>(NL)</small>
-| width="4%"  |[[Bestaand:Wiktprintable_without_text.svg|25px]]
-| width="21%" |[http://nds.wiktionary.org/wiki/Wiktionary:Veurblad?uselang=nds-nl '''WikiWoordeboek''']<br />Woordeboek <small>(NDS-DE / NDS-NL)</small>
-|- valign="top"
-| width="4%"  |[[Bestaand:Wikibooks-logo.png|25px]]
-| width="21%" |[http://nl.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen <small>(NL)</small>
-| width="4%"  |[[Bestaand:Wikisource-logo.png|25px]]
-| width="21%" |[http://wikisource.org/wiki/Main_Page/Plattdüütsch '''WikiBronnen''']<br />Bronteksten <small>(NDS-DE)</small>
-| width="4%"  |[[Bestaand:Wikiquote-logo.png|25px]]
-| width="21%" |[http://nl.wikiquote.org/wiki/Hoofdpagina '''WikiSitaoten''']<br />Verzameling sitaoten en spreekwoorden <small>(NL)</small>
-|- valign="top"
-| width="4%"  |[[Bestaand:Wikispecies-logo.png|25px]]
-| width="21%" |[http://species.wikimedia.org/wiki/Hoofdpagina?uselang=nds-nl '''WikiSoorten''']<br />Soorten <small>(NL)</small>
-| width="4%"  |[[Bestaand:Wikinews-logo.png|25px]]
-| width="21%" |[http://en.wikinews.org/ '''WikiNiejs''']<br />Niejs <small>(EN)</small>
-| width="4%"  |[[Bestaand:Wikiversity-logo-en.svg|25px]]
-| width="21%" |[http://en.wikiversity.org/wiki/Wikiversity:Main_Page '''WikiVersiteit''']<br />Leermateriaal <small>(EN)</small>
-|}
-|}
-
 {| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 0.3em;"
 | style="background: #E0E0E0; border:1px solid lightgrey; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[:Kategorie:Nedersaksies_artikel|<span style="color: #000;">Artikels op dialektgroep ></span>]]'''
 |-
@@ -150,6 +121,35 @@
 | width="21%" |[[:Kategorie:Stellingwarfs_artikel|Stellingwarfse artikels]]
 | width="4%"  |[[Bestaand:Veluwse_vlagge.png|25px]]
 | width="21%" |[[:Kategorie:West-Veluws_artikel|West-Veluwse artikels]]
+|}
+|}
+
+{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
+| style="background: #E0E0E0; border:1px solid lightgrey; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''<span style="color: #000;">Zusterprojekten ></span>'''
+|-
+| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
+{| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
+|- valign="top"
+| width="4%"  |[[Bestaand:Commons-logo.svg|25px]]
+| width="21%" |[[Commons:Veurblad|'''WikiCommons''']]<br />Multimediaverzameling <small>(NDS-NL)</small>
+| width="4%"  |[[Bestaand:Wikimedia-logo.png|25px]]
+| width="21%" |[[m:Hoofdpagina Nederlands|'''Meta-Wiki''']]<br />Koordinasie van Wikimedia <small>(NL)</small>
+| width="4%"  |[[Bestaand:Wiktprintable_without_text.svg|25px]]
+| width="21%" |[http://nds.wiktionary.org/wiki/Wiktionary:Veurblad?uselang=nds-nl '''WikiWoordeboek''']<br />Woordeboek <small>(NDS-DE / NDS-NL)</small>
+|- valign="top"
+| width="4%"  |[[Bestaand:Wikibooks-logo.png|25px]]
+| width="21%" |[http://nl.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen <small>(NL)</small>
+| width="4%"  |[[Bestaand:Wikisource-logo.png|25px]]
+| width="21%" |[http://wikisource.org/wiki/Main_Page/Plattdüütsch '''WikiBronnen''']<br />Bronteksten <small>(NDS-DE)</small>
+| width="4%"  |[[Bestaand:Wikiquote-logo.png|25px]]
+| width="21%" |[http://nl.wikiquote.org/wiki/Hoofdpagina '''WikiSitaoten''']<br />Verzameling sitaoten en spreekwoorden <small>(NL)</small>
+|- valign="top"
+| width="4%"  |[[Bestaand:Wikispecies-logo.png|25px]]
+| width="21%" |[http://species.wikimedia.org/wiki/Hoofdpagina?uselang=nds-nl '''WikiSoorten''']<br />Soorten <small>(NL)</small>
+| width="4%"  |[[Bestaand:Wikinews-logo.png|25px]]
+| width="21%" |[http://en.wikinews.org/ '''WikiNiejs''']<br />Niejs <small>(EN)</small>
+| width="4%"  |[[Bestaand:Wikiversity-logo-en.svg|25px]]
+| width="21%" |[http://en.wikiversity.org/wiki/Wikiversity:Main_Page '''WikiVersiteit''']<br />Leermateriaal <small>(EN)</small>
 |}
 |}
 |}
