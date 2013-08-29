@@ -1,53 +1,33 @@
 {{Tw-logo|Veluwse taalwiezer}}
-{| {{prettytable}} border="1" cellpadding="2" cellspacing="0" align="right" width="300" style="float:right; margin-left:1em; margin-bottom:1em;"
-!colspan="2" bgcolor="lightgrey"|<big>{{PAGENAME}}</big>
-|-
-|'''Veluws Wikipedie-logo'''
-|[[Ofbeelding:Wiki.png|logo]]
-|-
-|Nedersaksiese naam  
-|Veluws
-|-
-|Nederlaandse naam 
-|Veluws
-|-
-|Laand
-|[[Nederlaand]]
-|-
-|Taalgebied
-|De [[Veluwe]] (mit uutzundering van de gemeentes [[Arnem]], [[Renkum]], [[Wageningen]] en n gedeelte van [[Ee (gemeente)|Ede]], [[Rheden]] en [[Rozendaal]]), [[Amersfoort]] (†), [[Bunsjoten|Bunschoten]], [[Doezebarg]], [[Zutfent|Zutfen]] en n klein gedeelte van de Achterhoekse gemeentes [[Lochem]], [[Zevenaar|Zeuvenaar]] en [[Bronckhorst]]
-|-
-|Antal sprekers
-|172.000 (volgens ''Taaltelling Nedersaksisch'')
-|-
-|Dialekten
-|Verschillend per darp
-|-
-|Taalklassifikasie
-|
+{{Spraoke
+| kop         = Veluws
+| spraoke     = Veluws
+| ofbeelding  = Veluws.png
+| umskrieving = t Veluwse taalgebied (Gelderlaand/Utrecht)<br/>'''Lochtgreun''' = West-Veluws<br/>'''Donkergreun''' = Oost-Veluws
+| naam_anders = Plat
+| laand       = [[Nederlaand]]   
+| gebeed      = t Midden en westen van de provinsie Gelderland, op de Veluwe (niet in de gemeenten [[Arnem]], [[Renkum]], [[Wageningen]] en deels niet in [[Ee (gemeente)|Ede]], [[Rheden]] en [[Rozendaal]]), [[Amersfoort]]<sup>†</sup>, [[Bunsjoten|Bunschoten]], [[Doezebarg]], t grootste gedeelte van [[Zutfent|Zutfen]] en n gedeelte van de Achterhoekse gemeenten [[Lochem]], [[Bronckhorst]], [[Deutekum]] en t darp [[Angerlo]] in de gemeente [[Zevenaar|Zeuvenaar]]
+| sprekkers   = 172.000 (volgens ''Taaltelling Nedersaksisch'')
+| dialekte    = Deur Jo Daan in-edeeld as:
+*[[Oost-Veluws]] 
+*[[West-Veluws]]
+Veerder nog weer onder te verdelen in darps- of stadsdialekten
+| klassifikatie = 
 *[[Indo-Europees]]  
 **[[Germaanse sproaken|Germaans]]  
-***[[West-Germaans]]  
+***[[West-Germaans]]   
 ****[[Nederduuts]]
 ****[[Nedersaksies]] 
 *****[[Veluws]]
-|-
-|Schrift
-|t [[Latainse alfabet|Latiense alfabet]]
-|-
-|Taalstaotus
-|t Veluws wörden ezien as dialekt van t [[Nedersaksies]]
-|-
-|Taalkode ISO 639-1  
-|''gien'' 
-|-
-|Taalkode ISO 639-2  
-|''gien''
-|-
-|Taalkode ISO 639-3/DIS 
-|<tt>vel</tt>
-|}
-[[Ofbeelding:Veluws.png|thumb|275px|t Veluwse taalgebied op de kaorte van Gelderlaand en Utrecht]] 
+| skrift      = t [[Latiense alfabet]]  
+| staotus     = t Veluws wörden ezien as dialekt van t [[Nedersaksies]]
+| iso1        = n.v.t.
+| iso2        = nds
+| iso3        = vel
+| vootkop     = 
+| ofbeelding2 = 
+| caption2    = 
+}}
 t '''Veluws''' is n [[Nedersaksies]]e dialektgroep die espreuken wörden in de meeste darpen en stejen op de [[Veluwe]]. Der wörden oek Veluws epraot in de gemeente [[Bunsjoten|Bunschoten]] in de Nederlaandse provinsie [[Utrecht (previnsie)|Utrecht]], en in n klein gedeelte van de [[Achterhook|Achterhoekse]] gemeentes [[Lochem]], [[Zevenaar|Zeuvenaar]] en [[Bronckhorst]]. Oek in [[Amersfoort]] en [[Leusden]] wördden der vrogger Veluws espreuken (zie: [[Amersfoorts]]). t Oorspronkelike dialekt van [[Huzen]], [[Laoren]] en [[Blarikum]] kunnen taalkundig oek nog bie t Veluws erekend wörden (de uterste dialekten van t Hollaands-Nedersaksiese overgangsgebied).
 
 t Veluws is ondanks dat t n echt Nedersaksies dialekt is, n soort overgangsdialekt tussen verschillende [[dialekt]]en en [[streektaol|streektalen]]. Zo he'j naost t Nedersaksies uut t oosten, t [[Hollaans (dialekt)|Hollaands]]/[[Utrechts-Alblasserwaards]] uut t westen en t [[Braobaants]]/[[Zuud-Gelders]] uut t zujen. t Hollaands-Nedersaksiese karakter is overal markbaor, mer hoe oosteliker of noordeliker je gaon, hoe kleinder de Hollaandse invleud. t Utrechts-Braobaants is veural markbaor a'j korterbie t Betuwse en Utrechtse taalgebied koemen.
