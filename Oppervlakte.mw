@@ -1,38 +1,26 @@
-De '''oppervlak''' of een '''oppervlakte''' geeft an hoe groot een 2-dimensionaol gebied is. Dit kan de oppervlak wezen van een [[tweedimensionaol|tweedimensionaole]] vorm, mar oek de oppervlak van een [[driedimensionaol|driedimensionaole]] vorm.
-Oppervlak wort oek wel ''greutte'' eneumd, mit name bie die van [[perceel|percelen]].
+De '''oppervlakte''' of '''oppervlak''' geeft an hoe groot n 2-dimensionaol gebied is. Dit kan de oppervlakte wezen van n [[tweedimensionaol|tweedimensionaole]] vorm, mar oek de oppervlakte van n [[driedimensionaol|driedimensionaole]] vorm.
+Oppervlakte wort oek wel ''grootte'' eneumd, mit name bie die van [[perseel|perselen]].
 
-De [[SI]]-eenheid van oppervlak is de [[vierkante meter]], m². Disse is of-eleid van de SI-eenheid [[meter]].
+De [[SI]]-eenheid van oppervlakte is de [[vierkante meter]], m². Dit is of-eleid van de SI-eenheid [[meter]].
 
-== Formules ==
-'t Oppervlak kan as volgt berekend worren:
-::<math>\iint dA</math> (2D-oppervlak)
-::<math>\iiint dA</math> (3D-oppervlak),
-waorbie over 't oppervlak [[integraol|eïntegreerd]] wort.
-
+==Formules==
 ===2D===
-'t Oppervlak van enkele tweedimensionaole objecten:
-*Oppervlak van een [[vierkant]]: lengte × lengte.
-*Oppervlak van een [[rechthoek]]: lengte × breedte.
-*Oppervlak van een [[Ruut (wiskonst)|ruut]]: heugt × breedte.
-*Oppervlak van een [[driehoek]]: ½ × baosis × heugt.
-**'t oppervlak kan oek mit behulp van de [[formule van Heron]] berekend worren.
-*Oppervlak van een [[cirkel]]: [[pi (wiskunde)|π]] r<SUP>2</SUP> (waorin  r de straol van de cirkel is).
+t Oppervlakte van enkele tweedimensionaole objekten:
+*Oppervlakte van n [[vierkant]]: lengte × lengte.
+*Oppervlakte van n [[rechthoek]]: lengte × breedte.
+*Oppervlakte van n [[ruut]]: heugt × breedte.
+*Oppervlakte van n [[driehoek]]: ½ × baosis × heugt.
+**t oppervlakte kan oek mit behulp van de [[formule van Heron]] berekend worren.
+*Oppervlakte van n [[sirkel]]: [[pi (wiskunde)|π]] r<SUP>2</SUP> (waorin r de straol van de sirkel is).
 
 ===3D===
-'t Oppervlak van enkele driedimensionaole objecten:
-*Oppervlak van een [[kubus]]:  6 s², waorin s de lengte is van een kant van de kubus.
-*Oppervlak van een [[balk]]: 2 ((l × w) + (l × h) + (w × h)), waorin l, w en h de lengte, breedte en heugt bin van de balk.
-*Oppervlak van een [[bol (lichaam)|bol]]:   4 π r² waorin r de straol van de bol is.
-*Oppervlak van een [[cilinder]]: 2 π r (h + r), waorin r de straol van de cirkelvormige baosis is, en h de heugt van de cilinder.
-*Oppervlak van een [[kegel]]: π r (r + √(r² + h²)), waorin r de straol van de cirkelvormige baosis is, en h de heugt van de kegel.
+t Oppervlakte van enkele driedimensionaole objekten:
+*Oppervlakte van n [[kubus]]:  6 s², waorin s de lengte is van een kant van de kubus.
+*Oppervlakte van n [[balk]]: 2 ((l × w) + (l × h) + (w × h)), waorin l, w en h de lengte, breedte en heugt bin van de balk.
+*Oppervlakte van n [[bol (lichaam)|bol]]:   4 π r² waorin r de straol van de bol is.
+*Oppervlakte van n [[silinder]]: 2 π r (h + r), waorin r de straol van de sirkelvormige baosis is, en h de heugt van de silinder.
+*Oppervlakte van n [[kegel]]: π r (r + √(r² + h²)), waorin r de straol van de sirkelvormige baosis is, en h de heugt van de kegel.
 
-==Wiskundige ofleiding==
-Gebruukmakend van <math>A=\iint dA</math>:
-*rechthoek: <math>\int_0^b \int_0^l 1 dA = b l</math> (b: [[breedte]], l: [[lengte]])
+{{Dialekt|wvel|Putten|Algemene Nedersaksiese Schriefwieze}}
 
-*cirkel: <math>\int_{-y}^y \int_{-\sqrt{R^2-y^2}}^{\sqrt{R^2-y^2}}dydx=\pi R^2</math>. 't Is vanzelf eleganter um de cirkel [[polair]] te beschrieven, en in een polair assenstelsel te integreren!
-
-{{Dia|Disse pagina is eschreven in 't [[Putters]]}}
-
-[[Kategorie:West-Veluws artikel]]
 [[Kategorie:Meetkunde]]
