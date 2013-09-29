@@ -132,29 +132,32 @@
 {| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
 |- valign="top"
 | width="4%"  |[[Bestaand:Commons-logo.svg|25px]]
-| width="21%" |[[Commons:Veurblad|'''WikiCommons''']]<br />Multimediaverzameling <small>(NDS-NL)</small>
+| width="21%" |[[Commons:Veurblad|'''Wikimedia Commons''']]<br />Multimediaverzameling <small>(NDS-NL)</small>
 | width="4%"  |[[Bestaand:Wikimedia-logo.png|25px]]
-| width="21%" |[[m:Hoofdpagina Nederlands|'''Meta-Wiki''']]<br />Koordinasie van Wikimedia <small>(NL)</small>
+| width="21%" |[[m:Hoofdpagina Nederlands|'''Meta-Wiki''']]<br />Koördinasie van Wikimedia <small>(NL)</small>
 | width="4%"  |[[Bestaand:Wiktprintable_without_text.svg|25px]]
-| width="21%" |[http://nds.wiktionary.org/wiki/Wiktionary:Veurblad?uselang=nds-nl '''WikiWoordeboek''']<br />Woordeboek <small>(NDS-DE / NDS-NL)</small>
+| width="21%" |[http://nds.wiktionary.org/wiki/Wiktionary:Veurblad?setlang=nds-nl '''Wikiwoordeboek''']<br />Woordeboek <small>(NDS-DE / NDS-NL)</small>
 |- valign="top"
 | width="4%"  |[[Bestaand:Wikibooks-logo.png|25px]]
-| width="21%" |[http://nl.wikibooks.org/ '''WikiBoeken''']<br />Boeken en haandleidingen <small>(NL)</small>
+| width="21%" |[http://nl.wikibooks.org/?setlang=nds-nl '''Wikiboeken''']<br />Boeken en haandleidingen <small>(NL)</small>
 | width="4%"  |[[Bestaand:Wikisource-logo.png|25px]]
-| width="21%" |[http://wikisource.org/wiki/Main_Page/Plattdüütsch '''WikiBronnen''']<br />Bronteksten <small>(NDS-DE)</small>
+| width="21%" |[http://wikisource.org/wiki/Main_Page/Plattdüütsch?setlang=nds-nl '''Wikibronnen''']<br />Bronteksten <small>(NDS-DE)</small>
 | width="4%"  |[[Bestaand:Wikiquote-logo.png|25px]]
-| width="21%" |[http://nl.wikiquote.org/wiki/Hoofdpagina '''WikiSitaoten''']<br />Verzameling sitaoten en spreekwoorden <small>(NL)</small>
+| width="21%" |[http://nl.wikiquote.org/wiki/Hoofdpagina?setlang=nds-nl '''Wikisitaoten''']<br />Verzameling sitaoten en spreekwoorden <small>(NL)</small>
 |- valign="top"
 | width="4%"  |[[Bestaand:Wikispecies-logo.png|25px]]
-| width="21%" |[http://species.wikimedia.org/wiki/Hoofdpagina?uselang=nds-nl '''WikiSoorten''']<br />Soorten <small>(NL)</small>
+| width="21%" |[http://species.wikimedia.org/wiki/Hoofdpagina?setlang=nds-nl '''Wikisoorten''']<br />Soorten <small>(NL)</small>
 | width="4%"  |[[Bestaand:Wikinews-logo.png|25px]]
-| width="21%" |[http://en.wikinews.org/ '''WikiNiejs''']<br />Niejs <small>(EN)</small>
+| width="21%" |[http://en.wikinews.org/?setlang=nds-nl '''Wikiniejs''']<br />Niejs <small>(EN)</small>
 | width="4%"  |[[Bestaand:Wikiversity-logo-en.svg|25px]]
-| width="21%" |[http://en.wikiversity.org/wiki/Wikiversity:Main_Page '''WikiVersiteit''']<br />Leermateriaal <small>(EN)</small>
+| width="21%" |[http://en.wikiversity.org/wiki/Wikiversity:Main_Page?setlang=nds-nl '''Wikiversiteit''']<br />Leermateriaal <small>(EN)</small>
 |- valign="top"
 | width="4%"  |[[Bestaand:Wikidata-logo.svg|50px|Wikidata]]
-| width="21%" |[http://www.wikidata.org/wiki/Wikidata:Veurblad?uselang=nds-nl '''Wikidata''']<br />Data <small>(NDS-NL)</small>
-
+| width="21%" |[http://www.wikidata.org/wiki/Wikidata:Veurblad?setlang=nds-nl '''Wikidata''']<br />Data <small>(NDS-NL)</small>
+| width="4%"  |[[Bestaand:Wikivoyage-Logo-v3-icon.svg|25px]]
+| width="21%" |[https://nl.wikivoyage.org/?setlang=nds-nl '''Wikireizen''']<br />Reisgidse <small>(NL)</small>
+| width="4%"  |[[Bestaand:Incubator-notext.png|25px]]
+| width="21%" |[https://incubator.wikimedia.org/wiki/Incubator:Main_Page/nl?setlang=nds-nl '''Wikimedia Breuikas''']<br />Breuikas veur nieje projekten <small>(NL)</small>
 |}
 |}
 |}
