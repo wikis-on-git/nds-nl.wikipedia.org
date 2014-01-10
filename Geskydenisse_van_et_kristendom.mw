@@ -21,7 +21,11 @@ An de haand van 't bekieks naor de gwoone geschiedenisse wöd de karkegeschieden
 |link-to=-
 |title=Indeling Kristendom
 |collapsible=yes
-|row1={{#invoke:Horizontal Timeline | showOneRow | 
+|row1=note
+|row1-1-text= Pinkster
+|row1-1-arrow=
+|row1-1-at=30
+|row2={{#invoke:Horizontal Timeline | showOneRow | 
  |row1=timeline
  |from=0
  |to=2014
