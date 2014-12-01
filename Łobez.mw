@@ -5,14 +5,14 @@
 
 == Inwoners ==
 <timeline>
-ImageSize = width:500 height:320
+ImageSize = width:600 height:220
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
 Colors =
-  id:linegrey2 value:gray(0.9)
+  id:linegrey2 value:gray(0.98)
   id:linegrey value:gray(0.7)
-  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar value:rgb(0.8,0.8,0.9)
   id:cobar2 value:rgb(0.6,0.9,0.6)
 DateFormat = yyyy
 Period = from:0 till:11000
@@ -54,7 +54,7 @@ PlotData=
   bar:2014 at: 10440 text:10,4 shift:(0)
   </timeline>
 
-== Bezienswaordigheden ==
+== Beziensweerdigheden ==
 <gallery>
 File:Lobez kosciol kz.jpg| 
 File:Kamienica w Łobzie (obok dworca PKP).jpg|
@@ -65,3 +65,4 @@ File:Zabytkowa Poczta w Łobzie.JPG|
 {{Commons|Łobez}}
 
 [[Kategorie:Stad in Pooln]]
+[[Kategorie:Spraoke onbekend]]
