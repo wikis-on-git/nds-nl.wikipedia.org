@@ -5,7 +5,7 @@
 
 == Inwoners ==
 <timeline>
-ImageSize = width:600 height:220
+ImageSize = width:500 height:220
 PlotArea = left:50 right:20 top:25 bottom:30
 TimeAxis = orientation:vertical
 AlignBars = late
