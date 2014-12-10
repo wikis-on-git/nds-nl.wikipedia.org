@@ -301,9 +301,9 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Batpalmen]] || Bapaume
 |-
-| [[Bavik]], [[Beuken]] || Bavay
+| [[Bavik]]{{Info|Ook: Baovik/Boavik}}, [[Beuken]] || Bavay
 |-
-| [[Bavinkhove]] || Bavinchove
+| [[Bavinkhove]]{{Info|Ook: Baovinkhove of Boavinkhove}} || Bavinchove
 |-
 | [[Belle (gemeente)|Belle]] || Bailleul
 |-
@@ -471,10 +471,6 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Everkok]] || Verchocq
 |-
-| [[Everlingem]] || Verlinghem
-|-
-| [[Ferlingen]] || Frélinghien
-|-
 | [[Flamerzele]] || Framezelle
 |-
 | [[Florigem]] || Floringhem
@@ -506,7 +502,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 | [[Grevelingen (stad)|Grevelingen]]
 | Gravelines
 |-
-| [[Groot-Fort-Filips]] || Grand-Fort-Philippe
+| [[Groot-Filipsfort]] || Grand-Fort-Philippe
 |-
 | [[Groot-Millebrogge]] || Grand-Millebrugghe
 |-
@@ -626,16 +622,16 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Kampingem]] || Capinghem
 |-
-| [[Karabaant]] || Carembault
-|-
-| [[Karsekamp]] || Quercamps
-|-
-| [[Keester]] || Caëstre
+| [[Kaoster]] || Caëstre
 |-
 | [[Kapelle (Frankriek)|Kapelle]]
 | Cappelle-la-Grande
 |-
 | [[Kapellebroek]] || Cappelle-Brouck
+|-
+| [[Karabaant]] || Carembault
+|-
+| [[Karsekamp]] || Quercamps
 |-
 | [[Kassel (Frankriek)|Kassel]]
 | Cassel
@@ -664,7 +660,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Klarke]] || Clarques
 |-
-| [[Klein-Fort-Filips]] || Petit-Fort-Philippe
+| [[Klein-Filipsfort]] || Petit-Fort-Philippe
 |-
 | [[Kleine Sunt-Bernhardpasse]] || Col du Petit Saint Bernard
 |-
@@ -684,7 +680,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Kouwekarke-Darp]] || Coudekerque of Coudekerque-Village
 |-
-| [[Kouweschure]] || La Caudescure
+| [[Kouweschure]], Koldeschure || La Caudescure
 |-
 | [[Kreiwiek]] || Craywick
 |-
@@ -944,7 +940,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Rekke-an-de-Hem]] || Recques-sur-Hem
 |-
-| [[ Reklingem]] || Réclinghem
+| [[Reklingem]] || Réclinghem
 |-
 | [[Rekspoede]] || Rexpoëde
 |-
@@ -1128,6 +1124,10 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Veenmunster]] || Moustier-en-Fagne
 |-
+| [[Verlegem]] || Frélinghien
+|-
+| [[Verlingem]] of Everlingem || Verlinghem
+|-
 | [[Vissershoven]] || Pecquencourt
 |-
 | [[Vleteren (Frankriek)|Vleteren]] || Flêtre
@@ -1215,7 +1215,6 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 | [[Wulverdinge]] || Wulverdinghe
 |-
 | [[Wurmhout]] || Wormhout
-
 |-
 | [[Zaandgat]] || Sangatte
 |-
@@ -1251,7 +1250,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Zwartebarg]] || Mont-Noir
 |-
-| [[Zwaveke]] || Zouafques
+| [[Zwaveke]], Zwaoveke || Zouafques
 |-
 | align="center" colspan="2" bgcolor="#BCF5A9" |
 
@@ -1409,7 +1408,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Beierse Hoogvlakte]] || Alpenvorland
 |-
-| [[Beierse Woud]] || Bayerischer Wald
+| [[Beierse Woud]], Beierse Wold || Bayerischer Wald
 |-
 | [[Beantem|Bentem]] || Bad Bentheim
 |-
@@ -1417,13 +1416,13 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Berlien]] || Berlin
 |-
-| [[Boaden-Wurttembaarg|Baojen-Wurttembarg]], Boaden-Wurttembaarg (Gronings) || Baden-Württemberg
+| [[Boaden-Wurttembaarg|Baden-Wurttembarg]], Boaden-Wurttembaarg (Gronings) || Baden-Württemberg
 |-
 | [[Bochte van Helgolaand]] || Helgoländer Bucht
 |-
 | [[Bojenmeer]] || Bodensee
 |-
-| [[Bohemer Woud]] || Böhmerwald
+| [[Bohemer Woud]], Bohemer Wold || Böhmerwald
 |-
 | [[Bokelt]] || Bocholt
 |-
@@ -1559,7 +1558,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Opperfranken]] || Oberfranken
 |-
-| [[Ossenbrugge]] || Osnabrück
+| [[Ossenbrugge]], Osnabrogge || Osnabrück
 |-
 | [[Ouwe Iessel]] || Issel
 |-
@@ -1627,9 +1626,9 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Zoerlaand|Zuurlaand]] || Sauerland
 |-
-| [[Zwarte Woud]] || Schwarzwald
+| [[Zwarte Woud]], Zwarte Wold || Schwarzwald
 |-
-| [[Zwilbrook]] || Zwillbrock
+| [[Zwilbrook]], Zwilbroek || Zwillbrock
 |-
 | align="center" colspan="2" bgcolor="#BCF5A9" |
 
@@ -2113,7 +2112,7 @@ Sommige plaotsen buten t [[Nedersaksies]]e taalgebied (van Nederlaand) hebben oe
 |-
 | [[Bohemen]] || Čechy
 |-
-| [[Bohemer Woud]] || Šumava
+| [[Bohemer Woud]], Bohge || Šumava
 |-
 | [[Budweis]] || České Budějovice
 |-
