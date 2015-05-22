@@ -27,7 +27,7 @@ Aantal inwoners per woonkern op 1 januari 2005:
 {| border="0"
 |-----
 |
-{| class="toccolours" style="margin: 0 2em 0 2em;"
+{| class="toccolours"
 |'''Nedersaksiesen name'''||'''''Limburgse name'''''||'''Antal'''
 |-
 |'''Meerssen'''||''Meersje''||ALIGN="right"|5840
@@ -51,7 +51,7 @@ Aantal inwoners per woonkern op 1 januari 2005:
 |[[Weert (Meerssen)|Weert]]||''Waert''||ALIGN="right"|110
 |-
 |<small>(Bron: CBS)</small>
-|}<br />
+|}
 |}
 
 == Geskiedenis ==
