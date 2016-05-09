@@ -1,48 +1,64 @@
-{| style="width:100%; border:1.5px solid lightgrey; -moz-border-radius:1em; border-radius:1em; margin-bottom: 1em;"
-| valign="top" style="padding:1em;" |
+{| style="width:100%; margin-bottom:2px; background:transparent"
+| style="background-color:#f9f9f9; width:100%; border:1px solid #BDBDBD; vertical-align:top; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius:10px;" |
+{|  style="width:100%; margin-bottom:2px; vertical-align:top; background:transparent; padding-left:2em; padding-right:3em; padding-top:1em;"
+|-
+| style="padding-bottom:6px"|<span style="font-size:185%;">Welkom bie [[Wikipedie]]</span><br/>De vrieje ensyklopedie waor iederene an mee kan doon.</span>
+| rowspan="2" style="text-align:right"|{{ucfirst:{{LOCALDAYNAME}}}}, {{LOCALDAY}}&nbsp;{{LOCALMONTHNAME}} {{LOCALYEAR}}
+<span class="plainlinks" style="font-size:90%;">'''[[Spesiaal:Staotistieken|{{NUMBEROFARTICLES}}]]''' artikels in t [[Nedersaksiese Wikipedie|Nedersaksies]]</span>
+|-
+| style="width:75%; font-size:90%; padding-bottom:5px"|
+<div style="border-top: 1px solid #BDBDBD; padding-top:5px">
+'''[[Hulpe:Informasie veur anwas|Informasie veur niej volk]]  [[Bestaand:Nedersaksies peerd.png|12px]]  [[Wikipedie:Gebrukersportaol|Gebrukersportaol]] [[Bestaand:Nedersaksies peerd.png|12px]] [[Wikipedie:Praothoek|De praothoek]]'''</div>
+|}
+|}
 
+{| style="width:100%;"
+| valign="top" style="padding:1em;" |
 <!--Allebeie de kolommen-->
 {| style="width: 100%;" cellspacing="0"
 |- 
 | style="background:transparent; width: 44%; vertical-align: top;" | 
+
 <!--Begin linkerkolom-->
+<div style="background:#639BD5; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Moi! Goed da'j der bin!</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
+Dit is de [[Nedersaksiese Wikipedie|Nedersaksiese uutgave]] van [[Wikipedie]], n [[ensyklopedie]] op internet waor iederene an kan biedragen, en die beschikbaor is in [[m:List of Wikipedias|verschillende talen]]. Op disse Wikipedie ku'j al sinds [[24 meert|24&nbsp;meert]]&nbsp;[[2006]] artikels lezen en schrieven in de [[Wikipedie:Nedersaksies|Nedersaksiese dialekten]] uut Nederlaand, mer oek uut t grensgebied mit Duutslaand.
+</div>
 
-{| style="padding: 1em;"
-| <h1 style="font-size: 230%; font-family: 'hoefler text', 'times new roman', serif;  font-variant: small-caps; border: none; margin: 0; padding: 0; padding-top: 5px;">
-Welkom bie WikipediE
-</h1>&nbsp;
-
-<h4>Moi! Goed da'j der bin!</h4>
-Dit is de [[Nedersaksies]]e uutgave van [[Wikipedie]], n [[ensyklopedie]] op internet waor iederene an mee kan doon, en die beschikbaor is in [[m:List of Wikipedias|verschillende talen]]. Disse uutgave besteet vanaof [[24 meert]] [[2006]] en hef noen '''[[Special:Statistics|{{NUMBEROFARTICLES}}]]''' artikels. Op disse Wikipedie vie'j informasie in de [[Wikipedie:Nedersaksies|Nedersaksiese dialekten]] uut Nederlaand, mer oek uut t Duutse grensgebied.
-
-<h4>Wat is t Nedersaksies?</h4>
-
+<div style="background:#639BD5; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Wat is t Nedersaksies?</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
 t Nedersaksies is n [[West-Germaanse talen|West-Germaanse taal]], die deur zo'n dree miljoen meensen espreuken wördt. Der is gien standardvorm veur t Nedersaksies, t besteet uut verschillende dialekten. 
 
 t Nedersaksies wördt veural espreuken in t noordelike deel van [[Duutslaand]], waor de taal steevast [[Platduuts]] eneumd wördt, en in t noordoostelike deel van [[Nederlaand]] (in de provinsies [[Grunnen (provinzie)|Groningen]], [[Drenthe]] en [[Oaveriessel|Overiessel]]; de [[Gelderlaand|Gelderse]] kontreien de [[Veluwe|Veluwe]] en de [[Achterhook|Achterhoek]]; [[Stellingwarf]] in t zuudoosten van [[Frieslaand]]; en [[Urk]] in [[Flevolaand]]). Oek buten [[Europa (werelddeel)|Europa]] he'j gemeenschappen die n Nedersaksies dialekt praoten, de belangriekste bin t [[Plautdietsch]] (in heel Amerika) en t [[Oostpommers]] (in Brazilië).
 
-De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of bie de naam van de plaotse of streek waor ze vandaon koemen (Achterhooks, Draents, Zwols, en gao zo mer deur). Veur t Nedersaksies bin der [[Wikipedie:Spelling|verschillende schriefwiezes]]. [[Nedersaksies|<span style="font-variant:small-caps">'''« meer lezen »''']]</span>
-</span>
-|}
+De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of bie de naam van de plaotse of streek waor ze vandaon koemen (Achterhooks, Draents, Zwols, en gao zo mer deur). Veur t Nedersaksies bin der [[Wikipedie:Spelling|verschillende schriefwiezes]]. [[Nedersaksies|<span style="font-variant:small-caps">'''« meer lezen »'''</span>]]
+</div>
 
 | style="width: 1%;" | &nbsp;
 | style="background:transparent; width: 55%; vertical-align: top;" |
-<!--Begin rechterkolom-->
 
+<!--Begin rechterkolom-->
 <div id="mf-avdm">
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em; margin-top: 1em;"
-| style="background: #C9E6B5; text-align: left; font-size: 12pt; padding: 5px 8px; -moz-border-top-right-radius:12px; -moz-border-top-left-radius: 12px; border-top-right-radius:12px; border-top-left-radius: 12px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[Wikipedie:Artikel_van_de_maond|<span style="color: #000;">Artikel van de maond ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88; border:1px solid lightgrey; -moz-border-bottom-right-radius:12px; -moz-border-bottom-left-radius: 12px; border-bottom-right-radius:12px; border-bottom-left-radius: 12px;" | 
+<div style="background:#9CC45D; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[Wikipedie:Artikel_van_de_maond|<span style="color:white;">Artikel van de maond</span>]]</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
 {{Artikel van de maond/{{CURRENTMONTHNAME}}}}
-|}
 </div>
 
 <div id="mf-avdmde">
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #C9E6B5; text-align: left; font-size: 12pt; padding: 5px 8px; -moz-border-top-right-radius:12px; -moz-border-top-left-radius: 12px; border-top-right-radius:12px; border-top-left-radius: 12px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[:Kategorie:Pertaol|<span style="color: #000;">Portaolen ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88; border:1px solid lightgrey; -moz-border-bottom-right-radius:12px; moz-border-bottom-left-radius: 12px; border-bottom-right-radius:12px; border-bottom-left-radius: 12px;" | 
+<div style="background:#9CC45D; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[:Kategorie:Pertaol|<span style="color:white;">Portaolen</span>]]</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
 {| style="width:100%; text-align:center" |
 | [[Bestaand:Nuvola apps knewsticker.png|40px|link=Portaol:In t niejs|In t niejs]]<br/>[[Portaol:In t niejs|In t niejs]]
 | [[Bestaand:Intersaksische vlagge 3.svg|50px|link=Leegsaksische vlaag|Veurstelvlagge veur t Nedersaksies]]<br/>[[Portaol:Nedersaksische cultuur|NDS kultuur]]
@@ -52,50 +68,44 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | [[Bestaand:Vlagge Stellingwarf.jpeg|50px|border|link=Pertaol:Stellingwarf|Stellingwarver vlagge]]<br/>[[Pertaol:Stellingwarf|Stellingwarf]]
 | [[Bestaand:Vlag_van_Twente.gif|50px|link=Portoal:Tweante|Tweantse vlagge]]<br/>[[Portoal:Tweante|Tweante]]
 |}
-|}
 </div>
-
 <div id="mf-itn">
 <!----
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #C9E6B5; text-align: left; font-size: 12pt; padding: 5px 8px; -moz-border-top-right-radius:12px; -moz-border-top-left-radius: 12px; border-top-right-radius:12px; border-top-left-radius: 12px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[Portaol:In t niejs|<span style="color: #000;">In t niejs ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88; -moz-border-bottom-right-radius:12px; -moz-border-bottom-left-radius: 12px; border-bottom-right-radius:12px; border-bottom-left-radius: 12px;" | 
+<div style="background:#A2CA65; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[:Kategorie:Pertaolen|<span style="color:white;">[[Bestaand:Nedersaksies peerd.png|18px]] [[Portaol:In t niejs|<span style="color:white;">In t niejs ></span>]]</span>]]</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
 {{In t niejs}}<span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Portaol:In t niejs/Archief|archief]] | <span class="plainlinks">[{{fullurl:Mal:In t niejs|action=edit}} +])</span></span>
-|}
+</div>
 --->
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #C9E6B5; text-align: left; font-size: 12pt; padding: 5px 8px; -moz-border-top-right-radius:12px; -moz-border-top-left-radius: 12px; border-top-right-radius:12px; border-top-left-radius: 12px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''<span style="color: #000;">Händige verwiezingen ></span>'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88; border:1px solid lightgrey; -moz-border-bottom-right-radius:12px; -moz-border-bottom-left-radius: 12px; border-bottom-right-radius:12px; border-bottom-left-radius: 12px;" | 
-{| 
-|valign="top"|
+<div style="background:#9CC45D; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Händige verwiezingen</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
+{| style="width:100%"
+|
 > [[Wikipedie:Etalazie|De etalazie]]<br />
 > [[:Kattegerie:In-espreuken artikel|In-espreuken&nbsp;artikels]]<br />
 > [[Wikipedie:Nedersaksies beluusteren|Nedersaksies&nbsp;beluusteren]]
 ------------
 <div style="margin:0.1em 0 0 0;">[[Image:Wikipedia-logo-v2.svg|x16px|link=|Wikipedie]] Wikipedie in t: [[:nds:|Platduuts (Plattdüütsch)]]</div>
-|width="100"|
-|valign="top"|
+|
 > [[Hulpe:Nedersaksies schrieven|Plat,&nbsp;hoe&nbsp;schrief&nbsp;ik&nbsp;dat?]]<br />
 > [[Hulpe:Nieje zied maken|Nieje zied anmaken]]<br />
-> [[Hulpe:Informasie veur anwas|Informasie veur niejkoemers]]
+> [[Hulpe:Informasie veur anwas|Informasie veur niej volk]]
 ------------
 <div style="margin:0.1em 0 0 0;">[[Image:Wikipedia-logo-v2.svg|x16px|link=|Wikipedie]] Wikipedie in t: [[:incubator:Wp/pdt/Hauptsied|Mennonities-Platduuts (Plautdietsch)]]</div>
-|}
-</span></span>
 |}
 </div>
 |}
 <!--Einde kolommen-->
 |}
-{| style="width:100%; border:0px;"
-| valign="top" style="padding:1em;" |
 
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 0.3em;"
-| style="background: #C9E6B5; border:1px solid lightgrey; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''[[:Kategorie:Nedersaksies_artikel|<span style="color: #000;">Artikels op dialektgroep ></span>]]'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
+<div style="background:#B3B3B3; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[:Kategorie:Nedersaksies_artikel|<span style="color:white;">Artikels op dialektgroep</span>]]</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
 {| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
 |- valign="top"p
 | width="4%"  |[[Bestaand:Gelderland-Flag.svg|25px]]
@@ -119,12 +129,13 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | width="4%"  |[[Bestaand:Veluwse_vlagge.png|25px]]
 | width="21%" |[[:Kategorie:West-Veluws_artikel|West-Veluwse artikels]]
 |}
-|}
+</div>
 
-{| cellpadding="0" cellspacing="0" style="width: 100%; color: #000000; background: transparent; margin-bottom: 2em;"
-| style="background: #C9E6B5; border:1px solid lightgrey; text-align: left; font-size: 12pt; padding: 5px 8px;" |[[Bestaand:Nedersaksies peerd.png|18px]] '''<span style="color: #000;">Zusterprojekten ></span>'''
-|-
-| style="padding: 8px; line-height: 1.25em; background: #ffffff; opacity: .88;" | 
+<div style="background:#B3B3B3; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Zusterprojekten</div>
+<div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
+</div>
+<div style="padding-bottom:.4em">
 {| align="center" cellpadding="2" class="plainlinks" width="95%" style="background:transparent"
 |- valign="top"
 | width="4%"  |[[Bestaand:Commons-logo.svg|25px]]
@@ -155,8 +166,7 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | width="4%"  |[[Bestaand:Incubator-notext.png|25px]]
 | width="21%" |[https://incubator.wikimedia.org/wiki/Incubator:Main_Page/nl?setlang=nds-nl '''Wikimedia Breuikas''']<br />Breuikas veur nieje projekten <small>(NL)</small>
 |}
-|}
-|}
+</div>
 
 __NOTOC__ __NOEDITSECTION__
 
