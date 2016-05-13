@@ -44,13 +44,12 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | style="background:transparent; width: 55%; vertical-align: top;" |
 
 <!--Begin rechterkolom-->
-<div id="mf-avdm">
 <div style="background:#9CC45D; color:white">
 <div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[Wikipedie:Artikel_van_de_maond|<span style="color:white;">Artikel van de maond</span>]]</div>
 <div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
 </div>
 <div style="padding-bottom:.4em">
-{{Artikel van de maond/{{CURRENTMONTHNAME}}}}
+<div id="mf-avdm" title="Artikel van de maond">{{Artikel van de maond/{{CURRENTMONTHNAME}}}}</div>
 </div>
 
 <div style="background:#9CC45D; color:white">
@@ -67,12 +66,16 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | [[Bestaand:Vlagge Stellingwarf.jpeg|50px|border|link=Pertaol:Stellingwarf|Stellingwarver vlagge]]<br/>[[Pertaol:Stellingwarf|Stellingwarf]]
 | [[Bestaand:Vlag_van_Twente.gif|50px|link=Portoal:Tweante|Tweantse vlagge]]<br/>[[Portoal:Tweante|Tweante]]
 |}
+</div>
 
-<!----
-<div style="background:#A2CA65; color:white">
-<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[:Kategorie:Pertaolen|<span style="color:white;">[[Bestaand:Nedersaksies peerd.png|18px]] [[Portaol:In t niejs|<span style="color:white;">In t niejs ></span>]]</span>]]</div>
+<!---
+<div style="background:#9CC45D; color:white">
+<div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] [[Portaol:In t niejs|<span style="color:white;">In t niejs</span>]]</div>
 <div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
-{{In t niejs}}<span style="float:right; font-size: 85%; padding:0 .5em 0 2em">([[Portaol:In t niejs/Archief|archief]] | <span class="plainlinks">[{{fullurl:Mal:In t niejs|action=edit}} +])</span></span>
+</div>
+<div style="padding-bottom:.4em">
+{{In t niejs}}
+</div>
 --->
 <div style="background:#9CC45D; color:white">
 <div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Händige verwiezingen</div>
@@ -118,7 +121,6 @@ De sprekers van t Nedersaksies neumen der eigen dialekt meestentied ''plat'' of 
 | width="21%" |[[:Kategorie:Stellingwarfs_artikel|Stellingwarfse artikels]]
 | width="4%"  |[[Bestaand:Veluwse_vlagge.png|25px]]
 | width="21%" |[[:Kategorie:Oost-Veluws_artikel|Oost-Veluwse artikels]]
-
 |- valign="top"
 | width="4%"  |[[Bestaand:Flag_Groningen.png|25px]]
 | width="21%" |[[:Kategorie:Grunnegs_artikel|Grönnigse artikels]]
