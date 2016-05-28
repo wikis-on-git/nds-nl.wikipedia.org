@@ -1,51 +1,40 @@
-{| class="toccolours" style="width:240px; margin-left: 1em; font-size: 85%;" align="right"
-|+ style="font-size: large; margin: inherit;"|'''Alba / Scotland'''
-|-
-{| cellpadding="2" style="float: right; width: 235px; background: #e3e3e3; margin-left: 0em; border-spacing: 1px;"
-! style="background-color: #e3e3e3;" | Vlagge
-! style="background-color: #e3e3e3;" | Wapen
-|- style="background: #ffffff; text-align: center;"
-| [[Bestaand:Flag of Scotland.svg|125px|De Schotse vlagge]]
-| [[Bestaand:Royal Arms of the Kingdom of Scotland.svg|90px|'t Schotse wapen]]
-|-----
-| align="center" colspan="2"  bgcolor=#e3e3e3 | '''Ligging'''
-|-----
-| align="center" colspan="2" |
-[[Bestaand:LocationScotland.png|250px|Schotlaand in Europa]]
-|-----
-| [[Heufdstad|Heufstad]] || style="background:WHITE" | [[Edingburgh]]
-|-----
-| [[Regeringsvorm]] || style="background:WHITE" | [[Monaarchie|Koninkriek]]
-|-----
-| Bestaon || style="background:WHITE" | [[6 april]] [[1320]]-[[1326]] [[meert]] [[1707]]
-|----
-| [[Oppervlak]]te || style="background:WHITE" |  78.782 km² 
-|-----
-| [[Bevolking|Inwoeners]]  ||  style="background:WHITE" | 5.062.011
-|-----
-| [[Spraok|Taal]] || style="background:WHITE" | [[Schots]], [[Schots-Gaols]], [[Engels]]
-|-----
-| [[Religie]] || style="background:WHITE" | [[Protestantisme|Protestans]], [[Rooms-Katholieke Karke|rooms-katteliek]]
-|}
-'''Schotlaand''' ([[Schots-Gaols]]: ''Alba'') is een laand in [[West-Europa|Noordwest-Europa]] en is een onderdeel van 't [[Verienigd Keuninkriek|Verenig Koninkriek]]. 't Laand lig in de noordelijke regio van 't eilaand [[Groot-Brittannië]] en grens in 't zujen an [[Engelaand (regio)|Engelaand]]. 't Lig in 't osen an de [[Noordzee]], in 't noorden en 't wessen an de [[Atlantische Ozeoan|Atlantische Oceaan]], en in 't zuudwessen an 't [[Noorderkenaal]] en de [[Ierse zee]]. Schotlaand steet bekend as 't laand van de [[doedelzak]] en de [[kilt]]. 't Is oek 't laand waor [[Shakespeare]]s tregedie [[Macbeth]] zich ofspeulen, en waor 't [[monster van Loch Ness]] volgens sommigen in zien meer rondzwemp.
+{{Laandtabel-vel
+| naaminlaanstaal = Scotland
+| vlagge = Flag of Scotland.svg
+| wapen = Royal Arms of the Kingdom of Scotland.svg
+| lokasie = Scotland_in_the_UK_and_Europe.svg
+| breedtegroad = 55/57//N
+| lengtegroad = 3/11//W
+| region = GBR
+| talen = [[Engels]], [[Schots-Gaols]] en [[Skots|Schots]] | heufstad = [[Edinburgh]]
+| religie = [[protestantisme|protestants]], [[Rooms-Katholieke Karke|rooms-katholiek]]
+| regeringsvorm = [[konstitusionele monarchie]]
+| km2 = 77,933
+| inwoeners = 5,347,600 (2014) | dichtheid = 68,6 <!-- excl. waoter -->
+| munteenheid = [[Britse pond]] | valutacode = GBP of £ | tiedzone = 0 (zoemer +1)
+| volkslied = gien offisieel volkslied ([[Flower of Scotland]] wördt t meest gebruukt veur gelegenhejen)
+| feesdag = [[Sunte-Andreasdag]] (30 november), [[Burns' Night]] (op of rond 25 jannewaori) 
+| tld = uk | laandcode = GBR | til = 44
+}}
+'''Schotlaand''' ([[Schots-Gaols]]: ''Alba'') is n laand in [[West-Europa|Noordwest-Europa]] en is n onderdeel van t [[Verienigd Keuninkriek|Verenigd Koninkriek]]. t Laand ligt in de noordelike regio van t eilaand [[Groot-Brittannië]] en grenst in t zujen an [[Engelaand (regio)|Engelaand]]. t Ligt in t oosten an de [[Noordzee]], in t noorden en t westen an de [[Atlantische Ozeoan|Atlantiese Oseaan]], en in t zuudwessen an t [[Noorderkanaal]] en de [[Ierse zee]]. Schotlaand steet bekend as t laand van de [[doedelzak]] en de [[kilt]]. t Is oek t laand waor [[Shakespeare]]s tragedie [[Macbeth]] zich aofspeulden, en waor t [[monster van Loch Ness]] volgens sommigen in zien meer rondzwemt.
 
 == Geografie ==
 Schotlaand besteet uut:
-* 't vastelaand 
-* een antal eilanengroepen: 
-** de [[Shetlaandeilanen]] 
-** de [[Orkney-eilanen]] 
+* t vastelaand 
+* n antal eilaandengroepen: 
+** de [[Shetlaandeilaanden]] 
+** de [[Orkney-eilaanden]] 
 ** de [[Hebriejen]] 
-** de Skye-eilanen
+** de Skye-eilaanden
 
-De Hebriejen wonnen verdeeld in:
+De Hebriejen wörden verdeeld in:
 * de [[Binnen-Hebriejen]] 
 * de [[Buten-Hebriejen]]
 
-Schotlaand wonnen laandschappelijk over 't algemeen in dree gebieden verdeeld:
-* De [[Zujelijke Hooglanen]]
-* de [[Centrale Leeglanen]] of Midlaandvallei 
-* de [[Schotse Hooglanen]]
+Schotlaand wördt laandschappelik over t algemeen in dree gebieden verdeeld:
+* De [[Zujelike Hooglaanden]]
+* de [[Sentrale Leeglaanden]] of Midlaandvallei 
+* de [[Schotse Hooglaanden]]
 
 === Grootste stejen ===
 De grootste stejen van Schotlaand bin:
@@ -57,7 +46,7 @@ De grootste stejen van Schotlaand bin:
 * [[Stirling]]
 * [[Perth (Schotlaand)|Perth]]
 
-== Nedersaksisch ==
+== Nedersaksies ==
 * [[Grunnegs]]: ''Skotlaand''
 * [[Tweants]]: ''Skotlaand''
 * [[Veluws]]: 
@@ -66,8 +55,10 @@ De grootste stejen van Schotlaand bin:
 ** ''Sjotlangd'' ([[Bunsjoten]])
 * '''Overig''': ''Schotlaand''
 
+==Uutgaonde verwiezing==
 {{commonscat|Scotland}}
 
-[[Kategorie:West-Veluws artikel]]
+{{Dialekt|wvel|Nunspeet|Algemene Nedersaksiese Schriefwieze}}
+
 [[Kategorie:Skotlaand]]
 [[Kategorie:Kelties laand]]
