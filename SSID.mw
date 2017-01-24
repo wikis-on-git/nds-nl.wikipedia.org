@@ -1,0 +1,14 @@
+Een '''Service Set IDentifier (SSID)''' (Letterlik uut [[Engels]]: ''deynstenkoppelkenner'') is ne rygel van karakters dey by mekander ne eynsoortige naam geyvt an een drådloos lokaal netwark ([[WLAN]]). Nen anderen naam vuur SSID is düs ''netwarknaam''. Met dissen naam könt wifi-toostellen verbinding leggen met et wöynskete netwark, as der in dezelfvde ümgewing ook meerdere lösstånde netwarke zind.
+
+Drådloze toostellen dey as rechtstreyks met mekander uutwesselt, wordt ne ''basic service set (BSS)'' nöymd; een basaal deynstenkoppel. Meerdere BSSen by mekander vormet eyn logys WLAN-segment, wat een ''extended service set (ESS)'' nöymd wörd, een uutbreid deynstenkoppel. Nen deynstenkoppelkenner (SSID) is niks anders as nen alfanümeryken naam vöör zonnen ESS.
+
+==Vuyrbeyld==
+In bedryf A kan et drådloze netwark (ESS) meerdere togangspünte (''Access Points'', APs) hebben en tyntallen tostellen, dey as allemål datzelvde SSID bruukt. Een ander bedryf under dezelvde kappe (B) kan een egen WLAN bruken, met wyr egene APs en tostellen, up een ander SSID. Een SSID helpet tostellen in bedryf A üm de juyste APs van bedryf A te vinden en tegelyke APs van bedryf B vöörby te gån.
+
+AP's trekt meerdere målen per sekonde andacht, döör båkens uut te zenden met den ESS-naam (SSID). Tostellen pikt dan disse AP's up döör rond te lüstern of et nog båkens gef. Ze könt ook zelv pröyvbåkens met et juyste SSID uutstuyren üm AP's te zöyken. As et toostel een toogangspünt met den goden naam treft, stuyrt et een verbindingsverzöyk met et juyste SSID. Et toogangspünt gef dan een verbindingsantwoord, ook met et SSID.
+
+Each AP advertises its presence several times per second by broadcasting beacon frames that carry the ESS name (SSID). Stations can discover APs by passively listening for beacons, or they can send probe frames to actively search for an AP with the desired SSID. Once the station locates an appropriately-named AP, it can send an associate request frame containing the desired SSID. The AP replies with an associate response frame, also containing SSID.
+
+
+[[Kategorie: Tweants artikel]]
+[[Kategorie: Internet]]
