@@ -7,8 +7,8 @@ In bedryf A kan et drådloze netwark (ESS) meerdere togangspünte (''Access Poin
 
 AP's trekt meerdere målen per sekonde andacht, döör båkens uut te zenden met den ESS-naam (SSID). Tostellen pikt dan disse AP's up döör rond te lüstern of et nog båkens gef. Ze könt ook zelv pröyvbåkens met et juyste SSID uutstuyren üm AP's te zöyken. As et toostel een toogangspünt met den goden naam treft, stuyrt et een verbindingsverzöyk met et juyste SSID. Et toogangspünt gef dan een verbindingsantwoord, ook met et SSID.
 
-Each AP advertises its presence several times per second by broadcasting beacon frames that carry the ESS name (SSID). Stations can discover APs by passively listening for beacons, or they can send probe frames to actively search for an AP with the desired SSID. Once the station locates an appropriately-named AP, it can send an associate request frame containing the desired SSID. The AP replies with an associate response frame, also containing SSID.
-
+==Welle==
+* [http://searchmobilecomputing.techtarget.com/definition/service-set-identifier searchmobilecomputing.techtarget.com service set identifier]
 
 [[Kategorie: Tweants artikel]]
 [[Kategorie: Internet]]
