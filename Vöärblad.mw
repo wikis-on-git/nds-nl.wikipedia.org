@@ -36,7 +36,7 @@ De spreakers van de sassiske varieteyten nömen der eygen dialekt meestentyds ''
 | style="background:transparent; width: 55%; vertical-align: top;" |
 
 <!--Begin rechterkolom-->
-<div style="background:#9CC45D; color:white">
+<div id="mf-avdm"><div style="background:#9CC45D; color:white">
 <div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Wikipedy</div>
 <div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
 </div>
@@ -53,9 +53,9 @@ desc none
 Dit is de [[Nedersaksiese Wikipedie|sassiske uutgave]] van [[Wikipedie|Wikipedy]], een [[ensyklopedie|encyklopedy]] up internet wår yderene an kan bydragen, en dy beschikbår is in [[m:List of Wikipedias|sowat 300 verskillende talen]]. 
 
 Up disse Wikipedy kün jy al sinds [[24 meert|24&nbsp;määrt]]&nbsp;[[2006]] artikels leasen en skryven in de [[Wikipedie:Nedersaksies|sassiske dialekten]] uut Neaderland, mär ouk in de düütsk-sassiske dialekten dy de [[Nysassiske Skryvwyse|Nysassiske Skryvwyse]] hanteren. Vöär meer informaty oaver de verskillende skryvwyses kün jy [[Wikipedie:Spelling|hyr terechte]].
-</div>
+</div></div>
 
-<div style="background:#9CC45D; color:white">
+<div id="mf-avdmde"><div style="background:#9CC45D; color:white">
 <div style="font-family:Cambria, Georgia, Times, 'Times New Roman', serif; float:left; font-size:120%; padding:0.2em 0.6em 0.2em 0.6em">[[Bestaand:Nedersaksies peerd.png|18px]] Händige verwysingen</div>
 <div style="text-align:right">[[File:Right banner end.svg|link=|alt=|16px]]</div>
 </div>
@@ -74,7 +74,7 @@ Up disse Wikipedy kün jy al sinds [[24 meert|24&nbsp;määrt]]&nbsp;[[2006]] ar
 ------------
 <div style="margin:0.1em 0 0 0;">[[Image:Wikipedia-logo-v2.svg|x16px|link=|Wikipedie]] Wikipedy in et: [[:incubator:Wp/pdt/Hauptsied|mennonitisk-platdüütsk (plautdietsch)]]</div>
 |}
-</div>
+</div></div>
 |}
 <!--Einde kolommen-->
 |}
