@@ -1,338 +1,252 @@
-Hieronder vie'j n lieste mit '''Nedersaksiese komputertermen'''. De meeste Nedersaksiese komputertermen bin niej uutedochten woorden of vertalingen van [[Nederlaands]]e komputertermen. Sommigen woorden bin zelfs al aordig in-eburgerd. Denk der an dat der plaotselik verschil in uutspraak kan ween, mer dat dit niet overal vermeld steet.
+Hieronder vie'j een lieste mit '''Nedersaksiese komputertermen'''. De meeste Nedersaksiese komputertermen bin niej uutedochten woorden of vertalingen van [[Nederlaands]]e komputertermen. Sommige woorden bin zelfs al aordig in-eburgerd. Denk deran dat der plaotselik verschil in uutspraak kan ween, mär dat dit niet overal vermeld steet.
 
 == Aofkortingsoverzichte ==
 Overzichte van aofkortingen die'w in dit artikel gebruken:
 *Nederlaands (NED)
 *Engels (ENG)
 *Achterhooks (ACT)
-*Draents (DRT)
+*Dreants (DRT)
 *Grönnigs (GOS)
 *Stellingwarfs (STL)
-*Twaents (TWD) 
+*Tweants (TWD) 
 *Sallaands (SDZ)
 *Urkers (URS)
 *Veluws (VEL)
+*Intersaksies (ISA)
 
 == Lieste ==
 {| class="wikitable"
 !NED
 !ENG
-!ACT
-!DRT
+!ACT, TWD
+!DRT, STL
 !GOS
-!SDZ
-!STL
-!TWD
+!SDZ, VEL
 !URS
-!VEL
 |- 
 | bgcolor="honeydew" |muis
 | bgcolor="honeydew" |mouse
 |moes
+|moes, muus{{Info|Zuudoost-Drents}}
 |moes
-|moes
-|muus, moes
-|muus
-|moes
+|moes, muus
 |meus
-|muus
 |- 
 | bgcolor="honeydew" |cursor, muis&shy;aanwijzer
 | bgcolor="honeydew" |cursor
-|{{small()|moes}}pielken
-|pieltie(n)
-|pieltje
-|muus, moes, muus&shy;anwiezer, moes&shy;anwiezer
-|moes, moes&shy;anwiezer
-|moes, pielken
-|meus, meus&shy;anwezer
-|muus, muus&shy;anwiezer
+|moes&shy;(anwiezer), pielken
+|moes&shy;(anwiezer){{Info|Zuudoost-Drents: muusanwiezer}}, pieltie(n)
+|moes&shy;aanwiezer, pieltje
+|moes&shy;(anwiezer), muusanwiezer, pieltien, pieltjen
+|meus&shy;(anwezer), piltjen
 |-
 | bgcolor="honeydew" |bestand
 | bgcolor="honeydew" |file
-|bestand
+|besta(a)nd, dra(e)ger
 |bestaand
 |bestaand, boudel
-|besta{{small()|a}}nd
-|bestaand
-|bestaand, draeger
-|
 |besta{{small()|a}}nd, bestangd{{Info|Bunsjoten}}
+|bestaand
 |-
 | bgcolor="honeydew" |website, webstek
 | bgcolor="honeydew" |website
-|webstae
-|webstee, webbestee ([[Zuudwest-Drèents|ZWD]])
+|webstea
+|webstee{{Info|Zuudwest-Drents: webbestee}}
 |webstee
 |webstee
-|webstee
-|webstae
 |
-|webstee
 |-
 | bgcolor="honeydew" |zoekmachine
 | bgcolor="honeydew" |search engine
 |zeuk&shy;machine
-|zuuk&shy;masine ''(ok'' zeuk, zuik, zeuik, maschine, masjien(e)'')''
+|zuuk&shy;masine (Drents oek: ''zeu(i)k-, zuik-, -maschine, -machien(e)'')
 |zuik&shy;mas(k)ien(e)
 |zeuk-, zuuk&shy;masine
-|zuuk&shy;masine
-|zeuk&shy;balkn, -masine
-|
-|zeuk&shy;masine, zeuk&shy;masien, zuuk&shy;masine
+|zuukmachine
 |-
 | bgcolor="honeydew" |browser
 | bgcolor="honeydew" |browser
 |webkieker
-|
-|(web)kieker
-|(web)kieker
-|(web)kieker
-|(web)kieker, (~)vaenster
-|
-|(web)kieker
+|webkieker
+|webkieker
+|webkieker
+|webkieker
 |-
 | bgcolor="honeydew" |downloaden
 | bgcolor="honeydew" |download
-|laden, binnenhalen
-|opha(o)len
+|binnhalen, neerladen{{Info|Oek: -laoden/-loaden}}, daleladen{{Info|Oek: -laoden/-loaden}}
+|daelelaeden{{Info|Stellingwarfs, Zuudwest-Drents}}, deelladen, deellaoden
 |(om)deel&shy;loaden
-|binnenhalen, neerladen, daleladen
-|daelelaeden
-|binnhalen, neerloaden, neerladen, daleloaden
+|binnenhalen{{Info|Oek: binnenhaolen}}, neerladen{{Info|Oek: neerlaojen}}, daleladen{{Info|Oek: daollaojen}}
 |
-|binnenhaolen, neerlaojen, neerladen, daleladen{{Info|Allinnig Oost-Veluws}}, daollaojen{{Info|Allinnig West-Veluws}}
 |-
 | bgcolor="honeydew" |e-mail
 | bgcolor="honeydew" |e-mail
-|e-mael
-|[[lienpost]] ''(t fenomeen)'', mailtie(n) ''(ofzunderlike e-mail)''
+|netpost, e-mail
+|[[lienpost]]{{Info|Drents}}, aemel{{Info|Stellingwarfs}}, netpost, netbericht
 |e-post, elektroniese braif
 |netpost, liendepost, netbreef/-brief, netbericht
-|aemel
 |netpost, e-mail
-|
-|netpost, liendepost, netbreef/-brief, netbericht
 |-
 | bgcolor="honeydew" |uploaden
 | bgcolor="honeydew" |upload
 |opladen, opsturen, op internet zetten
-|
+|oplaeden{{Info|Stellingwarfs en Zuudwest-Drents}}, opladen, oplaoden, opsturen, op internet zetten
 |oploaden, opsturen, op internet zetten, hoogloaden
-|opladen, opsturen, op internet zetten
-|oplaeden, opsturen, op internet zetten
-|opladen, opsturen, op internet zetten
+|opladen{{Info|Oek: oplaojen}}, opsturen, op internet zetten
 |
-|oplaojen/opladen, opsturen, op internet zetten
 |-
 | bgcolor="honeydew" |verwijderen
 | bgcolor="honeydew" |delete
 |vortdoon, -smieten
-|vortdoen ''(ok'' vurt, voort; doon, dooun, doun'')''
+|vortdoen (Drents oek: ''vurt, voort; doon, dooun, doun'')
 |kwiet worden, vort hoalen
+|vortdoen, vortdoon
 |vortdoen
-|vortdoen
-|vortdoon
-|
-|vortdoon, vortdoen
 |-
 | bgcolor="honeydew" |beeldscherm, monitor
 | bgcolor="honeydew" |monitor
-|
-|
+|beeld&shy;skarm{{Info|Oek: -skoarm, scharm, enz.}}
+|beeld&shy;scharm
 |schaarm, beeld
 |beeld&shy;scharm{{Info|-scharm kan oek uutespreuken en eschreven wörden as -schaarm, -schärm, -skarm of -skärm}}
-|beeld&shy;scharm
-|beeld&shy;skoarm, skoarm
 |
-|kiek&shy;scharm, beeld&shy;scharm{{Info|-scharm kan oek uutespreuken wörden as -schirm, -schaarm of -schärm}}
 |-
 | bgcolor="honeydew" |toetsenbord
 | bgcolor="honeydew" |keyboard
-|
-|
+|knöpkesbröd, tikplaanke
+|knoppebord{{Info|Oek: knoppebred}}, tikplanke, toetsebord{{Info|Oek: toetsebred}}
 |knoppenbred
 |knoppenbord, tikplank{{small()|e}}
-|toetsebod
-|tikplaanke, knöpkesbröd
 |
-|knoppenbord, tikplank{{small()|e}}
 |-
 | bgcolor="honeydew" |computer
 | bgcolor="honeydew" |computer
-|
-|
+|komputer (schertsend: knipper&shy;kiste)
+|komputer, rekener (schertsend: knipper&shy;kist{{small()|e}} [[Bestaand:Smile.png|10px|:-)]])
 |komputer, rekender
 |komputer, rekener (schertsend: knipper&shy;kist{{small()|e}} [[Bestaand:Smile.png|10px|:-)]])
-|komputer, rekener (schertsend: knipper&shy;kist{{small()|e}} [[Bestaand:Smile.png|10px|:-)]])
-|komputer (schertsend: knipper&shy;kiste)
 |
-|komputer, rekener (schertsend: knipper&shy;kist{{small()|e}} [[Bestaand:Smile.png|10px|:-)]])
 |-
 | bgcolor="honeydew" |koppeling, link
 | bgcolor="honeydew" |link
-|verwiezing
-|verwiezing
-|heanwiezen
-|verwiezing
-|verwiezing
 |verwiezing, verbeending
-|verwezing
 |verwiezing
+|hinwiezen
+|verwiezing
+|verwezing
 |-
 | bgcolor="honeydew" |backslash, terugschrap
 | bgcolor="honeydew" |backslash
 |
-|
-|schune streep
 |schune strepe naor links
+|schune streep noar links
 |schune strepe naor links
 |
-|
-|schune streep, streep naor links
 |-
 | bgcolor="honeydew" |cookie
 | bgcolor="honeydew" |cookie
 |
-|
+|koekie(n), schoem&shy;besta(a)nd{{Info|Drents oek: schuumbestaand}}
 |koekie
-|[[koekien (internet)|koekie(n)]], kukien, skuum&shy;bestand
-|koekie(n), schoem&shy;bestaand
+|[[koekien (internet)|koekie(n)]]{{Info|Oek: kukien, kuuksien, koeksien, keukien}}, koekjen{{Info|Oek: kuukjen}}, skuum&shy;besta(a)nd{{Info|Oek: scheumbesta(a)nd, schuumbesta(a)nd, enz.}}
 |
-|
-|koekie(n){{Info|Koekjen, kukien, kuuksien, koeksien, kuukjen of keukien kunnen oek}}, scheum&shy;bestaand (schertsend: beschuut [[Bestaand:Smile.png|10px|:-)]])
 |-
 | bgcolor="honeydew" |hoofdpagina, startpagina
 | bgcolor="honeydew" |main page, home page
-|veurblad
+|veurblad{{Info|Tweants oek: vuurblad}}
 |veurblad
 |veurziede
 |veurblad
-|veurblad
 |vuurblad
-|vuurblad
-|veurblad
 |-
 | bgcolor="honeydew" |scanner
 | bgcolor="honeydew" |scanner
 |
-|
+|inlees&shy;apparaot, skänner
 |i(e)nlezer, skänner
-|inlees&shy;apparaot{{Info|Inlaesapparaot kan oek}}, skänner
-|inlees&shy;apparaot, skänner
+|inlees&shy;apparaot{{Info|Oek: inleasapparaot}}, skänner
 |
-|
-|inlees&shy;apparaot, skänner
 |-
 | bgcolor="honeydew" |scannen
 | bgcolor="honeydew" |scannen
-|
-|
+|inleazen, skännen
+|inlezen, skännen
 |i(e)nlezen, skännen
-|inlezen, inlaezen, skännen
-|inlezen, skännen
+|inlezen, inleazen, skännen
 |
-|
-|inlezen, skännen
 |-
 | bgcolor="honeydew" |printer
 | bgcolor="honeydew" |printer
 |
-|
+|ofdrok&shy;apparaot{{Info|Stellingwarfs}}, ofdrukapparaot
 |oetdraai&shy;apparoat
-|ofdruk&shy;apparaot
-|ofdrok&shy;apparaot
+|ofdruk&shy;apparaot{{Info|Oek: ofdrokapparaot}}
 |
-|
-|ofdrok&shy;apparaot
 |-
 | bgcolor="honeydew" |afdrukken, uitprinten
 | bgcolor="honeydew" |print
-|
-|
+|ofdrukken, oetdreaien{{Info|Oek: uutdreaien}}
+|ofdrokken, uutdri'jen{{Info|Stellingwarfs}}, ofdrukken, oetdreaien, uutdreaien{{Info|Drents}}
 |uutdraaien, oetdraaien
-|ofdrukken, uutdreien
-|ofdrokken, uutdri'jen
-|ofdrukken, oetdreeien
+|ofdrukken{{Info|Oek: ofdrokken}}, uutdreien
 |
-|ofdrokken, uutdreien
 |-
 | bgcolor="honeydew" |USB-stick
 | bgcolor="honeydew" |USB flash drive
+|USB-stik, instek&shy;geheugen
+|USB-stik, insteek&shy;geheugen
+|USB-stik, insteek&shy;geheugen
+|USB-stik, insteek&shy;geheugen, insteak&shy;geheugen
 |
-|
-|geheugen&shy;blokje
-|insteek&shy;geheugen, instaek&shy;geheugen
-|instik&shy;geheugen
-|instekgeheugen, instekdeuske
-|
-|insteek&shy;geheugen
 |-
 | bgcolor="honeydew" |firewall, brandmuur
 | bgcolor="honeydew" |firewall
 |
-|
-|braandwaal, braandwale
-|bra{{small()|a}}ndmure
 |braandmure
-|
-|braandmuur
+|braandwaal, braandwale
 |bra{{small()|a}}ndmure, bra{{small()|a}}ndmuur, brangdmuur{{Info|Bunsjoten}}, braandmoere{{Info|Elburg}}
+|braandmuur
 |-
 | bgcolor="honeydew" |apenstaartje
 | bgcolor="honeydew" |at
 |
-|
+|aepestart(e){{Info|Stellingwarfs en Zuudwest-Drents}}, apestaart(e){{Info|Oek: aopestaart}}, apesteert{{Info|Oek: aopesteert}}
 |swienekrul
+|apestart, apesteert
 |
-|aepestart{{Info|Verkleinwoord ku'j oek gebruken}}
-|
-|
-|apestart, apesteert{{Info|Verkleinwoord ku'j oek gebruken}}
 |-
 | bgcolor="honeydew" |pop-up, opduik&shy;venster
 | bgcolor="honeydew" |pop-up
 |
+|floep&shy;veenster{{Info|Stellingwarfs en Zuudwest-Drents}}, -veinster, -veanster
+|floep&shy;vinster
+|floep&shy;venster, floep&shy;vi{{small()|e}}nster, -vengster{{Info|Bunsjoten}}
 |
-|floep&shy;veanster
-|floep&shy;venster
-|floep&shy;veenster
-|
-|
-|floep&shy;vi{{small()|e}}nster, -ven{{small()|g}}ster
 |-
 | bgcolor="honeydew" |laptop, schoot&shy;computer
 | bgcolor="honeydew" |laptop
 |
-|
+|kleptop, klaptop (schertsend: sni'jplaanke{{Info|Stellingwarfs}}, sniepla(a)nk(e){{Info|Drents}} [[Bestaand:Smile.png|10px|:-)]])
 |
 |kleptop, klaptop (schertsend: sniejplanke [[Bestaand:Smile.png|10px|:-)]])
-|kleptop, klaptop (schertsend: sni'jplaanke [[Bestaand:Smile.png|10px|:-)]])
 |kleptop, klaptop (schertsend: sniedplaanke [[Bestaand:Smile.png|10px|:-)]])
-|
-|kleptop, klaptop (schertsend: sniejplank{{small()|e}} [[Bestaand:Smile.png|10px|:-)]])
 |-
 | bgcolor="honeydew" |notebook
 | bgcolor="honeydew" |notebook
 |
-|
-|
 |minikleptop, mini&shy;klaptop, kleine kleptop, kleine klep&shy;top
 |minikleptop, mini&shy;klaptop, kleine kleptop, kleine klep&shy;top
 |minikleptop, mini&shy;klaptop, kleine kleptop, kleine klep&shy;top
 |
-|minikleptop, mini&shy;klaptop, kleine kleptop, kleine klep&shy;top
 |-
 | bgcolor="honeydew" |webcrawler
 | bgcolor="honeydew" |webcrawler
 |webkroeper
-|webkruper, webkroeper
+|webkroeper, webkruper{{Info|Drents}}
 |webkroeper
-|webkroeper
-|webkroeper
-|webkroeper
+|webkroeper, webkruper
 |webkreuper
-|webkruper, webkroeper
 |}
 
 [[Kategorie:Nedersaksiese woorden en begrippen|Komputertermen]]
