@@ -138,30 +138,189 @@ De pronomina flekteret in alle 9 kasus un 3 numeri, man van den partitiv eksiste
 |partitiv || muđe || ||
 |}
 
-De [[demonstrativpronomen|demonstrativpronomina]] (''anwysende vöärnaamwoorden'') hebbet den vorskeal twüsken genitiv un akkusativ holden man kennet neyne duaalform. Upto eksisteert hyr ouk van den essiv alleyn en singulaarform.
+De [[demonstrativpronomen|demonstrativpronomina]] (''anwysende vöärnaamwoorden'') hebbet den vorskeal twüsken genitiv un akkusativ holden man kennet neyne duaalform. Upto eksisteert hyr ouk van den essiv alleyn en singulaarform. Steit dat demonstrativpronomen vöär en substantiv, flekteert dat nich döär alle kasus. In en deyl wardt an steade de genitivform (in vetdruk) bruked.
 
-{| class="wikitable unsortable"
+{| class="wikitable unsortable" style="float: left; margin-right: 50px;
 |-
 !kasus || singulaar || pluraal
 |-
-|nominativ || tot 'dit' || toh 'disse'
+|nominativ || taat 'dit' || taah 'disse'
 |-
-|genitiv || ton || toi 
+|genitiv || taan || tai 
 |-
-|akkusativ || tom || taid
+|akkusativ || taam || täid
 |- 
-|illativ || toos || toid
+|illativ || taas || taid
 |-
-|lokativ || tast || tain
+|lokativ || täst || täin
 |-
-|komitativ || toin || toiguin
+|komitativ || tain || taiguin
 |-
-|abessiv || tonttáá || toittáá
+|abessiv || taanttáá || taittáá
 |-
-|essiv || tanen ||
+|essiv || tänen ||
 |-
-|partitiv || tađe || 
+|partitiv || täđe || 
 |}
+
+{| class="wikitable unsortable" 
+|-
+!kasus || singulaar || pluraal
+|-
+|nominativ || taat kyeli || taah kyeleh
+|-
+|genitiv || taan kyele || tai kuolij
+|-
+|akkusativ || taam kyele || täid kuolijd
+|-
+|illativ || '''taan''' kuálán || taid kuolijd
+|-
+|lokativ || '''taan''' kyeleest || täin kuolijn
+|-
+|komitativ || tain kyellin || '''tai''' kuolijguin
+|-
+|abessiv || '''taan''' kyelettáá || '''tai''' kuolijttáá
+|-
+|essiv || tänen kyellin ||
+|-
+|partitiv || täđe kyellid ||
+|}
+
+
+Altohoup kent dat aanaarsamiske 4 demonstrativpronomen: tot ''dat'', taat ''dit hyr (naeger by my)'', tiet ''dat dår (naeger by dy)'', tuot ''dat dår (wyder weg)''. 
+
+===Substantiven===
+Jüstement so as de demonstrativpronomina flekteret substantiven alleyn in singulaar un pluraal un vöär essiv un partitiv givt dat neyne distinkten pluraalformen. De substantiven wardet ünderdeyld in fleksioonsklassen: tweysylvige (â-stam, e-stam, i~á-stam, o-stam, u/o-stam, i-stam, a-stam), drey- un vyvsylvige, kontraheerde un veersylvige. Twüsken disse fleksioonklassen ünderskeydet sik minder de brukeden anvöögsels, man meyr de munsters van stamvariatioon döär [[grådwessel]] by de konsonanten un vokaalwessel. 
+
+{| class="wikitable unsortable"
+|+tweysylvig e-stam
+!kasus || singulaar || pluraal
+|-
+|nominativ || lakke 'hälvde' || laheh
+|-
+|genitiv || lahe || lohij
+|-
+|akkusativ || lahe || loohijd
+|- 
+|illativ || laakan || lohhijd
+|-
+|lokativ || lahheest || loohijn
+|-
+|komitativ || lohhijn || lohijguin
+|-
+|abessiv || lahettáá || lohijttáá
+|-
+|essiv || lakken ||
+|-
+|partitiv || lakked ||
+|}
+
+{| class="wikitable unsortable"
+|+tweysylvig i~á-stam
+!kasus || singulaar || pluraal
+|-
+|nominativ || kyeli 'visk' || kyeleh
+|-
+|genitiv || kyele || kuolij 
+|-
+|akkusativ || kyele || kuolijd
+|-
+|illativ || kuálán || kuolijd
+|-
+|lokativ || kyeleest || kuolijn
+|-
+|komitativ || kuolijn || kuolijguin
+|-
+|abessiv || kyelettáá || kuolijttáá
+|-
+|essiv || kyellin ||
+|-
+|partitiv || kyellid ||
+|}  
+
+{| class="wikitable unsortable"
+|+kontraheerd
+!kasus || singulaar || pluraal
+|-
+|nominativ || olmooš 'minsk' || ulmuuh
+|-
+|genitiv || ulmuu || ulmui
+|-
+|akkusativ || ulmuu || ulmuid 
+|-
+|illativ || ulmui || ulmuid
+|- 
+|lokativ || ulmust || ulmuin
+|-
+|komitativ || ulmuin || ulmuiguin
+|-
+|abessiv || ulmuuttáá || ulmuittáá
+|-
+|essiv || olmožin ||
+|-
+|partitiv || olmožid ||
+|}
+
+{| class="wikitable unsortable"
+|+veersylvig
+!kasus || singulaar || pluraal
+|-
+|nominativ || jođádâh 'good wedder /<br>stråtentostand' || jođáduvah
+|-
+|genitiv || jođáduv || jođáduvâi
+|-
+|akkusativ || jođáduv || jođáduvâid
+|-
+|illativ || jođádâhân || jođáduvváid
+|-
+|lokativ || jođáduvâst || jođáduvâin
+|-
+|komitativ || jođáduvváin || jođáduvâiguin
+|-
+|abessiv || jođáduvttáá || jođáduvâittáá
+|-
+|essiv || jođádâhhân ||
+|-
+|partitiv || jođádâhhâd ||
+|}
+
+===Adjektiven===
+====Attributiven un predikativen bruuk====
+So as ouk de anderen samisken språken ünderskeydt aanaarsamisk by de adjektiven twüsken attritutive un predikative bruukwyse. In de attributive bruukwyse steit dat adjektiv direktement vöär dat substantiv, wat dat modificeert. De attributive form wardt nich wyder flekteert. By de meyrsten adjektiven endt de attributive form up ''-s'' or ''-â'':
+
+* Taat lii kuhes tekstâ. ''Dit is en langen tekst.''
+* Mun luuvâm kuhes teevstâ. ''Ik lease en langen tekst.'' 
+
+In de predikative bruukwyse flekteret adjektiven nå maneer van de substantiven:
+
+* Tekstâ lii kukke. ''De tekst is lang.''
+* Teevstah láá kuheh. ''De teksten sint lang.''
+
+====[[Komparatioon]] (''vorgelyking'')====
+Adjektiven köänet twey wydere komparatioonsformen bilden, den komparativ up ''-b'' un den superlativ up ''-mus'' or ''-mos''. Ouk hyr geldt, dat adjektiven in attributive bruukwyse nich wyder flekteerd wardet, man de attributivform is normalerwyse med de predikative grundform öävereyn. 
+
+{| class="wikitable unsortable"
+|-
+!komparatioonsform || 'lang' || 'kört' || 'smuk' || 'grout' || 'lüt' || 'langsåm' || 'dum'
+|-
+|positiv predikativ || kukke || uánihâš || muččâd || styeres || ucce || hiđes || tuávkki
+|-
+|positiv attributiv || kuhes || uánihis || mučis || stuorrâ || uces/uccâ || hiđes || tuávhis
+|-
+|komparativ || kuhheeb || uánihub || muččâdub || stuárráb || ucceeb || hitásub || tuávhib
+|-
+|superlativ || kuhemus || uánihumos || muččâdumos || stuárráámus || ucemus || hitásumos || tuávhimus
+|}
+
+Wardet twey saken vorgeleaken, vorbindet eyn disse med ''ko''. By gelyk groute, lange, lütte, ... saken wardt vöär dat adjektiv noch ''siämmáá'' 'gelyk' or ''nuuvt'' 'so' bruked: 
+
+* Lii-uv anarâškielâ '''siämmáá/nuuvt väädis ko''' nuorttâlâškielâ? ''Is aanaarsamisk '''so swår as''' skoltsamisk?''
+
+* Taat kiäinu lii '''kuhheeb ko''' tuot. ''Dissen weg is '''länger as''' de dåre.''   
+
+By superlativformen wardt vaken dat woord ''puoh'' 'alle' vöärsetted:
+
+* Tust lâi ('''puoh''') '''pyeremus''' iävtuttâs. ''Du hadst den ('''aller''')'''besten''' vöärslag.''
 
 == Referencen == 
 <references />
