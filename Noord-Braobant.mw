@@ -27,7 +27,7 @@ Webstea = [http://www.brabant.nl www.brabant.nl] |
 {|
 |
 # [[Alphen-Chaam]]
-# [[Aolburg]] (''Aalburg'')
+# [[Altena]]
 # [[Asten]]
 # [[Baarle-Nassau]]
 # [[Bargeijk]] (''Bergeijk'')
@@ -47,8 +47,8 @@ Webstea = [http://www.brabant.nl www.brabant.nl] |
 # [[Eersel]]
 # [[Eindhoown|Eindhoven]]
 # [[Etten-Leur]]
-# [[Geertrudenbarg]] (''Geertruidenberg'')
-|<ol start="23">
+|<ol start="22">
+<li> [[Geertrudenbarg]] (''Geertruidenberg'')
 <li> [[Geldrop-Mierlo]]
 <li> [[Gemert-Bakel]]
 <li> [[Gilze-Rijen]]
@@ -69,8 +69,8 @@ Webstea = [http://www.brabant.nl www.brabant.nl] |
 <li> [[Moerdiek]] (''Moerdijk'')
 <li> [[Nuenen, Gerwen en Nederwetten]]
 <li> [[Oorschot]] (''Oirschot'')
+|<ol start="43">
 <li> [[Oosterholt]] (''Oosterhout'')
-|<ol start="44">
 <li> [[Oosterwiek (Noord-Braobant)|Oosterwiek]] (''Oisterwijk'')
 <li> [[Oss]]
 <li> [[Reusel-De Mierden]]
@@ -88,9 +88,7 @@ Webstea = [http://www.brabant.nl www.brabant.nl] |
 <li> [[Vught]]
 <li> [[Waalre]]
 <li> [[Waolwiek]]/[[Waolek]] (''Waalwijk'')
-<li> [[Warkendam]] (''Werkendam'')
 <li> [[Woonsdrecht]] (''Woensdrecht'')
-<li> [[Woudrichem]]
 <li> [[Zundert]]
 |}
 
