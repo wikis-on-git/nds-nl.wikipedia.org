@@ -53,10 +53,10 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Canberra]]
 |[[Engels]]k<ref name=defacto />: Australia
 |-
-|[[Azerbeidzjan|Azerbaydjan]]
-|Republik Azerbaydjan
+|[[Azerbeidzjan|Azerbaidjan]]
+|Republik Azerbaidjan
 |[[Baku]]
-|[[Azerbeidzjaans|Azerbaydjaansk]]: Azərbaycan/ Azerbaycan
+|[[Azerbeidzjaans|Azerbaidjaansk]]: Azərbaycan/ Azerbaycan
 |}
 
 === B ===
@@ -71,8 +71,8 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Nassau (Bahama's)|Nassau]]
 |[[Engels]]k: The Bahamas
 |-
-|[[Bagraain|Bahrayn]]
-|Koaningryk Bahrayn
+|[[Bagraain|Bahrain]]
+|Koaningryk Bahrain
 |[[Manama (stad)|Manama]]
 |[[Arabies|Arabisk]]: al-Baḥrayn / البحرين
 |-
@@ -169,7 +169,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Peking]]
 |[[Standardmandaryn]]: Zhongguo / 中国
 |-
-|[[Colombia]]
+|[[Colombia]]{{Info|Düütsk-sassisk: Kolumbien}}
 |Republik Colombia
 |[[Bogota (stad)|Bogota]]
 |[[Spaans]]k: Colombia
@@ -235,8 +235,8 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Kayro]]
 |[[Arabies|Arabisk]]: Miṣr / مصر
 |-
-|[[Equatoriaal-Guinea|Ekwatoriaalguinea]]
-|Republik Ekwatoriaalguinea
+|[[Equatoriaal-Guinea|Ekwatoriaalginea]]
+|Republik Ekwatoriaalginea
 |[[Malabo]]
 |[[Frans]]k: Guinée Équatoriale <br /> [[Spaans]]k: Guinea Ecuatorial
 |-
@@ -274,7 +274,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Engels]]k: Fiji <br /> [[Fijisch|Fidjisk]]: Viti <br /> [[Fidjisk hindustani]]: Fiji / फ़िजी
 |-
 |[[Filipynen]]
-|Republik der Filipynen
+|Republik van de Filipynen
 |[[Manilla]]
 |[[Engels]]k: Philippines <br /> [[Filipiens|Filipynsk]]: Pilipinas
 |-
@@ -316,6 +316,16 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Tbilisi]]
 |[[Georgies|Georgisk]]: Sak'art'velo / საქართველო
 |-
+|[[Ginea]] / ''Ginee''
+|Republik Ginea
+|[[Conakry]]
+|[[Frans]]k: Guinée
+|-
+|[[Ginea-Bissau]] / ''Ginee-Bissau''
+|Republik Ginea-Bissau
+|[[Bissau (Ginea-Bissau)|Bissau]]
+|[[Portugees]]k: Guiné-Bissau
+|-
 |[[Grenada]]
 |Grenada
 |[[Saint George's]]
@@ -330,16 +340,6 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |Republik Guatemala
 |[[Guatemala-Stad]]
 |[[Spaans]]k: Guatemala
-|-
-|[[Guinee]]
-|Republik Guinee
-|[[Conakry]]
-|[[Frans]]k: Guinée
-|-
-|[[Guinee-Bissau]]
-|Republik Guinee-Bissau
-|[[Bissau (Guinee-Bissau)|Bissau]]
-|[[Portugees]]k: Guiné-Bissau
 |-
 |[[Guyana]]
 |Kooperative Republik Guyana
@@ -459,7 +459,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Engels]]k en [[frans]]k: Canada
 |-
 |[[Komoren]]
-|Uny der Komoren
+|Uny van de Komoren
 |[[Moroni]]
 |[[Arabies|Arabisk]]: Juzur al-Qamar / جزر القمر <br /> [[Komorees]]k: Komori <br /> [[Frans]]k: Comores
 |-
@@ -523,9 +523,9 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Zagreb]]
 |[[Kroaties|Kroatisk]]: Hrvatska
 |-
-|[[Koeweit|Kuwayt]]
-|Ståt Kuwayt
-|[[Koeweit (stad)|Kuwayt]]
+|[[Koeweit|Kuwait]]
+|Ståt Kuwait
+|[[Koeweit (stad)|Kuwait]]
 |[[Arabies|Arabisk]]: al-Kuwayt / الكويت
 |}
 
@@ -600,7 +600,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Engels]]k: Malawi <br /> [[Nyanja (taal)|Nyanja]]: Malaŵi
 |-
 |[[Malediven]]
-|Republik der Malediven
+|Republik van de Malediven
 |[[Malé]]
 |[[Divehi]]: Dhivehi Rajjge / ގުޖޭއްރާ ޔާއްރިހޫމްޖު
 |-
@@ -698,7 +698,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Engels]]k: Nauru <br /> [[Nauruaans]]k: Naoero
 |-
 |[[Nederlaand|Neaderland]]<ref name=B />
-|[[Keuninkriek der Nederlaanden|Koaningryk der Neaderlanden]]
+|[[Keuninkriek der Nederlaanden|Koaningryk van de Neaderlanden]]
 |[[Amsterdam]]
 |[[Nederlaans|Neaderlandsk]]: Nederland
 |-
@@ -794,8 +794,8 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Panama-Stad]]
 |[[Spaans]]k: Panamá
 |-
-|[[Papua-Nyguinea]]
-|Unafhankelike Ståt Papua-Nyguinea
+|[[Papua-Nyginea]]
+|Unafhankelike Ståt Papua-Nyginea
 |[[Port Moresby]]
 |[[Engels]]k: Papua New Guinea <br /> [[Hiri Motu]]: Papu Niu Gini <br /> [[Tok Pisin]]: Papua Niugini
 |-
@@ -902,7 +902,7 @@ Hyrunder volgt een '''lyste van landen van de wearld'''.
 |[[Servisch|Servisk]]: Srbija / Србија
 |-
 |[[Seychellen]]
-|Republik der Seychellen
+|Republik van de Seychellen
 |[[Victoria (Seychellen)|Victoria]]
 |[[Engels]]k en [[frans]]k: Seychelles <br /> [[Seychellenkreools]]k: Sesel
 |-
@@ -1203,7 +1203,7 @@ In de lyste hyrunder stayt een oaversicht van landen dee een rume internationale
 |Republik Artsach
 |[[Stepanakert]]
 |[[Armeens]]k: Artsakh / Արցախ
-|0<ref>De [[Republik Artsach]], ouk wel de Republik Nagorno-Karabach enöömd, hevt de kontrole oaver een grout deyl van de regio [[Nagorno-Karabach]], mär wördt döär et groutste deyl van de internationale gemeynskap eseen as een underdeyl van [[Azerbaydjan]]. De unafhankelikheid van Artsach wördt allinnig erkend döär Abchazie, Transnistrie en Süüdossetie, dee selv ouk neet algemeyn erkend binnen.</ref>
+|0<ref>De [[Republik Artsach]], ouk wel de Republik Nagorno-Karabach enöömd, hevt de kontrole oaver een grout deyl van de regio [[Nagorno-Karabach]], mär wördt döär et groutste deyl van de internationale gemeynskap eseen as een underdeyl van [[Azerbaidjan]]. De unafhankelikheid van Artsach wördt allinnig erkend döär Abchazie, Transnistrie en Süüdossetie, dee selv ouk neet algemeyn erkend binnen.</ref>
 |-
 <!-- LET UP! [[Katalonie]] is (noch) neet [[de facto]] unafhankelik -->
 |-
@@ -1601,7 +1601,7 @@ Alle [[franske oaverseyske gebeden]] maken integraal underdeyl uut van Frankryk<
 |}
 
 === Neaderlandske neet-unafhankelike gebeden ===
-Et [[Koaningryk der Nederlanden]] bestayt uut veer gelykwaerdige landen: [[Nederlaand|Neaderland]], [[Aruba]], [[Kurasou|Curaçao]] en [[Sunt-Marten (land)|Sünt-Marten]]. Disse lätste dree binnen düs officieel geyn ofhankelike gebeden van Nederland, mär wörden toch vake so eseen. De karibiske eilanden [[Bonaire]], [[Sunt-Eustasius|Sünt-Eustatius]] en [[Saba]] maken as [[Karibisk Nederland|bysündere gemeynte]] deyl uut van et land Nederland. Vöär ståtistiske dooleinden wörden disse dree BES-eilanden döär [[ISO 3166-1]] as eyn gebeed egruppeerd.
+Et [[Keuninkriek der Nederlaanden|Koaningryk van de Neaderlanden]] besteyt uut veer gelykwaerdige landen: [[Nederlaand|Neaderland]], [[Aruba]], [[Kurasou|Curaçao]] en [[Sunt-Marten (land)|Sünt-Marten]]. Disse lätste dree binnen düs officieel geyn ofhankelike gebeden van Nederland, mär wörden toch vake so eseen. De karibiske eilanden [[Bonaire]], [[Sunt-Eustasius|Sünt-Eustatius]] en [[Saba]] maken as [[Karibisk Nederland|bysündere gemeynte]] deyl uut van et land Nederland. Vöär ståtistiske dooleinden wörden disse dree BES-eilanden döär [[ISO 3166-1]] as eyn gebeed egruppeerd.
 
 {| class="wikitable" style="width: 100%;"
 !width=25%|Korte landsname (neadersassisk)
