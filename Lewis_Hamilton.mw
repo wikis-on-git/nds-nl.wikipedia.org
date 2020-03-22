@@ -789,14 +789,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 |}
 
 ===Komplete resultåten van de Formule Eyn===
-<!--
-([[:Template:F1 driver results legend 2|key]]) (Races in '''bold''' indicate pole position; races in ''italics'' indicate fastest lap)
+(Races in '''vet''' wyset up behålen van eyrste posity; races in ''schuun'' wyset up snelste runde)
 {| class="wikitable" style="text-align:center; font-size:90%;"
 |-
-! Year
-! Entrant
+! Jår
+! Team
 ! Chassis
-! Engine
+! Motor
 ! 1
 ! 2
 ! 3
@@ -818,13 +817,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 ! 19
 ! 20
 ! 21
-! WDC
-! [[List of Formula One World Championship points scoring systems|Points]]
+! Endposity in et werldkampioonskap
+! [[Lyst van Formule Eyn Werldkampioonskappüntentellingssystemen|Pünten]]
 |-
-| {{F1|2007}}
+| [[Formule Eyn Werldkampioonskap van 2007|2007]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-22|MP4-22]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108T 2.4 [[V8 engine|V8]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108T 2.4 [[V8-motor|V8]]
 | style="background:#ffdf9f;"| [[2007 Australian Grand Prix|AUS]]<br />{{small|3}}
 | style="background:#dfdfdf;"| ''[[2007 Malaysian Grand Prix|MAL]]''<br />{{small|2}}
 | style="background:#dfdfdf;"| [[2007 Bahrain Grand Prix|BHR]]<br />{{small|2}}
@@ -846,20 +845,20 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 |
 |
 |
-! style="background:#dfdfdf;"| 2nd
+! style="background:#dfdfdf;"| 2des
 ! style="background:#dfdfdf;"| 109
 |-
-| {{F1|2008}}
+| [[Formule Eyn Werldkampioonskap van 2008|2008]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-23|MP4-23]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108V 2.4 [[V8 engine|V8]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108V 2.4 [[V8-motor|V8]]
 | style="background:#ffffbf;"| '''[[2008 Australian Grand Prix|AUS]]'''<br />{{small|1}}
 | style="background:#dfffdf;"| [[2008 Malaysian Grand Prix|MAL]]<br />{{small|5}}
 | style="background:#cfcfff;"| [[2008 Bahrain Grand Prix|BHR]]<br />{{small|13}}
 | style="background:#ffdf9f;"| [[2008 Spanish Grand Prix|ESP]]<br />{{small|3}}
 | style="background:#dfdfdf;"| [[2008 Turkish Grand Prix|TUR]]<br />{{small|2}}
 | style="background:#ffffbf;"| [[2008 Monaco Grand Prix|MON]]<br />{{small|1}}
-| style="background:#efcfff;"| '''[[2008 Canadian Grand Prix|CAN]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2008 Canadian Grand Prix|CAN]]'''<br />{{small|terügetrökken}}
 | style="background:#cfcfff;"| [[2008 French Grand Prix|FRA]]<br />{{small|10}}
 | style="background:#ffffbf;"| [[2008 British Grand Prix|GBR]]<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2008 German Grand Prix|GER]]'''<br />{{small|1}}
@@ -874,14 +873,14 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 |
 |
 |
-! style="background:#ffffbf;"| 1st
+! style="background:#ffffbf;"| 1stes
 ! style="background:#ffffbf;"| 98
 |-
-| {{F1|2009}}
+| [[Formule Eyn Werldkampioonskap van 2009|2009]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-24|MP4-24]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108W 2.4 [[V8 engine|V8]]
-| style="background:#000; color:#fff;"| [[2009 Australian Grand Prix|<span style="color:white;">AUS</span>]]<br />{{small|DSQ}}
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108W 2.4 [[V8-motor|V8]]
+| style="background:#000; color:#fff;"| [[2009 Australian Grand Prix|<span style="color:white;">AUS</span>]]<br />{{small|Diskwalificered}}
 | style="background:#dfffdf;"| [[2009 Malaysian Grand Prix|MAL]]<br />{{small|7{{sup|‡}}}}
 | style="background:#dfffdf;"| [[2009 Chinese Grand Prix|CHN]]<br />{{small|6}}
 | style="background:#dfffdf;"| [[2009 Bahrain Grand Prix|BHR]]<br />{{small|4}}
@@ -892,23 +891,23 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#cfcfff;"| [[2009 German Grand Prix|GER]]<br />{{small|18}}
 | style="background:#ffffbf;"| [[2009 Hungarian Grand Prix|HUN]]<br />{{small|1}}
 | style="background:#dfdfdf;"| '''[[2009 European Grand Prix|EUR]]'''<br />{{small|2}}
-| style="background:#efcfff;"| [[2009 Belgian Grand Prix|BEL]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2009 Belgian Grand Prix|BEL]]<br />{{small|terügetrökken}}
 | style="background:#cfcfff;"| '''[[2009 Italian Grand Prix|ITA]]'''<br />{{small|12{{sup|†}}}}
 | style="background:#ffffbf;"| '''[[2009 Singapore Grand Prix|SIN]]'''<br />{{small|1}}
 | style="background:#ffdf9f;"| [[2009 Japanese Grand Prix|JPN]]<br />{{small|3}}
 | style="background:#ffdf9f;"| [[2009 Brazilian Grand Prix|BRA]]<br />{{small|3}}
-| style="background:#efcfff;"| '''[[2009 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2009 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|terügetrökken}}
 |
 |
 |
 |
-! 5th
+! 5des
 ! 49
 |-
-| {{F1|2010}}
+| [[Formule Eyn Werldkampioonskap van 2010|2010]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-25|MP4-25]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108X 2.4 [[V8 engine|V8]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108X 2.4 [[V8-motor|V8]]
 | style="background:#ffdf9f;"| [[2010 Bahrain Grand Prix|BHR]]<br />{{small|3}}
 | style="background:#dfffdf;"| [[2010 Australian Grand Prix|AUS]]<br />{{small|6}}
 | style="background:#dfffdf;"| [[2010 Malaysian Grand Prix|MAL]]<br />{{small|6}}
@@ -920,51 +919,51 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfdfdf;"| [[2010 European Grand Prix|EUR]]<br />{{small|2}}
 | style="background:#dfdfdf;"| [[2010 British Grand Prix|GBR]]<br />{{small|2}}
 | style="background:#dfffdf;"| [[2010 German Grand Prix|GER]]<br />{{small|4}}
-| style="background:#efcfff;"| [[2010 Hungarian Grand Prix|HUN]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2010 Hungarian Grand Prix|HUN]]<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| ''[[2010 Belgian Grand Prix|BEL]]''<br />{{small|1}}
-| style="background:#efcfff;"| [[2010 Italian Grand Prix|ITA]]<br />{{small|Ret}}
-| style="background:#efcfff;"| [[2010 Singapore Grand Prix|SIN]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2010 Italian Grand Prix|ITA]]<br />{{small|terügetrökken}}
+| style="background:#efcfff;"| [[2010 Singapore Grand Prix|SIN]]<br />{{small|terügetrökken}}
 | style="background:#dfffdf;"| [[2010 Japanese Grand Prix|JPN]]<br />{{small|5}}
 | style="background:#dfdfdf;"| [[2010 Korean Grand Prix|KOR]]<br />{{small|2}}
 | style="background:#dfffdf;"| ''[[2010 Brazilian Grand Prix|BRA]]''<br />{{small|4}}
 | style="background:#dfdfdf;"| ''[[2010 Abu Dhabi Grand Prix|ABU]]''<br />{{small|2}}
 |
 |
-! 4th
+! 4des
 ! 240
 |-
-| {{F1|2011}}
+| [[Formule Eyn Werldkampioonskap van 2011|2011]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-26|MP4-26]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Y 2.4 [[V8 engine|V8]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Y 2.4 [[V8-motor|V8]]
 | style="background:#dfdfdf;"|[[2011 Australian Grand Prix|AUS]]<br />{{small|2}}
 | style="background:#dfffdf;"| [[2011 Malaysian Grand Prix|MAL]]<br />{{small|8}}
 | style="background:#ffffbf;"| [[2011 Chinese Grand Prix|CHN]]<br />{{small|1}}
 | style="background:#dfffdf;"| [[2011 Turkish Grand Prix|TUR]]<br />{{small|4}}
 | style="background:#dfdfdf;"| ''[[2011 Spanish Grand Prix|ESP]]''<br />{{small|2}}
 | style="background:#dfffdf;"| [[2011 Monaco Grand Prix|MON]]<br />{{small|6}}
-| style="background:#efcfff;"| [[2011 Canadian Grand Prix|CAN]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2011 Canadian Grand Prix|CAN]]<br />{{small|terügetrökken}}
 | style="background:#dfffdf;"| [[2011 European Grand Prix|EUR]]<br />{{small|4}}
 | style="background:#dfffdf;"| [[2011 British Grand Prix|GBR]]<br />{{small|4}}
 | style="background:#ffffbf;"| ''[[2011 German Grand Prix|GER]]''<br />{{small|1}}
 | style="background:#dfffdf;"| [[2011 Hungarian Grand Prix|HUN]]<br />{{small|4}}
-| style="background:#efcfff;"| [[2011 Belgian Grand Prix|BEL]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2011 Belgian Grand Prix|BEL]]<br />{{small|terügetrökken}}
 | style="background:#dfffdf;"| ''[[2011 Italian Grand Prix|ITA]]''<br />{{small|4}}
 | style="background:#dfffdf;"| [[2011 Singapore Grand Prix|SIN]]<br />{{small|5}}
 | style="background:#dfffdf;"| [[2011 Japanese Grand Prix|JPN]]<br />{{small|5}}
 | style="background:#dfdfdf;"| '''[[2011 Korean Grand Prix|KOR]]'''<br />{{small|2}}
 | style="background:#dfffdf;"| [[2011 Indian Grand Prix|IND]]<br />{{small|7}}
 | style="background:#ffffbf;"| [[2011 Abu Dhabi Grand Prix|ABU]]<br />{{small|1}}
-| style="background:#efcfff;"| [[2011 Brazilian Grand Prix|BRA]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2011 Brazilian Grand Prix|BRA]]<br />{{small|terügetrökken}}
 |
 |
-! 5th
+! 5des
 ! 227
 |-
-| {{F1|2012}}
+| [[Formule Eyn Werldkampioonskap van 2012|2012]]
 ! [[McLaren|Vodafone McLaren Mercedes]]
 ! [[McLaren]] [[McLaren MP4-27|MP4-27]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Z 2.4 [[V8 engine|V8]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108Z 2.4 [[V8-motor|V8]]
 | style="background:#ffdf9f;"| '''[[2012 Australian Grand Prix|AUS]]'''<br />{{small|3}}
 | style="background:#ffdf9f;"| '''[[2012 Malaysian Grand Prix|MAL]]'''<br />{{small|3}}
 | style="background:#ffdf9f;"| [[2012 Chinese Grand Prix|CHN]]<br />{{small|3}}
@@ -974,25 +973,25 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#ffffbf;"| [[2012 Canadian Grand Prix|CAN]]<br />{{small|1}}
 | style="background:#cfcfff;"| [[2012 European Grand Prix|EUR]]<br />{{small|19{{sup|†}}}}
 | style="background:#dfffdf;"| [[2012 British Grand Prix|GBR]]<br />{{small|8}}
-| style="background:#efcfff;"| [[2012 German Grand Prix|GER]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2012 German Grand Prix|GER]]<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| '''[[2012 Hungarian Grand Prix|HUN]]'''<br />{{small|1}}
-| style="background:#efcfff;"| [[2012 Belgian Grand Prix|BEL]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2012 Belgian Grand Prix|BEL]]<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| '''[[2012 Italian Grand Prix|ITA]]'''<br />{{small|1}}
-| style="background:#efcfff;"| '''[[2012 Singapore Grand Prix|SIN]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2012 Singapore Grand Prix|SIN]]'''<br />{{small|terügetrökken}}
 | style="background:#dfffdf;"|  [[2012 Japanese Grand Prix|JPN]]<br />{{small|5}}
 | style="background:#dfffdf;"| [[2012 Korean Grand Prix|KOR]]<br />{{small|10}}
 | style="background:#dfffdf;"| [[2012 Indian Grand Prix|IND]]<br />{{small|4}}
-| style="background:#efcfff;"| '''[[2012 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2012 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| [[2012 United States Grand Prix|USA]]<br />{{small|1}}
-| style="background:#efcfff;"| '''''[[2012 Brazilian Grand Prix|BRA]]'''''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''''[[2012 Brazilian Grand Prix|BRA]]'''''<br />{{small|terügetrökken}}
 |
-! 4th
+! 4des
 ! 190
 |-
-| {{F1|2013}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas F1 Team]]
-! [[Mercedes-Benz in Formula One|Mercedes]] [[Mercedes F1 W04|F1 W04]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108F 2.4 [[V8 engine|V8]]
+| [[Formule Eyn Werldkampioonskap van 2013|2013]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas F1 Team]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes]] [[Mercedes F1 W04|F1 W04]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] FO 108F 2.4 [[V8-motor|V8]]
 | style="background:#dfffdf;"| [[2013 Australian Grand Prix|AUS]]<br />{{small|5}}
 | style="background:#ffdf9f;"| [[2013 Malaysian Grand Prix|MAL]]<br />{{small|3}}
 | style="background:#ffdf9f;"| '''[[2013 Chinese Grand Prix|CHN]]'''<br />{{small|3}}
@@ -1007,32 +1006,32 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfffdf;"| ''[[2013 Italian Grand Prix|ITA]]''<br />{{small|9}}
 | style="background:#dfffdf;"| [[2013 Singapore Grand Prix|SIN]]<br />{{small|5}}
 | style="background:#dfffdf;"| [[2013 Korean Grand Prix|KOR]]<br />{{small|5}}
-| style="background:#efcfff;"| [[2013 Japanese Grand Prix|JPN]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2013 Japanese Grand Prix|JPN]]<br />{{small|terügetrökken}}
 | style="background:#dfffdf;"| [[2013 Indian Grand Prix|IND]]<br />{{small|6}}
 | style="background:#dfffdf;"| [[2013 Abu Dhabi Grand Prix|ABU]]<br />{{small|7}}
 | style="background:#dfffdf;"| [[2013 United States Grand Prix|USA]]<br />{{small|4}}
 | style="background:#dfffdf;"| [[2013 Brazilian Grand Prix|BRA]]<br />{{small|9}}
 |
 |
-! 4th
+! 4des
 ! 189
 |-
-| {{F1|2014}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas F1 Team]]
-! [[Mercedes-Benz in Formula One|Mercedes]] [[Mercedes F1 W05 Hybrid|F1 W05 Hybrid]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106A Hybrid 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
-| style="background:#efcfff;"| '''[[2014 Australian Grand Prix|AUS]]'''<br />{{small|Ret}}
+| [[Formule Eyn Werldkampioonskap van 2014|2014]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas F1 Team]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes]] [[Mercedes F1 W05 Hybrid|F1 W05 Hybrid]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106A Hybrid 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
+| style="background:#efcfff;"| '''[[2014 Australian Grand Prix|AUS]]'''<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| '''''[[2014 Malaysian Grand Prix|MAL]]'''''<br />{{small|1}}
 | style="background:#ffffbf;"|  [[2014 Bahrain Grand Prix|BHR]]<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2014 Chinese Grand Prix|CHN]]'''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2014 Spanish Grand Prix|ESP]]'''<br />{{small|1}}
 | style="background:#dfdfdf;"| [[2014 Monaco Grand Prix|MON]]<br />{{small|2}}
-| style="background:#efcfff;"| [[2014 Canadian Grand Prix|CAN]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2014 Canadian Grand Prix|CAN]]<br />{{small|terügetrökken}}
 | style="background:#dfdfdf;"| [[2014 Austrian Grand Prix|AUT]]<br />{{small|2}}
 | style="background:#ffffbf;"| ''[[2014 British Grand Prix|GBR]]''<br />{{small|1}}
 | style="background:#ffdf9f;"| ''[[2014 German Grand Prix|GER]]''<br />{{small|3}}
 | style="background:#ffdf9f;"| [[2014 Hungarian Grand Prix|HUN]]<br />{{small|3}}
-| style="background:#efcfff;"| [[2014 Belgian Grand Prix|BEL]]<br />{{small|Ret}}
+| style="background:#efcfff;"| [[2014 Belgian Grand Prix|BEL]]<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| '''''[[2014 Italian Grand Prix|ITA]]'''''<br />{{small|1}}
 | style="background:#ffffbf;"| '''''[[2014 Singapore Grand Prix|SIN]]'''''<br />{{small|1}}
 | style="background:#ffffbf;"| ''[[2014 Japanese Grand Prix|JPN]]''<br />{{small|1}}
@@ -1042,13 +1041,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#ffffbf;"| [[2014 Abu Dhabi Grand Prix|ABU]]<br />{{small|1}}
 |
 |
-! style="background:#ffffbf;"| 1st
+! style="background:#ffffbf;"| 1stes
 ! style="background:#ffffbf;"| 384
 |-
-| {{F1|2015}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas F1 Team]]
-! [[Mercedes-Benz in Formula One|Mercedes]] [[Mercedes F1 W06 Hybrid|F1 W06 Hybrid]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106B Hybrid 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
+| [[Formule Eyn Werldkampioonskap van 2015|2015]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas F1 Team]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes]] [[Mercedes F1 W06 Hybrid|F1 W06 Hybrid]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106B Hybrid 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
 | style="background:#ffffbf;"| '''''[[2015 Australian Grand Prix|AUS]]'''''<br />{{small|1}}
 | style="background:#dfdfdf;"| '''[[2015 Malaysian Grand Prix|MAL]]'''<br />{{small|2}}
 | style="background:#ffffbf;"| '''''[[2015 Chinese Grand Prix|CHN]]'''''<br />{{small|1}}
@@ -1070,18 +1069,18 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfdfdf;"| ''[[2015 Abu Dhabi Grand Prix|ABU]]''<br />{{small|2}}
 |
 |
-! style="background:#ffffbf;"| 1st
+! style="background:#ffffbf;"| 1stes
 ! style="background:#ffffbf;"| 381
 |-
-| {{F1|2016}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas F1 Team]]
-! [[Mercedes-Benz in Formula One|Mercedes]] [[Mercedes F1 W07 Hybrid|F1 W07 Hybrid]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106C Hybrid 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
+| [[Formule Eyn Werldkampioonskap van 2016|2016]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas F1 Team]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes]] [[Mercedes F1 W07 Hybrid|F1 W07 Hybrid]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] PU106C Hybrid 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
 | style="background:#dfdfdf;"| '''[[2016 Australian Grand Prix|AUS]]'''<br />{{small|2}}
 | style="background:#ffdf9f;"| '''[[2016 Bahrain Grand Prix|BHR]]'''<br />{{small|3}}
 | style="background:#dfffdf;"| [[2016 Chinese Grand Prix|CHN]]<br />{{small|7}}
 | style="background:#dfdfdf;"| [[2016 Russian Grand Prix|RUS]]<br />{{small|2}}
-| style="background:#efcfff;"| '''[[2016 Spanish Grand Prix|ESP]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2016 Spanish Grand Prix|ESP]]'''<br />{{small|terügetrökken}}
 | style="background:#ffffbf;"| ''[[2016 Monaco Grand Prix|MON]]''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2016 Canadian Grand Prix|CAN]]'''<br />{{small|1}}
 | style="background:#dfffdf;"| [[2016 European Grand Prix|EUR]]<br />{{small|5}}
@@ -1092,19 +1091,19 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#ffdf9f;"| ''[[2016 Belgian Grand Prix|BEL]]''<br />{{small|3}}
 | style="background:#dfdfdf;"| '''[[2016 Italian Grand Prix|ITA]]'''<br />{{small|2}}
 | style="background:#ffdf9f;"| [[2016 Singapore Grand Prix|SIN]]<br />{{small|3}}
-| style="background:#efcfff;"| '''[[2016 Malaysian Grand Prix|MAL]]'''<br />{{small|Ret}}
+| style="background:#efcfff;"| '''[[2016 Malaysian Grand Prix|MAL]]'''<br />{{small|terügetrökken}}
 | style="background:#ffdf9f;"| [[2016 Japanese Grand Prix|JPN]]<br />{{small|3}}
 | style="background:#ffffbf;"| '''[[2016 United States Grand Prix|USA]]'''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2016 Mexican Grand Prix|MEX]]'''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2016 Brazilian Grand Prix|BRA]]'''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2016 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|1}}
-! style="background:#dfdfdf;"| 2nd
+! style="background:#dfdfdf;"| 2des
 ! style="background:#dfdfdf;"| 380
 |-
-| {{F1|2017}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas Motorsport]]
-! [[Mercedes-Benz in Formula One|Mercedes AMG]] [[Mercedes AMG F1 W08 EQ Power+|F1 W08 EQ Power+]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] M08 EQ Power+ 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
+| [[Formule Eyn Werldkampioonskap van 2017|2017]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas Motorsport]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG]] [[Mercedes AMG F1 W08 EQ Power+|F1 W08 EQ Power+]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] M08 EQ Power+ 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
 | style="background:#dfdfdf;"| '''[[2017 Australian Grand Prix|AUS]]'''<br />{{small|2}}
 | style="background:#ffffbf;"| '''''[[2017 Chinese Grand Prix|CHN]]'''''<br>{{small|1}}
 | style="background:#dfdfdf;"| ''[[2017 Bahrain Grand Prix|BHR]]''<br>{{small|2}}
@@ -1126,13 +1125,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfffdf;"| [[2017 Brazilian Grand Prix|BRA]]<br>{{small|4}}
 | style="background:#dfdfdf;"| [[2017 Abu Dhabi Grand Prix|ABU]]<br>{{small|2}}
 |
-! style="background:#ffffbf;"| 1st
+! style="background:#ffffbf;"| 1stes
 ! style="background:#ffffbf;"| 363
 |-
-| {{F1|2018}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas Motorsport]]
-! [[Mercedes-Benz in Formula One|Mercedes AMG]] [[Mercedes AMG F1 W09 EQ Power+|F1 W09 EQ Power+]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] M09 EQ Power+ 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
+| [[Formule Eyn Werldkampioonskap van 2018|2018]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas Motorsport]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG]] [[Mercedes AMG F1 W09 EQ Power+|F1 W09 EQ Power+]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] M09 EQ Power+ 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
 | style="background:#dfdfdf;"| '''[[2018 Australian Grand Prix|AUS]]'''<br />{{small|2}}
 | style="background:#ffdf9f;"| [[2018 Bahrain Grand Prix|BHR]]<br />{{small|3}}
 | style="background:#dfffdf;"| [[2018 Chinese Grand Prix|CHN]]<br />{{small|4}}
@@ -1154,13 +1153,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfffdf;"| [[2018 Mexican Grand Prix|MEX]]<br />{{small|4}}
 | style="background:#ffffbf;"| '''[[2018 Brazilian Grand Prix|BRA]]'''<br />{{small|1}}
 | style="background:#ffffbf;"| '''[[2018 Abu Dhabi Grand Prix|ABU]]'''<br />{{small|1}}
-! style="background:#ffffbf;"| 1st
+! style="background:#ffffbf;"| 1stes
 ! style="background:#ffffbf;"| 408
 |-
-| {{F1|2019}}
-! [[Mercedes-Benz in Formula One|Mercedes AMG Petronas Motorsport]]
-! [[Mercedes-Benz in Formula One|Mercedes AMG]] [[Mercedes AMG F1 W10 EQ Power+|F1 W10 EQ Power+]]
-! [[Mercedes AMG High Performance Powertrains|Mercedes]] M10 EQ Power+ 1.6 [[V6 engine|V6]] [[Turbocharger|t]]
+| [[Formule Eyn Werldkampioonskap van 2019|2019]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG Petronas Motorsport]]
+! [[Mercedes-Benz in de Formule Eyn|Mercedes AMG]] [[Mercedes AMG F1 W10 EQ Power+|F1 W10 EQ Power+]]
+! [[Mercedes AMG High Performance Powertrains|Mercedes]] M10 EQ Power+ 1.6 [[V6-motor|V6]] [[Turbocharger|t]]
 | style="background:#dfdfdf;"| '''[[2019 Australian Grand Prix|AUS]]'''<br />{{small|2}}
 | style="background:#ffffbf;"| [[2019 Bahrain Grand Prix|BHR]]<br />{{small|1}}
 | style="background:#ffffbf;"| [[2019 Chinese Grand Prix|CHN]]<br />{{small|1}}
@@ -1182,15 +1181,13 @@ Hamilton gebrukeden nen goldekleureden helm by den Grouten Prys van Abu Dhabi va
 | style="background:#dfdfdf;"| [[2019 United States Grand Prix|USA]]<br />{{small|2}}
 | style="background:#dfffdf;"|  [[2019 Brazilian Grand Prix|BRA]]<br>{{small|7}}
 | style="background:#ffffbf;"|  '''''[[2019 Abu Dhabi Grand Prix|ABU]]'''''<br />{{small|1}}
-| style="background:#ffffbf;"| '''1st'''
+| style="background:#ffffbf;"| '''1stes'''
 | style="background:#ffffbf;"| '''413'''
 |-
-!colspan="27"|{{center|{{small|Source:<ref>{{cite web|url=https://www.statsf1.com/en/lewis-hamilton/grand-prix.aspx|title=Lewis Hamilton – Grand Prix started|work=statsf1.com|accessdate=22 September 2019}}</ref>}}}}
 |}
-<nowiki>*</nowiki> Season still in progress.<br />
-{{smallsup|†}} Did not finish, but was classified as he had completed more than 90% of the race distance.<br />
-{{smallsup|‡}} Half points awarded as less than 75% of race distance was completed.
--->
+<nowiki>*</nowiki> Seisoon nog beasig.<br />
+{{smallsup|†}} Finishede neet, mår wyr eklassificered ümdat hy meyr as 90% van de raceavstand vulbracht.<br />
+{{smallsup|‡}} Halve pünten tooekenned ümdat minder as 75% van de raceavstand was vulbrachted.
 
 ==Eyrbetönen en prestatys==
 ===Team===
