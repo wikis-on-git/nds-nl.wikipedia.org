@@ -70,34 +70,8 @@ Ofbeelding:Zwolle mure.jpg|Stadsmure en toren
 == Referensies ==
 <references />
 
-{{Nav
-|titel = Wieken, buurten en bedrieventerreinen in Zwolle
-|ofb_links = [[ofbeelding:Flag Overijssel.svg|35px]]
-|ofb_rechts = [[ofbeelding:Coat_of_arms_of_Zwolle.svg|35px]]
-|inhold = 
-{{Nav/Tabel
-| R1C1 = '''Wieken''':
-| R1C2 = [[Aa-landen]] · [[Assendörp]] · [[Barkum (wiek)|Bärkum]] · [[Binnenstad]] · [[Diezerpoorte]] · [[Hanzeland|Anzeland]] · [[Holtenbroek|Oltenbroek]] · [[Ittersum]] · [[Kamperpoorte-Veerallee]] · [[Märsweteringlanden]] · [[Poorte van Zwolle]] · [[Schelle|Skelle]] · [[Soestweateringlanden]] · [[Stadsägen]] · [[Vechtlanden]] · [[Westen-olte]] · [[Wipstrik]]
-| R2C1 = '''Buurten''':
-| R2C2 = [[Aa-landen-Midden]] · [[Aa-landen-Noord|-Noord]] · [[Aa-landen-Oost|-Oost]] · [[Aa-Landen-Zuud|-Zuud]] · [[Bagieneweide]] · [[Bärkum (buurt)|Bärkum]] · [[Binnenstad-Noord]] · [[Binnenstad-Zuud|-Zuud]] · [[Bollebieste]] · [[Breecamp]] · [[Breezicht]] · [[Brink-oek]] · [[De Tippe]] · [[Dieze-Centrum]] · [[Frank-uus]]
-| R3C1 = '''Bedrieventerreinen''':
-| R3C2 = [[Floresstraote]] · [[Hanzeland|Anzeland]] · [[Hessenpoorte|Essenpoorte]] · [[Märslanden]] ([[Märslanden-Noord|-Noord]] · [[Märslanden-Zuud|-Zuud]]) · [[Oosterenk]] · [[Voorst (Zwolle)|Voorst]] ([[Voorst-A]] · [[Voorst-B]] · [[Voorst-C]]) · [[Voorsterpoorte]] · [[De Vrolik-eid]]
-}}
-}} <noinclude> </noinclude>
-{{Nav
-|titel = Pläätsen en buurtskoppen in de gemiente Zwolle
-|ofb_links = [[ofbeelding:Flag Overijssel.svg|35px]]
-|ofb_rechts = [[ofbeelding:Flag_of_Zwolle.svg|35px]]
-|inhold = 
-{{Nav/Tabel
-| R1C1 = '''Stad''':
-| R1C2 = 
-| R2C1 = '''Buurtskoppen''':
-| R2C2 = 
-| R3C1 = '''Veurmälige gemiente''':
-| R3C2 = [[Zwollerkärspel]]
-}}
-}} <noinclude> </noinclude>
+{{mal:Zwolle}}
+{{mal:Zwolle buurtschoppen}}
 {{Oaveriessel}}
 {{Begin|sdz}}
 {{Dialekt|sdz|Zwolle|Algemene Nedersaksiese Schriefwieze}}
