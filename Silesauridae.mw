@@ -8,6 +8,38 @@ De Silesauridae is een [[zustergroep]] van de [[Dinosaurussen]]. De groep hef zi
 
 De evunden [[Fossiel|fossielen]] bint zo'n 203 töt 245 miljoen jaor old en komt uut het [[Trias]] ([[Norien]] en [[Anisien]]).<ref name=":0" /><ref>Langer, M.C.; Ezcurra, M.D.; Bittencourt, J.S.; Novas, F.E. (2010). "The origin and early evolution of dinosaurs". ''Biological Reviews''. '''85''' (1): 55–110. doi:10.1111/j.1469-185X.2009.00094.x. <nowiki>PMID 19895605</nowiki>.</ref> Hieronder ku-j de [[cladogram]] zien van de ''Silesauridae''. De cladogram is baseerd up de volgende studies: Christian Kammerer, Sterling Nesbitt en Neil Shubin (2012) met clade terminologie van Cau (2018) en Martz en Small (2019).<ref name=":1" /><ref>Andrea Cau (2018). "The assembly of the avian body plan: a 160-million-year long process" (PDF). ''Bollettino della Società Paleontologica Italiana''. '''57''' (1): 1–25. doi:10.4435/BSPI.2018.01.</ref><ref>Martz, J.W.; Small, B.J. (2019). "Non-dinosaurian dinosauromorphs from the Chinle Formation (Upper Triassic) of the Eagle Basin, northern Colorado: ''Dromomeron romeri'' (Lagerpetidae) and a new taxon, ''Kwanasaurus williamparkeri'' (Silesauridae)". ''PeerJ''. '''7''': e7551. doi:10.7717/peerj.7551. PMC 6730537. <nowiki>PMID 31534843</nowiki>.</ref>
 
+{{clade| style=font-size:100%;line-height:100%
+|label1=[[Ornithodira]]&nbsp;
+|1={{Clade
+   |1=[[Pterosauria]]
+   |label2=&nbsp;[[Dinosauromorpha]]&nbsp;
+   |2={{Clade
+      |label1=&nbsp;[[Lagerpetonidae]]&nbsp;
+      |1={{Clade
+         |1=''[[Lagerpeton chanarensis]]''
+         |2={{Clade
+            |1=''[[Dromomeron gregorii]]''
+            |2=''[[Dromomeron romeri]]'' }} }}
+      |label2=&nbsp;[[Dinosauriformes]]&nbsp;
+      |2={{Clade
+         |1=''[[Marasuchus lilloensis]]''
+         |label2=[[Dracohors]]
+         |2={{Clade
+            |1='''[[Dinosauria]]'''
+            |label2=&nbsp;'''Silesauridae'''&nbsp;
+            |2={{clade
+               |1=''[[Lewisuchus]]''/''[[Pseudolagosuchus]]''
+               |2={{clade
+                  |1=''[[Asilisaurus kongwe]]''
+                  |label2='''Sulcimentisauria'''
+                  |2={{clade
+                     |1=''[[Eucoelophysis baldwini]]''
+                     |2={{clade
+                        |1=''[[Silesaurus opolensis]]''
+                        |2={{clade
+                           |1=''[[Sacisaurus agudoensis]]''
+                           |2=''[[Diodorus scytobrachion]]'' }} }} }} }} }} }} }} }} }} }}
+
 == Verwiezings ==
 <references/>
 
