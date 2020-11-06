@@ -25,7 +25,7 @@ webstie = [http://www.gemeentebeek.nl/ www.gemeentebeek.nl] |
 [[Ofbeelding:Inwoneraantal Roermond 1998 2008.png|thumb|left|Bevolkingsuntwekkeling gemeente Roermond in et tiedvak 1998-2008. Mark op dat vanof 1-1-2007 de gemeente [[Swalmen]] bi-j Roermond eveugd wodden.]]
 In beide tabellen ku-j et gevolg van de samenveuging van Roermond en Swalmen vanof 1 januari 2007 dudelek zeen.
 
-{| class="prettytable" style="float:left; margin-right:2em;"
+{| class="wikitable" style="float:left; margin-right:2em;"
 |-
 ! !! [[2006]] !! [[2007]]
 |-
@@ -50,7 +50,7 @@ In beide tabellen ku-j et gevolg van de samenveuging van Roermond en Swalmen van
 | colspan=10 align=center| <small>* Swalmen neet bi-j Roermond<br />[http://statline.cbs.nl/StatWeb/table.asp?TT=2&LA=nl&DM=SLNL&PA=70904ned&D1=9&D2=11865-11897,15619-15626&D3=a,!0-2 CBS 2006 en 2007]
 |}
 
-{| class="prettytable" style="float:left; margin-right:2em;"
+{| class="wikitable" style="float:left; margin-right:2em;"
 |-
 ! Joar !!  Inwonnerantal ||Greuj/ofname 
 |-
