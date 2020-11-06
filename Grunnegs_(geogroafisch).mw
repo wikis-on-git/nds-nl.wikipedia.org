@@ -55,7 +55,7 @@
 
 == Fraislaand ==
 === Plaknoamen ===
-{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+{| class="wikitable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" |Grunnegs
 ! style="background-color:#abcdef" |Frais
 ! style="background-color:#abcdef" |Nederlaands
@@ -180,7 +180,7 @@
 
 == t Drìnt ==
 === Plaknoamen ===
-{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+{| class="wikitable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" |Grunnegs
 ! style="background-color:#abcdef" |Nederlaands
 |-
@@ -244,7 +244,7 @@
 
 == Overg Nederlaand ==
 === Plaknoamen ===
-{| class="prettytable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
+{| class="wikitable" rules="all" cellpadding="2" width="40%" style="border: 1px solid #999"
 ! style="background-color:#abcdef" |Pervìnzie Grunnegs
 ! style="background-color:#abcdef" |Pervìnzie Nederlaands
 ! style="background-color:#abcdef" |Plak Grunnegs
@@ -353,7 +353,7 @@
 
 == Scheldwoorden ==
 {| width="70%" style="margin: 0em 0em;"
-|'''Scheldwoord'''||'''Scheldwoord veur inwoner van'''
+! Scheldwoord||Scheldwoord veur inwoner van
 |-
 |Damster bluvvers||Appingedam
 |-
@@ -384,7 +384,7 @@
 t Bievouglieks noamwoord ''poepen'' ken binoa aachter elke volksnoam zet worden om dat volk te beledegen. Mit ''poepen'' zönder wat der veur worden Duutsers aanduud. Duutslaand wordt den ook wel ais Poepenlaand nuimd. Veurbeelden:
 
 {| width="60%" style="margin: 0em 0em;"
-|'''Scheldwoord'''||'''Scheldwoord tegen'''
+! Scheldwoord||Scheldwoord tegen
 |-
 |Reumse poepen||Rooms-Katholieken
 |-
@@ -392,7 +392,7 @@ t Bievouglieks noamwoord ''poepen'' ken binoa aachter elke volksnoam zet worden 
 |-
 |Hollaandse poepen||Nederlanders
 |-
-|[[Grunnegs_(biezundere_woorden)#Duutslaand|(Duutse) Poepen]]||Duitsers
+|[[Grunnegs (biezundere woorden)#Duutslaand|(Duutse) Poepen]]||Duitsers
 |-
 |enz.
 |}
