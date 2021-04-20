@@ -1,23 +1,23 @@
-{{etelazie}}{{Proveensietabel |
-naam = Oaveriessel|
-vlaggeofbeeldn =[[Bestaand:Flag Overijssel.svg|130px|Proveensievlagge]]|
-woapnofbeeldn=[[Bestaand:Overijssel wapen.svg|130px|Proveensiewoapn]]|
-kortweg = Oaveriessel |
-heufdstad = [[Zwolle]]|
-religiejoar = 2006 |
-breedtegroad = 52/31// |
-lengtegroad  = 6/5// |
-region = NL-OV |
-Religie = [[Protestantisme|Protestaantn]] 29%<br />[[Katholicisme|Katteliekn]] 26%<br />[[Islam|Moslims]] 2%<br />Aanders 6% |
-öpprange = 3.420,86 |
-öpp = 3.325,62 |
-wateröpp = 95,24 |
-inwonners = 1.162.500 |
-doatum = jan 2020|
-bevolkingsdichtheid = 350|
-volksleed = [[Overijssels Volkslied|Aan de rand van Hollands gouwen]]|
-ofbeeldn =  Overijssel position.svg|
-Webstea = [http://www.overijssel.nl/ www.overijssel.nl] |
+{{etelazie}}{{Proveensietabel
+| naam = Oaveriessel
+| vlaggeofbeeldn =[[Bestaand:Flag Overijssel.svg|130px|border|Proveensievlagge]]
+| woapnofbeeldn=[[Bestaand:Overijssel wapen.svg|130px|Proveensiewoapn]]
+| kortweg = Oaveriessel
+| heufdstad = [[Zwolle]]
+| religiejoar = 2006
+| breedtegroad = 52/31//
+| lengtegroad  = 6/5//
+| region = NL-OV
+| Religie = [[Protestantisme|Protestaantn]] 29%<br />[[Katholicisme|Katteliekn]] 26%<br />[[Islam|Moslims]] 2%<br />Aanders 6%
+| öpprange = 3.420,86
+| öpp = 3.325,62
+| wateröpp = 95,24
+| inwonners = 1.162.500
+| doatum = jan 2020
+| bevolkingsdichtheid = 350
+| volksleed = [[Overijssels Volkslied|Aan de rand van Hollands gouwen]]
+| ofbeeldn =  Overijssel position.svg
+| Webstea = [http://www.overijssel.nl/ www.overijssel.nl]
 }}
 [[Bestaand:Prov-Overijssel-OpenTopo.jpg|thumb|Oaveriessel]]
 
@@ -51,7 +51,7 @@ Oetslag in Oaveriessel van de verkiezingen voor de Proveensiale Staatn van meert
 {| class="wikitable" style="float:left; margin-right:2em;"
 !colspan="9"|Uitslag Statenverkiezingen 2003-2015
 |-
-||||2003||2003||2007||2007||2011||2011||2015||2015
+| ||2003||2003||2007||2007||2011||2011||2015||2015
 |-
 |'''Partij'''||'''Stemmen in %'''||'''Zetels'''||'''Stemmen in %'''||'''Zetels'''||'''Stemmen in %'''||'''Zetels'''||'''Stemmen in %'''||'''Zetels'''
 |-
@@ -81,7 +81,7 @@ Oetslag in Oaveriessel van de verkiezingen voor de Proveensiale Staatn van meert
 |-
 |''Opkomst''||ALIGN="right"|''51,7''||ALIGN="right"|''63''||ALIGN="right"|''49,9''||ALIGN="right"|''47''||ALIGN="right"|''57,7''||ALIGN="right"|''47''||ALIGN="right"|''49,8''||ALIGN="right"|''47''
 |-
-|}{{clear}}
+|}
 
 === Gedeputeerde Staatn ===
 t Dagelikse bestuur is t kollege van Gedeputeerde Staatn. De proveensie Oaveriessel hef 5 gedeputeerdn. De regering van t laand hef [[Andries Heidema]] ([[CU]]) as [[Commisaris van de Koningin|Kommissoaris van de Könning]] ansteld.
@@ -124,7 +124,7 @@ Noa de gemeantelike herindeling van 1 januari 2001 is t getal an gemeantes ofnö
 <li> [[Tweanteraand]] (''Twenterand'')
 <li> [[Wierdn]] (''Wierden'')
 <li> [[Zwärtewäterlaand|Zwartewaterlaand]] (''Zwartewaterland'')
-<li> [[Zwolle]]
+<li> [[Zwolle]]</ol>
 |}
 
 == Radio, tilvisie en drukweark ==
