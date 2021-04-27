@@ -1,23 +1,23 @@
-{{Provinzietabel |
-noam = Limburg|
-vlageofbeelden = [[Ofbeelding:Flag of Limburg.svg|150px|Vlagge van Limburg]] |
-woapenofbeelden = [[Ofbeelding:Limburg-nl-wapen.svg|110px|Waopen van Limburg]] |
-körtnoam = Limburg |
-heufdstad = [[Maastricht]] |
-religiejoar = 1999 |
-breedtegroad = 51/15// |
-lengtegroad = 5/55// |
-region = NL-LI |
-religie = [[Protestantisme|Protestants]] 3%<br />[[Katholicisme|Katholiek]] 80% |
-opprange = 2.209,22 |
-opp = 2.150,87 |
-woateropp = 58,35 |
-inwoners = 1.117.164 |
-doatum = jan 2020 |
-bevolkensdichtte = 519 |
-volkslaid = [[Limburg mijn Vaderland]] |
-ofbeelden = Limburg-Position.png |
-webstee = [http://www.limburg.nl/ www.limburg.nl] |
+{{Provinzietabel
+| noam = Limburg
+| vlageofbeelden = [[Ofbeelding:Flag of Limburg.svg|150px|border|Vlagge van Limburg]] 
+| woapenofbeelden = [[Ofbeelding:Limburg-nl-wapen.svg|110px|Waopen van Limburg]] 
+| körtnoam = Limburg 
+| heufdstad = [[Maastricht]] 
+| religiejoar = 1999 
+| breedtegroad = 51/15// 
+| lengtegroad = 5/55// 
+| region = NL-LI 
+| religie = [[Protestantisme|Protestants]] 3%<br />[[Katholicisme|Katholiek]] 80% 
+| opprange = 2.209,22 
+| opp = 2.150,87 
+| woateropp = 58,35 
+| inwoners = 1.117.164 
+| doatum = jan 2020 
+| bevolkensdichtte = 519 
+| volkslaid = [[Limburg mijn Vaderland]] 
+| ofbeelden = Limburg-Position.png 
+| webstee = [http://www.limburg.nl/ www.limburg.nl] 
 }}
 [[Bestaand:Prov-Limburg-OpenTopo.jpg|thumb|Limburg]]
 
@@ -45,8 +45,7 @@ Limburg bestiet uut 14 plaotsen mit stadsrechten.
 
 == Gemienten ==
 
-{| 
-|-
+{|
 |
 # [[Baek (gemeente)|Baek]] (''Beek'')
 # [[Baekdaelen]] (''Beekdaelen'')
@@ -79,7 +78,7 @@ Limburg bestiet uut 14 plaotsen mit stadsrechten.
 <li> [[Venlo]]
 <li> [[Venray]]
 <li> [[Voerendaal]]
-<li> [[Weert (gemeente)|Weert]]
+<li> [[Weert (gemeente)|Weert]]</ol>
 |}
 
 {{Limburg}}
