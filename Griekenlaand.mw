@@ -1,8 +1,7 @@
-{{Laandtabel-stl |
-| naemeinlaanstael = Ελληνική Δημοκρατία<br />
-Elliniki Demokratia
+{{Laandtabel-stl
+| naemeinlaanstael = Ελληνική Δημοκρατία<br />Elliniki Demokratia
 | vlagge = [[Bestaand:Flag of Greece.svg|125px|Vlagge van Griekenlaand]]
-| waopen = [[Bestaand:Coat_of_arms_of_Greece.svg|90px|Waopen van Griekenlaand]]
+| waopen = [[Bestaand:Coat of arms of Greece.svg|90px|Waopen van Griekenlaand]]
 | lekaosie = LocationGreece.png
 | breedtegroad=38///N | lengtegroad=23///E | region=GR
 | taelen = [[Grieks]]
@@ -10,7 +9,7 @@ Elliniki Demokratia
 | religie = [[Oosters-Orthodoxe Karke|Orthodox]] 98%
 | regeringsvorm = [[Rippebliek]]
 | km2 = 131.940 | pctwaeter = 0,86%
-| inwoners = 10.6 miljoen (2001) | dichthied = 80,5 
+| inwoners = 10.6 miljoen (2001) | dichthied = 80,5
 | muntienhied = euro| valutakode = EUR
 | tiedzone =  +2
 | volkslied = [[Imnos is tin Eleftherian]]
@@ -55,8 +54,8 @@ De meeste eilaanden wörden groepeerd in [[archipel]]s: de veurnaomste bint de [
 Griekenlaand is onderverdield is 13 regio's (''peripheries''), die weer onderverdield bint in 51 departementen (''nomí''). De departementen bint weer onderverdield in 147 kleinere bestuursgebieden, zogenaomde ''eparchies'', die weer onderverdield bint in in totaol 1033 gemientes: 900 stedelijke gemientes (''demoi'') en 133 laandelijke (''koinotetes'').
 
 De regio's mit heur nomi bint:
-{| 
-| valign=top align=left width=33% |
+{| class="vatop"
+| width=33% |
 * [[Attika]]
 ** [[Athene (departement)|Athene]]
 ** [[Oost-Attika]]
@@ -81,7 +80,7 @@ De regio's mit heur nomi bint:
 ** [[Ioánnina (departement)|Ioannina]]
 ** [[Préveza (departement)|Préveza]]
 ** [[Thesprotía]]
-| valign=top align=left width=34% |
+| width=34% |
 * [[Ionische Eilaanden]]
 ** [[Korfoe (eilaand)|Corfu]]
 ** [[Kefalonia]]
@@ -102,7 +101,7 @@ De regio's mit heur nomi bint:
 ** [[Chios (eilaand)|Chios]]
 ** [[Lesbos (departement)|Lesbos]]
 ** [[Samos (departement)|Samos]]
-| valign=top align=left width=33% |
+| width=33% |
 * [[Peloponnesos (regio)|Peloponnesos]]
 ** [[Arcadia|Arkadië]]
 ** [[Argolida]]
