@@ -13,8 +13,8 @@ In t skema hiereunter stoat de toonn van n diatonies moondörgel. Dr mut epoeset
 
 In het eunterste oktaaf ontbrekt de 1F en de 1A, terwiel at 1G verdubbeld is. Dit oktaaf wördt vuur begeleaidingsakkoordn gebroekt. De aandere beale octaawn beent volledig en good vuur melodie, mear in t daarde oktaaf beent de toonn umme dreaid.
 
-{| class="wikitable"
-|width=80|böawnste riege
+{| class="wikitable" style="text-align:center"
+|width=80 style="text-align:left" | böawnste riege
 |width=15|1C||width=15 bgcolor="yellow"|1D
 |width=15|1E||width=15 bgcolor="yellow"|1G
 |width=15|1G||width=15 bgcolor="yellow"|1B
@@ -26,7 +26,7 @@ In het eunterste oktaaf ontbrekt de 1F en de 1A, terwiel at 1G verdubbeld is. Di
 |width=15|g ||width=15 bgcolor="yellow"|f
 |width=15|c'||width=15 bgcolor="yellow"|a 
 |-
-|eunterste riege
+|style="text-align:left" | eunterste riege
 |width=15|1C||bgcolor="yellow"|1D
 |width=15|1E||bgcolor="yellow"|1G
 |width=15|1G||bgcolor="yellow"|1B
@@ -41,32 +41,32 @@ In het eunterste oktaaf ontbrekt de 1F en de 1A, terwiel at 1G verdubbeld is. Di
 |bgcolor="White" colspan="21"|&nbsp;
 |-
 |&nbsp;
-|colspan="5" style="text-align:center" | C
-|colspan="5" bgcolor="yellow" style="text-align:center" | b dim
-|colspan="5" style="text-align:center" | C
-|colspan="5" bgcolor="yellow" style="text-align:center" | d
+|colspan="5" | C
+|colspan="5" bgcolor="yellow" | b dim
+|colspan="5" | C
+|colspan="5" bgcolor="yellow" | d
 |-
 |colspan="2"|&nbsp;
-|colspan="5" bgcolor="yellow" style="text-align:center" | g dim
-|colspan="5" style="text-align:center" | C
-|colspan="7" bgcolor="yellow" style="text-align:center" | b7b5
+|colspan="5" bgcolor="yellow" | g dim
+|colspan="5" | C
+|colspan="7" bgcolor="yellow" | b7b5
 |colspan="2"|&nbsp;
 |-
 |colspan="3"|&nbsp;
-|colspan="5" style="text-align:center" | C
-|colspan="5" bgcolor="yellow" style="text-align:center" | d
-|colspan="5" style="text-align:center" | C
-|colspan="3" bgcolor="yellow" style="text-align:center" | d
+|colspan="5" | C
+|colspan="5" bgcolor="yellow" | d
+|colspan="5" | C
+|colspan="3" bgcolor="yellow" | d
 |-
 |colspan="4"|&nbsp;
-|colspan="5" bgcolor="yellow" style="text-align:center" | G
-|colspan="5" style="text-align:center" | C
-|colspan="5" bgcolor="yellow" style="text-align:center" | b dim
+|colspan="5" bgcolor="yellow" | G
+|colspan="5" | C
+|colspan="5" bgcolor="yellow" | b dim
 |colspan="2"|&nbsp;
 |-
 |colspan="5"|&nbsp;
-|colspan="5" style="text-align:center" | C
-|colspan="7" bgcolor="yellow" style="text-align:center" | b7b5
+|colspan="5" | C
+|colspan="7" bgcolor="yellow" | b7b5
 |colspan="4"|&nbsp;
 |}
 
