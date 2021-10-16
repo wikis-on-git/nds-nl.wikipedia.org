@@ -1,4 +1,5 @@
-Ne '''''webkroeper''''' (ok wal ''webspinne'' e-noemd) is 'n [[computerprogramma]] dat 't [[wealtwiede web]] op ne logische wieze doorbladert, as een soort [[robot]]. ''Kroepers'' maakt meestieds ne lokale kopie van de gevonden webzieden um disse later te können verwarken en indexeren veur bi-jveurbeeld [[zeukmachine]]s.
+[[Ofbeelding:WebCrawlerArchitecture.svg|thumb|300px|Architectuur van ne webkroeper]]
+Ne '''webkroeper''' (ok wal ''webspinne'' e-noemd) is 'n [[computerprogramma]] dat 't [[wealtwiede web]] op ne logische wieze doorbladert, as een soort [[robot]]. ''Kroepers'' maakt meestieds ne lokale kopie van de gevonden webzieden um disse later te können verwarken en indexeren veur bi-jveurbeeld [[zeukmachine]]s.
 
 De wieze woarop ze warkt is simpel: den kroeper begunt met ne lieste met [[Uniform Resource Locator|URL]]'s (oaver 't algemeen internet adressen) en bezöch disse ene veur ene, woarbi-j alle [[hyperlink]]s die in de bezochte zieden veurkomt aan de lieste van te bezeuken URL's too wodt eveugd. Op disse wieze kan 'n kroeper hoast alle openboare zieden op het internet langsgoan. Vake komt spiders met nen zekeren regelmoat langs om euren index actueel te hollen.
 
