@@ -3,7 +3,7 @@
 
 Kryptogeld is neet vaste te pakken (sou as breev- of müntgeld) en wördt döärgåns neet döär ne [[centrale oaverheid]] uutegeaven. Kenmark van kryptogeld is dat et decentraliseerd beheyrd wördt, in teagenstelling töt digitaal bankgeld (CBDC). As eynen uutgeaver ne kryptomünte maakt, wördt et as centraliseerd eseen. As et decentraliseerd is, warket et döär verspreide bookholdingstechnology oaver meyrdere komputers oaver de wearld, meysttyds nen ''[[blockchain]]'' enöömd. Dat warket as de databanke vöär waerdeoaverdracht.
 
-[[Bitcoin]] is de eyrste neet-centraal eleide kryptomünte. Seyd de start van bitcoin sint der nen heylen houp nye kryptomünten by eköämen.
+[[Bitcoin]] is de eyrste neet-centraal eleide kryptomünte. Seyd de start van bitcoin sint der nen heylen houp nye kryptomünten by ekümmen.
 
 == Geskedenisse ==
 In 1983 versün den amerikaansken kryptograaf David Chaum ne anonymiseerde kryptografiske münte wat hee ecash nöömden. Later, in 1995, makeden hee der officieel wark van döÄr Digicash, nen vrogen form van verslöätelde elektroniske betalingen, wårby software nöydig was üm bankbreevkes by ne banke up te halen en nen kryptoslöätel üm et an nen untvanger te stüren. Hyrmed kunde et digitale geld neet traceerd worden döär de uutgeavende banke, regeyring of wat vöär partye ouk.
@@ -47,11 +47,24 @@ In mei 2018 warren der 1800 kryptomünten. Et prove van warking-systeem sou as B
 
 De meyste kryptomünten sint sou inerichted dat et bymaken van eynheiden händigan minder wördt, wårmed der en dak is vöär wovöäle eynheiden der ooit in ümloup sölt weasen. Vergeleaken med traditionäle münten en baargeld is kryptogeld vöäle lastiger in beslag te neamen döär wetgeavers.
 
-=== '''Blockchain''' ===
+=== Blockchain ===
 De geldigheid van kryptogeld hangt af van nen ''blockchain''. Nen blockchain is ne voordan groiende lyste van uutwesselingen, dee ''blocks'' ("blükke") nöömd wordet. Dee hanget as ne keatene samen, verslöäteld med kryptografy. Yder bluk hevt nen hashwyser når en vöärgånd bluk, ne tydsmarkering en oaverdrachtsinformaty. Blockchains sint sou emaked dat der neet med eknoid kan worden. Et is ne "vry togangelike, verspreide bookholding wårmed up efficiente wyse oaverdrachten vastelegd wordet tüsken twey partyen, up någånbåre en neetveranderlike wyse." Nen blockchain wördt döärgåns beheyrd döär en netwark van gelyke beheyrders dee sik holdet an en vast protokol vöär et valideren van nye blükke. As de oaverdrachtsinformaty eynmål vaste ligt, kan et achteraf neet meyr veranderd worden sunder dat alle dårupvolgende blükke last van hebbet. De meyrderheid van de deylneamers müt med sou ne verandering med instemmen.
 
 Veiligheid sit ja by blockchains inbouwd. Se sint en vöärbeald van en verspreid warkend bereakeningssysteem med houge byzantynske fautverdraeging. Dårmed is et vullleydig decentraal.
 
+=== Nodes ===
+By kryptogeld is ne ''node'' nen komputer den as aneslöäten is by en netwark vöär kryptogeld. Nodes holdet et netwark draiende döär verskillende taken te doon; oaverdrachten döärgeaven, goodköären of en kopy van de blockchain harbargen. Yderen komputer hevt en kopy van de bookholding. As der oaver eynen komputer ne betaling edån wördt, sendet den dår verslöätelde informaty oaver når alle andere nodes in et netwark. Dårmed wördt up alle aneslöätene komputers de bookholding byewarked en den oaverdracht byeskreaven.
+
+Nodes sint vake van vrywilligers. Mangs kryget dee der en percentage geld vöär dat se öären komputer dervöär leynet. Mangs sint nodes ouk van de beheyrende organisaty achter ne kryptomünte.
+
+=== Timestamping ===
+De echtheid van ne kryptomünte wördt med verskillende wysen van tydmarkeren beweysen. Dee tydpünten wordet dan in de blockchainbookholding byeskreaven sunder tüskenkumst van ne darde partye. 
+
+Et eyrste tydmarkeringsstelsel in gebruuk was et prove-van-warking-stelsel, en ingewikkeld algoritme dat elektroniske gelduutwesseling nåkikt. Et algoritme is meysttyds baseerd up de SHA-256 en scrypt. Vöärbealde van andere hashing-algoritmes vöär prove-van-warking sint CryptoNight, Blake, SHA-3 en X11.
+
+Dan gevt et ouk noch de beveiligingsmetode prove-van-besit. Dårmed muttet gebrukers bewysen dat se en wis andeyl kryptogeld besittet.
+
+Ümdat kryptogeld sou decentraliseerd is, wordet disse twey valideringswysen vry nöäst mekander gebruked. Et hangt der mär net vanaf wat den maker van ne münte en good systeem vindt.
 [[Kategorie: Tweants artikel]]
 [[Kategorie: Geld]]
 [[Kategorie: Ekonomie]]
