@@ -46,6 +46,11 @@ Decentraliseerd kryptogeld drait up en heyl kollektiv understütted kryptogeldsy
 In mei 2018 warren der 1800 kryptomünten. Et prove van warking-systeem sou as Bitcoin dat hevt, büdt veiligheid, integriteit en eavenwicht in de bookholding döärdat de ''miners'' mekander neet vertrouwt. Öäre komputers sorget vöär de nöydige goodköäring en tydsmarkering vöär oaverdrachten, en byskryving in de bookholding volgens et geldende tydsmarkeringssysteem. By ne prove-van-andeylblockchain müt oaverdrachten en betalingen goodeköärd worden döär de eygenaren van et kryptogeld, mangs tehoupe dån in andeylgrupen.
 
 De meyste kryptomünten sint sou inerichted dat et bymaken van eynheiden händigan minder wördt, wårmed der en dak is vöär wovöäle eynheiden der ooit in ümloup sölt weasen. Vergeleaken med traditionäle münten en baargeld is kryptogeld vöäle lastiger in beslag te neamen döär wetgeavers.
+
+=== '''Blockchain''' ===
+De geldigheid van kryptogeld hangt af van nen ''blockchain''. Nen blockchain is ne voordan groiende lyste van uutwesselingen, dee ''blocks'' ("blükke") nöömd wordet. Dee hanget as ne keatene samen, verslöäteld med kryptografy. Yder bluk hevt nen hashwyser når en vöärgånd bluk, ne tydsmarkering en oaverdrachtsinformaty. Blockchains sint sou emaked dat der neet med eknoid kan worden. Et is ne "vry togangelike, verspreide bookholding wårmed up efficiente wyse oaverdrachten vastelegd wordet tüsken twey partyen, up någånbåre en neetveranderlike wyse." Nen blockchain wördt döärgåns beheyrd döär en netwark van gelyke beheyrders dee sik holdet an en vast protokol vöär et valideren van nye blükke. As de oaverdrachtsinformaty eynmål vaste ligt, kan et achteraf neet meyr veranderd worden sunder dat alle dårupvolgende blükke last van hebbet. De meyrderheid van de deylneamers müt med sou ne verandering  med instemmen.
+
+Blockchains are secure by design and are an example of a distributed computing system with high Byzantine fault tolerance. Decentralized consensus has therefore been achieved with a blockchain.
 [[Kategorie: Tweants artikel]]
 [[Kategorie: Geld]]
 [[Kategorie: Ekonomie]]
