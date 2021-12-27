@@ -9,10 +9,10 @@
 | provinsy = {{NL-vlag|Limbörg}}
 | börgemeyster = [[Harry Leunessen]]
 | höyvdplåtse = '''[[Vaals (plåtse)|Vaals]]'''
-| lat_deg      = 
-| lat_min      = 
-| lon_deg      = 
-| lon_min      = 
+| lat_deg      = 50
+| lat_min      = 46
+| lon_deg      = 6
+| lon_min      = 1
 | verkeersåder = {{Piktogram weg Neaderland N-weg|278}}, {{Piktogram weg Düütskland B-weg|1}}
 | netnummer = 043
 | CBS=0981
@@ -85,3 +85,4 @@ Vöäle Vaalsenaren vunden in de nåoorlogske periode wark in Aken en umgeving. 
 [[Kategorie:Limburg]]
 [[Kategorie:Neaderlandske gemeynde]]
 {{Dialekt|act}}
+{{Coor title dms|50|46|22|N|6|1|5|E|type:city(10052)_region:NL}}
