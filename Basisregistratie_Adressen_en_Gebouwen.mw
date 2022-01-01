@@ -1,0 +1,41 @@
+De '''Basisregistratie Adressen en Gebouwen''' (BAG) is de nåme vöär ne neaderlandske [[Basisregistratie|basisregistratsy]]. Disse bestund anvankelyk uut twey basisregistratsys, nåmelik de ''Basisregistratie adressen'' (BRA) en de ''Basisgebouwenregistratie'' (BGR), mår döär nen wysigingswet van 24 februari 2017<ref>{{Citeer web|url=https://zoek.officielebekendmakingen.nl/stb-2017-60.html|titel=Wet van 10 februari 2017 töt wysiging van de Wet basisregistraties adressen en gebouwen en eynige andere wetten in verband med modernisering en vereynvoldiging van de registratsy en et tosicht|werk=Staatsblad}}</ref> bünt sy samenevoogd töt eyne.
+
+== Wet basisregistraties adressen en gebouwen ==
+Den [[Eerste Kamer|Eyrsten Kammer]] hevt up 22 januari 2008 de [[Wet basisregistraties adressen en gebouwen]] (Wet BAG) anenömmen.<ref>De Wet is epubliceerd in ''Staatsblad'', nr. 39, 14 februari 2008.</ref> De wet wear up 1 juli 2009 van kracht. De gebruuksplicht van oaverheyden ging up 1 juli 2011 in.
+
+De Wet BAG reagelt dat den [[gemeenteraad|gemeynderåd]] et grundgebeed van de gemeynde indeelt in eyne of meyrdere [[Woonplaats in Nederland|wöänplaats]]en en dat gemeynden en antal basisgegeavens oaver gebowen en adressen byholden in eyn eautomatiseerd systeem. Alle oaverheydsorgånen mottet disse gegeavens verplichted gebruken by de uutufening van höäre publikrechtelike tåken.
+
+== Inhold van de basisregistratsys ==
+[[Bestaand:BAG woonplaatsen - Gemeente Kapelle.png|thumb|BAG-wöänplaatsen - Gemeynde Kapelle]]
+
+De gemeynden mottet gegeavens byholden oaver en antal ''objektklassen'':
+* [[woonplaats|wöänplaatse]]
+* [[oapenbåre ruumte]]: meystal de stråte of et plein, sums de wyk
+* nümmeranduding: meystal gewöän en getal, en in yder geval dan oavereynkommend med et begrip [[huusnümmer]]
+* pand: bowkündige eynheid
+* ligplaatse: plek vöär et permanent afmearen van en vaartuug
+* standplaatse
+* 'verblyfsobjekt': eynheid van gebruuk binnen pand(en).
+Disse begrippen wordet enöömd in artikel 1 van den wet.
+En [[adres (woonplaats)|adres]] is ne kombinatsy van wöänplaatse, 'oapenbåre ruumte' en nümmeranduding. As de 'oapenbåre ruumte' de wyk is, dan bünt der of heylemål ginne stråtnåmen, of der bünt stråtnümmers (neet apart in de BAG) en ne nümmeranduding bestånde uut dat nümmer evolgd döär et volgnümmer binnen de stråte. Under huusnümmer süllen lüde de heyle nümmeranduding of et tweyde deyl dervan verstån können. Dårby süllen lüde ansluten können by wat by de döören steyt anegeaven. See ouk [[Huusnümmer#Afwykende adresseringen|afwykende adresseringen]].
+
+Elk verblyfsobjekt, ligplaatse en standplaatse hevt (of krygt) en adres.
+Wat der oaver de afsunderlyke 'objekten' as wöänplaatsen en panden mot wörden vastelegd, steyt in den Catalogus BAG.
+
+== Uutvoring ==
+Et [[Kadaster]] beheyrt de ''Landelijke Voorziening'' vöär de BAG (LV BAG).<ref>http://www.kadaster.nl/BAG</ref> De gemeynden leaveret hyr höäre gegeavens an, soudat de gegeavens van dåruut verstrekked können wörden an gebrukers. Gegeavens wordet in [[XML]]-vorm aneleaverd en verstrekked in souwal XML-vorm as [[Geography Markup Language|GML]]-vorm. Dårnåst is et vöär ydereyne möägelik um via de ''BAG Viewer'' de BAG too rådplegen.
+
+==Eksterne links==
+*[https://bagviewer.kadaster.nl/ BAG viewer]
+*[http://wetten.overheid.nl/BWBR0023466 Wet BAG up Wetten.nl]
+*[https://www.geobasisregistraties.nl/basisregistraties/documenten/publicatie/2018/03/12/catalogus-2018 Catalogus BAG]
+
+{{appendix|alles|
+*[https://web.archive.org/web/20090726073421/http://bag.vrom.nl/ bag.vrom.nl/ VROM]
+----
+{{references}}
+}}
+
+[[Kategorie:Basisregistratie|Adressen en Gebouwen]]
+[[Kategorie:Kadaster in Neaderland]]
+[[Kategorie:Generieke Digitale Infrastructuur]]
