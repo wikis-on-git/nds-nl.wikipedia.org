@@ -141,12 +141,12 @@ De [[Provinzjoale Stoaten]] binnen veur t lèst kozen in 2019.
 {| BORDER="0"
 |-
 |
-{| class="wikitable" style="float:left; margin-right:2em;"
+{| class="wikitable sortable" style="float:left; margin-right:2em;"
 !colspan="11"| Uitslag Statenverkiezingen 2003, 2007, 2011, 2015 en 2019
 |-
-| valign=top rowspan=2 | '''Partei''' || colspan=2 align=center | '''2003''' || colspan=2 align=center | '''2007'''|| colspan=2 align=center | '''2011'''|| colspan=2 align=center | '''2015''' || colspan=2 align=center | '''2019'''
+! valign=top rowspan=2 | '''Partei''' || colspan=2 align=center | '''2003''' || colspan=2 align=center | '''2007'''|| colspan=2 align=center | '''2011'''|| colspan=2 align=center | '''2015''' || colspan=2 align=center | '''2019'''
 |-
-| '''stemmen in %'''|| '''zetels''' || '''stemmen in %'''|| '''zetels'''|| '''stemmen in %'''|| '''zetels'''|| '''stemmen in %'''|| '''zetels''' || '''stemmen in %'''|| '''zetels'''
+! '''stemmen in %'''|| '''zetels''' || '''stemmen in %'''|| '''zetels'''|| '''stemmen in %'''|| '''zetels'''|| '''stemmen in %'''|| '''zetels''' || '''stemmen in %'''|| '''zetels'''
 |-
 | [[GroenLinks]] 
 | align=right | 8,4 || align=right | 5
@@ -246,12 +246,12 @@ De [[Provinzjoale Stoaten]] binnen veur t lèst kozen in 2019.
 | align=right | - || align=right | -
 | align=right |  || align=right | 
 |-
-| Opkomst 
-| align=right | ''55,5'' || align=right | ''55''
-| align=right | ''51,0'' || align=right | ''43''
-| align=right | ''58,2'' || align=right | ''43''
-| align=right | ''53,0'' || align=right | ''43''
-| align=right | ''56,1'' || align=right | ''43''
+! Opkomst 
+! align=right | ''55,5'' || align=right | ''55''
+! align=right | ''51,0'' || align=right | ''43''
+! align=right | ''58,2'' || align=right | ''43''
+! align=right | ''53,0'' || align=right | ''43''
+! align=right | ''56,1'' || align=right | ''43''
 |-
 |}
 | width="50" |
