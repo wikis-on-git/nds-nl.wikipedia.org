@@ -25,7 +25,7 @@
 
 Amsterdam et zeen naam te danken an de anlegging van n dam in de [[13e eeuw|13e ieuw]] an de Amstel (''Amsteldam''). Roend [[1300]] krieg et [[stadsrechten]], in gruuide in de [[Gouwen Ieuw]] eut tot ien van de belangrikste angelssteden ter wärreld. Bevolkingsgruui leidde vanof et eande van de [[16e eeuw|16e ieuw]] tot stadseutbreidingen, waoronger de [[grachtengordel]], die op de [[UNESCO]]-[[Wärreldörfgoedliest]] stot in tot dé bezienswaardigeden van de stad beoort. Angere attraksies binnen museums, zo as et [[Rieksmuseum Amsterdam|Riksmuseum]], et [[Stedelik Museum (Amsterdam)|Stedelik Museum]] in et [[Van Gogh Museum]], et [[Anne Frank Eus]], [[de Wallen]] in de [[dreugkafee|droogkafees]]. Amsterdam et twie [[universiteit]]en in et de mieste nasionaoliteiten ter wärreld.<ref>[http://www.trouw.nl/nieuws/nederland/article1670842.ece Amsterdam stad met meeste nationaliteiten (177) ter wereld], Trouw, 22 augustus 2007</ref><ref>[http://amsterdam.nl/nieuws/@340049/inwoneraantal/ Inwoneraantal Amsterdam blijft groeien stad telt 178 nationaliteiten; één meer dan in 2009], Gemeente Amsterdam, 29 juni 2010</ref>
 
-Eand maart 2022 ad de gemiente Amsterdam 905.000 inwoeners. Op 1 december 2012 aolde de gemiente vor et eerst sinds de jaoren zuventig et inwoenerantal van 800.000. De [[Metropoolregio Amsterdam]], waortoe onger angere [[Almere]], [[Et Gooi]], [[Haarlem|Aarlem]], [[Zaanstad]] in [[Purmerend]] beoren, et ongeveer 2,4 miljoen inwoners. Amsterdam is värder ok ien van de steden in de [[Raandstad (gebeed)|Raandstad]]. De stad zelf is ongerverdield in verskillende [[Stad (woonstee)|stadsdielen]] die wier ongerverdield binnen in buurten in wikken. 
+Eand meert 2022 ad de gemiente Amsterdam 905.000 inwoeners. Op 1 december 2012 aolde de gemiente vor et eerst sinds de jaoren zuventig et inwoenerantal van 800.000. De [[Metropoolregio Amsterdam]], waortoe onger angere [[Almere]], [[Et Gooi]], [[Haarlem|Aarlem]], [[Zaanstad]] in [[Purmerend]] beoren, et ongeveer 2,4 miljoen inwoners. Amsterdam is värder ok ien van de steden in de [[Raandstad (gebeed)|Raandstad]]. De stad zelf is ongerverdield in verskillende [[Stad (woonstee)|stadsdielen]] die wier ongerverdield binnen in buurten in wikken. 
 
 == Zustersteden ==
 Amsterdam et [[stedenbaand]]en mit de volgende steden:
@@ -69,7 +69,7 @@ Colors =
 BackgroundColors = canvas:canvas
 
 DateFormat = yyyy
-Period = from:0 till:900
+Period = from:0 till:905
 TimeAxis = orientation:vertical
 ScaleMajor = unit:year increment:100 start:0 gridcolor:grid1
 
@@ -99,6 +99,7 @@ plotData=
  bar:2011 from:start till:780 text:780.152
  bar:2014 from:start till:822 text:822.000
  bar:2017 from:start till:855 text:855.000
+ bar:2022 from:start till:905 text:905.000
 
 TextData =
  pos:(50,200) fontsize:M textcolor:text text:Ontwikkeling van et antal inwoeners van Amsterdam
